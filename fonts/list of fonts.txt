@@ -1,0 +1,15 @@
+﻿Burmese = Padauk, Noto Sans Myanmar
+
+Chinese (Simplified) = Baloo 2, ZCOOL Kuaile
+
+English = Poppins, Readex Pro
+
+Japanese = Kosugi Maru, M Plus 1p
+
+Khmer = Nokora, Katumruy
+
+Korean = Poor Story, Gothic A1
+
+Russia = 18VAG Rounded M Normal, 18VAG Rounded M Bold
+
+Vietnamese = Be Vietnam Pro, Josefin Sans

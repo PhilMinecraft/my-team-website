@@ -1,0 +1,64 @@
+.body .content .pvc-title {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+
+
+.body .content .date {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+
+
+.body .content .title {
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+}
+
+
+
+.body .content .subtitle {
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    margin-right: 30px;
+}
+
+
+
+.body .content .caption {
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    margin-right: 30px;
+}
+
+
+
+.body .content .paragraph {
+    text-indent: 20px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    margin-right: 30px;
+}
+
+
+
+.body .content .lists {
+    margin-left: 30px;
+    margin-bottom: 10px;
+    margin-right: 30px;
+    list-style-type: disc;
+}
+
+
+
+.body .content .lists ul li {
+    margin-left: 30px;
+    margin-bottom: 10px;
+    margin-right: 30px;
+}

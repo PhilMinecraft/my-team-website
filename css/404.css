@@ -1,0 +1,14 @@
+.body .content {
+    display: flex;
+    height: 60vh;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.body .content h1 {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
