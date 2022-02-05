@@ -141,6 +141,13 @@
 
 
 
+.body .footer .year h5 {
+    height: 16px;
+    width: 100px;
+}
+
+
+
 .body .footer .year h5::after {
     content: "© 2020 - 2022";
 }
