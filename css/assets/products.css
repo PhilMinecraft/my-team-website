@@ -134,13 +134,13 @@
   transition-duration: .2s ease-out;
 }
 .body .open-products .close-products .close-products-close-bounce .close-products-close:hover {
-  background-color: #00ffba43;
+  background-color: #ffffff43;
   transition-duration: .1s ease-out;
 }
 .body .open-products .close-products .close-products-close-bounce .close-products-close:active {
   padding: 18px 18px 18px 18px;
   margin-left: 2px;
-  background-color: #00ffba33;
+  background-color: #ffffff33;
   transition-duration: .1s ease-out;
 }
 .body .open-products .close-products .close-products-close-bounce .close-products-close .close {
@@ -175,11 +175,11 @@
   transition-duration: .2s ease-out;
 }
 .body .open-products .products-overlay a .selection:hover {
-  background-color: #ffffff43;
+  background-color: #00ffba43;
   transition-duration: .1s ease-out;
 }
 .body .open-products .products-overlay a .selection:active {
-  background-color: #ffffff33;
+  background-color: #00ffba33;
   transition-duration: .1s ease-out;
 }
 
