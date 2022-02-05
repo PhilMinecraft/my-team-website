@@ -1,7 +1,7 @@
 ﻿changes to website:
 
 - change **underscores** `_` redirect to **dash** `-` for better SEO
-- add privacy policy page
+- Privacy Policy page has been added
 - fixed internal codes
 - animation clicks have been changed (now, most of elements, it syncronized when clicking it)
 - fix the social media icons animating at the wrong intended animation
@@ -13,5 +13,5 @@
 - ul and li are now have the same style as h tags and p tags except overflow property style
 - the color change when you click on the language tab, same as when you selected any language
 - the language container now changed its *height* size
-- the website when you sent a link without a language code and country code after the domain, instead will redirect you to the English version of the site, now it'll be on the Filipino version.
-- 
+- the website when you sent a link without a language code and country code after the domain, instead will redirect you to the English version of the site, now it'll be on the Filipino version. (We committed to show to the global that RareFrostbites is Filipino)
+- the background color change when hovering to the RFB Products
