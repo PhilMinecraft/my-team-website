@@ -374,6 +374,6 @@
     .body .footer .pricon {
         width: 393px;
         justify-content: center;
-        flex-direction: column;
+        flex-direction: row;
     }
 }
