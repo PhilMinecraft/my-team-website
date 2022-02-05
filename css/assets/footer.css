@@ -326,17 +326,6 @@
 
 
 
-@media only screen and (max-width: 800px) {
-    .body .footer .pricon {
-        flex-direction: row;
-    }
-}
-
-
-
-
-
-
 @media only screen and (min-width: 800px) {
     .body .footer .social_media {
         float: left;
@@ -354,6 +343,7 @@
         margin-top: 200px;
         width: 198px;
         justify-content: flex-end;
+        flex-direction: row;
     }
 
 
@@ -380,20 +370,10 @@
 
 
 
-@media only screen and (max-width: 999px) {
-    .body .footer .pricon {
-        flex-direction: column;
-    }
-}
-
-
-
-
-
-
 @media only screen and (min-width: 1000px) {
     .body .footer .pricon {
         width: 393px;
         justify-content: center;
+        flex-direction: column;
     }
 }
