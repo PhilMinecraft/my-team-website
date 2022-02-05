@@ -211,6 +211,19 @@
 
 
 
+.body .footer .language .selection::-webkit-scrollbar {
+    background-color: #010018;
+}
+
+
+
+.body .footer .language .selection::-webkit-scrollbar-track {
+    background-color: #010018;
+    border-radius: 10px;
+}
+
+
+
 .body .footer .language .selection .select {
     display: flex;
     height: 30px;
