@@ -102,7 +102,6 @@
     margin-bottom: 20px;
     display: flex;
     align-items: center;
-    flex-direction: row;
 }
 
 
@@ -319,6 +318,17 @@
 
     .body .footer .year {
         margin-top: 150px;
+    }
+}
+
+
+
+
+
+
+@media only screen and (max-width: 800px) {
+    .body .footer .pricon {
+        flex-direction: row;
     }
 }
 
