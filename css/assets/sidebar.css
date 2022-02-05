@@ -4,7 +4,6 @@
   width: 70px;
   height: 70px;
   z-index: 3;
-  top: 15px;
   display: flex;
   align-items: center;
 }
