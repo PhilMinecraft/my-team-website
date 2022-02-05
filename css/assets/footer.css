@@ -343,7 +343,6 @@
         margin-top: 200px;
         width: 198px;
         justify-content: flex-end;
-        flex-direction: column;
     }
 
 
@@ -362,6 +361,17 @@
 
     .body .footer .language .current {
         right: 0px;
+    }
+}
+
+
+
+
+
+
+@media only screen and (min-width: 999px) {
+    .body .footer .pricon {
+        flex-direction: column;
     }
 }
 
