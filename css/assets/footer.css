@@ -160,7 +160,7 @@
 .body .footer .language .current {
     position: relative;
     display: flex;
-    z-index: 6;
+    z-index: 3;
     float: right;
     margin-right: 30px;
     padding: 5px;
