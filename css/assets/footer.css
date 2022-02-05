@@ -97,8 +97,9 @@
 
 
 .body .footer .pricon {
+    position: relative;
     float: right;
-    margin-right: 20px;
+    margin-bottom: 20px;
     display: flex;
     align-items: center;
 }
@@ -150,7 +151,6 @@
 
 
 .body .footer .language .current {
-    position: relative;
     display: flex;
     z-index: 6;
     float: right;
@@ -329,7 +329,7 @@
 @media only screen and (min-width: 800px) {
     .body .footer .social_media {
         float: left;
-        margin-left: 120px;
+        margin-left: 150px;
         height: auto;
         text-align: center;
     }
@@ -341,6 +341,9 @@
 
     .body .footer .pricon {
         margin-top: 200px;
+        width: 198px;
+        justify-content: flex-end;
+        flex-direction: column;
     }
 
 
@@ -350,5 +353,25 @@
 
     .body .footer .year {
         margin-top: 300px;
+    }
+
+
+
+
+
+
+    .body .footer .language .current {
+        right: 0px;
+    }
+}
+
+
+
+
+
+
+@media only screen and (min-width: 1000px) {
+    .body .footer .pricon {
+        width: 393px;
     }
 }

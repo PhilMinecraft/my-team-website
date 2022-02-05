@@ -114,7 +114,7 @@
 
 
 .body .header_shadow .desktop-sidebar-area {
-  width: 700px;
+  width: 535px;
   display: flex;
   margin-left: 10px;
   overflow-x: scroll;
@@ -263,7 +263,7 @@
 
 @media only screen and (min-width: 1336px) {
   .body .header .desktop-sidebar-area {
-    width: 1040px;
+    width: 940px;
   }
 
 
