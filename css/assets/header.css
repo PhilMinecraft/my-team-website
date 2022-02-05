@@ -1,6 +1,5 @@
 .body .header {
-  position: -webkit-sticky;
-  position: sticky;
+  position: fixed;
   top: 0;
   z-index: 2;
   background-color: #010018;
@@ -45,6 +44,7 @@
 .body .header_shadow .mobile-logo {
   position: fixed;
   z-index: 2;
+  top: 26px;
   width: 100%;
   display: flex;
   justify-content: center;
