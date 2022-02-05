@@ -13,7 +13,7 @@
   width: auto;
   height: auto;
   cursor: pointer;
-  transition-duration: .2s;
+  transition-duration: .2s ease-out;
 }
 .body .header .mobile-sidebar_button-open-bounce:hover .mobile-sidebar_button-open:hover {
   background-color: #ffffff43;
@@ -57,7 +57,7 @@
   padding: 20px 20px 20px 20px;
   width: auto;
   height: auto;
-  transition-duration: .2s;
+  transition-duration: .2s ease-out;
 }
 .body .header_shadow .mobile-sidebar_button-open-bounce:hover .mobile-sidebar_button-open:hover {
   background-color: #ffffff43;
@@ -169,7 +169,7 @@
   width: auto;
   height: auto;
   cursor: pointer;
-  transition-duration: .3s;
+  transition-duration: .3s ease-out;
 }
 .body .mobile-sidebar .mobile-sidebar-area .mobile-sidebar_button-close-bounce:hover .mobile-sidebar_button-close:hover {
   background-color: #ffffff43;
