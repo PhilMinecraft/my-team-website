@@ -343,7 +343,7 @@
         margin-top: 200px;
         width: 198px;
         justify-content: flex-end;
-        flex-direction: row;
+        flex-direction: column;
     }
 
 
