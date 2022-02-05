@@ -1,7 +1,6 @@
 .body .mobile-products {
   position: fixed;
   z-index: 3;
-  top: 15px;
   right: 20px;
 }
 .body .mobile-products .mobile-products-open-bounce {
