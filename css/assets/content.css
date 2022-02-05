@@ -38,6 +38,7 @@ body::-webkit-scrollbar {
 
 
 .body .content {
+  top: 100px;
   height: auto;
 }
 
