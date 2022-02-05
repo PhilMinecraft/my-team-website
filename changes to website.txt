@@ -16,4 +16,4 @@
 - the website when you sent a link without a language code and country code after the domain, instead will redirect you to the English version of the site, now it'll be on the Filipino version. (We committed to show to the global that RareFrostbites is Filipino)
 - the background color change when hovering and tappin to any of the RFB Products
 - fix where the header and the sidebar button don't stick to top when overscrolled for Safari browsers
-- some minor changes to the footer
+- some minor changes to the footer and to the sidebar (desktop)

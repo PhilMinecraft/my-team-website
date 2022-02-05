@@ -373,5 +373,6 @@
 @media only screen and (min-width: 1000px) {
     .body .footer .pricon {
         width: 393px;
+        justify-content: center;
     }
 }
