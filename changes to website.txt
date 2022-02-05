@@ -14,4 +14,4 @@
 - the color change when you click on the language tab, same as when you selected any language
 - the language container now changed its *height* size
 - the website when you sent a link without a language code and country code after the domain, instead will redirect you to the English version of the site, now it'll be on the Filipino version. (We committed to show to the global that RareFrostbites is Filipino)
-- the background color change when hovering to the RFB Products
+- the background color change when hovering and tappin to any of the RFB Products
