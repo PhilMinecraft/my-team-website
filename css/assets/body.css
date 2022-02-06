@@ -56,14 +56,12 @@ a:hover {
   color: #00ccff;
 }
 a::selection {
-  border-radius: 2px;
-  background-color: #005368;
-  color: #00ccff;
+  background-color: #00ccff;
+  color: #005368;
 }
 a::-moz-selection {
-  border-radius: 2px;
-  background-color: #005368;
-  color: #00ccff;
+  background-color: #00ccff;
+  color: #005368;
 }
 h1 {
     color: white;

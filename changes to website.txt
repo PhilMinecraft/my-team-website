@@ -18,4 +18,4 @@
 - fix where the header and the sidebar button don't stick to top when overscrolled for Safari browsers
 - some minor changes fixes to the footer and to the sidebar (desktop)
 - fixed 404 pages aren't displaying correct layout or becomes unlayout when you go too far in any page
-- when selecting a text, if it includes with a green color text, it'll turn into dark-sky with a sky color background (and a little bit of rounded corners)
+- when selecting a text, if it includes with a green color text, it'll turn into dark-sky with a sky color background
