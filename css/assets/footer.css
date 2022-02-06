@@ -106,7 +106,7 @@
 
 
 
-.body .footer .pricon h5 {
+.body .footer .pricon a h5 {
     margin-right: 10px;
     margin-left: 10px;
     padding: 5px;
@@ -116,14 +116,14 @@
 
 
 
-.body .footer .pricon h5:hover {
+.body .footer .pricon a h5:hover {
     background-color: #ffffff43;
     transition-duration: .2s ease-out;
 }
 
 
 
-.body .footer .pricon h5:active {
+.body .footer .pricon a h5:active {
     background-color: #ffffff33;
     transition-duration: .2s ease-out;
 }
