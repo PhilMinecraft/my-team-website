@@ -17,3 +17,4 @@
 - the background color change when hovering and tappin to any of the RFB Products
 - fix where the header and the sidebar button don't stick to top when overscrolled for Safari browsers
 - some minor changes fixes to the footer and to the sidebar (desktop)
+- fixed 404 pages aren't displaying correct layout or becomes unlayout when you go too far in any page
