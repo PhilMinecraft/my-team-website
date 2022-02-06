@@ -55,6 +55,16 @@ a {
 a:hover {
   color: #00ccff;
 }
+a::selection {
+  border-radius: 2px;
+  background-color: #005368;
+  color: #00ccff;
+}
+a::-moz-selection {
+  border-radius: 2px;
+  background-color: #005368;
+  color: #00ccff;
+}
 h1 {
     color: white;
     font-family: 'Poppins', 'Baloo 2', 'Kosugi Maru', 'Nokora', 'Poor Story', 'Padauk', 'Be Vietnam Pro', 'VAGRoundedM';
