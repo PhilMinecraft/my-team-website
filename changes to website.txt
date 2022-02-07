@@ -3,6 +3,7 @@
 - change **underscores** `_` redirect to **dash** `-` for better SEO
 - Privacy Policy page has been added
 - fixed internal codes
+- the *Products* SVG is now renamed into *Apps*
 - animation clicks have been changed (now, most of elements, it syncronized when clicking it)
 - fix the social media icons animating at the wrong intended animation
 - add a smooth scrolling
