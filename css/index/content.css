@@ -148,6 +148,7 @@
   border-right: 2px solid #004E00;
   border-bottom: 2px solid #004E00;
   border-left: 2px solid #18BE05;
+  cursor: pointer;
 }
 .body .content .rfbstore .rfbstore_button button:active {
   background-color: #208100;
