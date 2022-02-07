@@ -1,3 +1,9 @@
+.body .content a:hover {
+    text-decoration: underline;
+}
+
+
+
 .body .content .pvc-title {
     text-align: center;
     margin-bottom: 10px;
