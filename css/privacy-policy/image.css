@@ -8,7 +8,15 @@
     margin-right: auto;
 }
 
+
+
 .body .content img {
     width: 11px;
     height: 11px;
+}
+
+
+
+.body .content a img:hover {
+    text-decoration: underline;
 }
