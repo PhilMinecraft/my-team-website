@@ -5,6 +5,7 @@
 - fixed internal codes
 - the *Products* SVG is now renamed into *Apps*
 - animation clicks have been changed (now, most of elements, it syncronized when clicking it)
+- fixed bug on the homepage, when you hover the button, it won't show up the *pointer* cursor icon
 - fix the social media icons animating at the wrong intended animation
 - add a smooth scrolling
 - added new icons and svg
