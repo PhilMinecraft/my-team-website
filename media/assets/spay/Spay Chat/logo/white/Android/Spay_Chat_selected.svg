@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24mm"
+   height="24mm"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Spay_Chat_selected.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="8"
+     inkscape:cx="42.375"
+     inkscape:cy="44.6875"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1074">
+      <path
+         id="rect2215"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
+         d="M 3.9212075,3.1770244 C 1.7488265,3.1770244 0,4.9258509 0,7.0982321 v 9.8035359 c 0,2.172381 1.7488265,3.921208 3.9212075,3.921208 H 17.645434 c 2.172382,0 3.921725,-1.748827 3.921725,-3.921208 V 7.0982321 c 0,-2.1723812 -1.749343,-3.9212077 -3.921725,-3.9212077 z m 2.4747844,7.1287636 c 0.8887375,0 1.6045532,0.636811 1.6045532,1.427303 v 2.869592 c 0,0.790492 -0.7158157,1.426787 -1.6045532,1.426787 -0.8887372,0 -1.6040364,-0.636295 -1.6040364,-1.426787 v -2.869592 c 0,-0.790492 0.7152992,-1.427303 1.6040364,-1.427303 z m 4.8942751,0 c 0.888737,0 1.604036,0.636811 1.604036,1.427303 v 2.869076 c 0,0.790492 -0.715299,1.427303 -1.604036,1.427303 -0.888737,0 -1.6045534,-0.636811 -1.6045534,-1.427303 v -2.869076 c 0,-0.790492 0.7158164,-1.427303 1.6045534,-1.427303 z" />
+      <g
+         id="g1068">
+        <circle
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+           id="path1468"
+           cx="23.109503"
+           cy="4.0745406"
+           r="0.89049637" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 23.791762,4.6399971 21.56091,7.7534905 17.875684,3.1772126 h 5.253594 z"
+           id="path3522" />
+      </g>
+    </g>
+  </g>
+</svg>

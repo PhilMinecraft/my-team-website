@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24mm"
+   height="24mm"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg828"
+   sodipodi:docname="Spay_Chat_unselected.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview830"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="8"
+     inkscape:cx="36"
+     inkscape:cy="46.9375"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs825" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1028">
+      <g
+         id="g1000">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
+           id="rect2819-9"
+           width="2.660841"
+           height="4.7465162"
+           x="3.4331553"
+           y="12.315812"
+           rx="1.3304205"
+           ry="1.1833493" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
+           id="rect2819-7"
+           width="2.660841"
+           height="4.7465162"
+           x="7.4886689"
+           y="12.315814"
+           rx="1.3304205"
+           ry="1.1833493" />
+      </g>
+      <g
+         id="g1016">
+        <g
+           id="g1004">
+          <path
+             id="path3522"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 17.923707,3.1534451 1.057536,1.3135003 h 1.328009 V 3.1534451 Z m 4.864355,0.7041605 -2.024914,2.8223415 0.855459,1.0621996 2.236836,-3.1218301 -0.001,-0.00157 -0.001,0.00157 z" />
+          <rect
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none"
+             id="rect5837"
+             width="1.3153228"
+             height="1.3153225"
+             x="20.770897"
+             y="-10.825585"
+             transform="rotate(35.611088)"
+             ry="0.65766126"
+             rx="0.65766138" />
+        </g>
+        <g
+           id="g1008">
+          <path
+             id="rect2215"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
+             d="M 3.9063025,3.1534451 C 1.739947,3.1670707 -3.4597392e-7,4.9154563 -3.4597392e-7,7.0851374 v 9.8297486 c 0,2.17819 1.75350284597392,3.931692 3.93169194597392,3.931692 H 17.692614 c 2.17819,0 3.93221,-1.753502 3.93221,-3.931692 V 7.0851374 c 0,-0.4553958 -0.08093,-0.8899001 -0.222802,-1.2953652 l -1.09277,1.5228313 v 0.4798033 c 4.6e-5,0.00723 -1e-6,0.014517 0,0.021762 v 0.00466 8.3644312 c 0,1.854618 -1.540518,3.347742 -3.453962,3.347742 H 4.7669432 c -1.9134437,0 -3.4539615,-1.493124 -3.4539615,-3.347742 V 7.8141689 c 0,-1.847374 1.5286318,-3.3361394 3.4316813,-3.3477416 0.00746,-4.54e-5 0.014806,0 0.022279,0 h 12.012699 0.07565 3.423909 V 4.124451 C 19.58844,3.5212175 18.685867,3.1534451 17.692614,3.1534451 H 3.9316916 c -0.00851,0 -0.016894,-5.25e-5 -0.025388,0 z" />
+          <rect
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none"
+             id="rect5837-7"
+             width="1.3135023"
+             height="1.3135021"
+             x="19.653408"
+             y="3.1554365"
+             ry="0.65675104"
+             rx="0.65675116" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
