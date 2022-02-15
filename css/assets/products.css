@@ -19,16 +19,22 @@
   height: auto;
   cursor: pointer;
   transition-duration: .2s ease-out;
+  -webkit-transition-duration: .2s ease-out;
+  -o-transition-duration: .2s ease-out;
 }
 .body .mobile-products .mobile-products-open-bounce .mobile-products-open:hover {
   background-color: #ffffff43;
   transition-duration: .1s ease-out;
+  -webkit-transition-duration: .1s ease-out;
+  -o-transition-duration: .1s ease-out;
 }
 .body .mobile-products .mobile-products-open-bounce .mobile-products-open:active {
   padding: 18px 18px 18px 18px;
   margin-left: 2px;
   background-color: #ffffff33;
   transition-duration: .1s ease-out;
+  -webkit-transition-duration: .1s ease-out;
+  -o-transition-duration: .1s ease-out;
 }
 .body .mobile-products .mobile-products-open-bounce .mobile-products-open .products {
   width: 20px;
@@ -43,6 +49,8 @@
   height: 18px;
   margin: 1px 1px 1px 1px;
   transition-duration: .1s ease-out;
+  -webkit-transition-duration: .1s ease-out;
+  -o-transition-duration: .1s ease-out;
 }
 
 .body .desktop-products {
@@ -66,16 +74,22 @@
   height: auto;
   cursor: pointer;
   transition-duration: .2s ease-out;
+  -webkit-transition-duration: .2s ease-out;
+  -o-transition-duration: .2s ease-out;
 }
 .body .desktop-products .desktop-products-open-bounce .desktop-products-open:hover {
   background-color: #ffffff43;
   transition-duration: .1s ease-out;
+  -webkit-transition-duration: .1s ease-out;
+  -o-transition-duration: .1s ease-out;
 }
 .body .desktop-products .desktop-products-open-bounce .desktop-products-open:active {
   padding: 18px 18px 18px 18px;
   margin-left: 2px;
   background-color: #ffffff33;
   transition-duration: .1s ease-out;
+  -webkit-transition-duration: .1s ease-out;
+  -o-transition-duration: .1s ease-out;
 }
 .body .desktop-products .desktop-products-open-bounce .desktop-products-open .products {
   width: 20px;
@@ -90,6 +104,8 @@
   height: 18px;
   margin: 1px 1px 1px 1px;
   transition-duration: .1s ease-out;
+  -webkit-transition-duration: .1s ease-out;
+  -o-transition-duration: .1s ease-out;
 }
 
 .body .open-products {
@@ -133,16 +149,22 @@
   height: auto;
   cursor: pointer;
   transition-duration: .2s ease-out;
+  -webkit-transition-duration: .2s ease-out;
+  -o-transition-duration: .2s ease-out;
 }
 .body .open-products .close-products .close-products-close-bounce .close-products-close:hover {
   background-color: #ffffff43;
   transition-duration: .1s ease-out;
+  -webkit-transition-duration: .1s ease-out;
+  -o-transition-duration: .1s ease-out;
 }
 .body .open-products .close-products .close-products-close-bounce .close-products-close:active {
   padding: 18px 18px 18px 18px;
   margin-left: 2px;
   background-color: #ffffff33;
   transition-duration: .1s ease-out;
+  -webkit-transition-duration: .1s ease-out;
+  -o-transition-duration: .1s ease-out;
 }
 .body .open-products .close-products .close-products-close-bounce .close-products-close .close {
   width: 20px;
@@ -157,6 +179,8 @@
   height: 18px;
   margin: 1px 1px 1px 1px;
   transition-duration: .1s ease-out;
+  -webkit-transition-duration: .1s ease-out;
+  -o-transition-duration: .1s ease-out;
 }
 
 .body .open-products .products-overlay {
@@ -174,14 +198,20 @@
   display: inline-block;
   vertical-align: top;
   transition-duration: .2s ease-out;
+  -webkit-transition-duration: .2s ease-out;
+  -o-transition-duration: .2s ease-out;
 }
 .body .open-products .products-overlay a .selection:hover {
   background-color: #00ffba43;
   transition-duration: .1s ease-out;
+  -webkit-transition-duration: .1s ease-out;
+  -o-transition-duration: .1s ease-out;
 }
 .body .open-products .products-overlay a .selection:active {
   background-color: #00ffba33;
   transition-duration: .1s ease-out;
+  -webkit-transition-duration: .1s ease-out;
+  -o-transition-duration: .1s ease-out;
 }
 
 .body .open-products .products-overlay a .selection .selection-img {

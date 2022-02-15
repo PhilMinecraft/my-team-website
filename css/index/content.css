@@ -239,11 +239,13 @@
 
 .body .content .products .product-icon .container-sel-bounce .container-sel {
   border-radius: 20px;
-  padding: 20px 20px 20px 20px;
+  padding: 20px;
   width: auto;
   height: auto;
   cursor: pointer;
   transition-duration: .2s ease-out;
+  -webkit-transition-duration: .2s ease-out;
+  -o-transition-duration: .2s ease-out;
 }
 
 
@@ -251,14 +253,18 @@
 .body .content .products .product-icon .container-sel-bounce .container-sel:hover {
   background-color: #ffffff43;
   transition-duration: .1s ease-out;
+  -webkit-transition-duration: .1s ease-out;
+  -o-transition-duration: .1s ease-out;
 }
 
 
 
 .body .content .products .product-icon .container-sel-bounce .container-sel:active {
-  padding: 18px 18px 18px 18px;
+  padding: 18px;
   background-color: #ffffff33;
   transition-duration: .1s ease-out;
+  -webkit-transition-duration: .1s ease-out;
+  -o-transition-duration: .1s ease-out;
 }
 
 
@@ -282,6 +288,8 @@
   height: 185px;
   margin: 1px 1px 1px 1px;
   transition-duration: .1s ease-out;
+  -webkit-transition-duration: .1s ease-out;
+  -o-transition-duration: .1s ease-out;
 }
 
 
