@@ -113,6 +113,7 @@
     transition-duration: .2s ease-out;
     -webkit-transition-duration: .2s ease-out;
     -o-transition-duration: .2s ease-out;
+    cursor: pointer;
 }
 .body .content .email-preview .email-container .email-logo-click-bounce:hover {
     transition-duration: .2s ease-out;
@@ -131,7 +132,6 @@
 .body .content .email-preview .email-container .email-logo-click-bounce .email-logo-click {
     width: auto;
     height: auto;
-    cursor: pointer;
 }
 .body .content .email-preview .email-container .email-logo-click-bounce .email-logo-click .email-logo {
     width: 150px;
