@@ -1,1 +1,5 @@
 ﻿- Contact page is now available
+- fix the white line on the footer won't show up on Safari browser
+- fix where some parts of the page still appear the Twitter :Twitter: icon on the footer
+- fixed that some translations are forgotten
+- on some parts of the website like the product name couldn't be now translated by the browser
