@@ -8,6 +8,7 @@
 
 
 .body .content .email-container {
+    margin-bottom: 50px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -32,20 +33,20 @@
 .body .content .email-container .email-logo-click-bounce.gmail {
     border: 5px solid #c51f1c;
     border-radius: 50px;
-    background-color: #EB4334A3;
+    background-color: #c73b2ea3;
 }
 .body .content .email-container .email-logo-click-bounce.gmail:hover {
     border: 5px solid #c51f1c;
-    background-color: #be3529a3;
+    background-color: #a32e23a3;
 }
 .body .content .email-container .email-logo-click-bounce.outlook {
-    border: 5px solid #0164B8;
+    border: 5px solid #0164b8;
     border-radius: 50px;
-    background-color: #1682D8A3;
+    background-color: #136eb8a3;
 }
 .body .content .email-container .email-logo-click-bounce.outlook:hover {
-    border: 5px solid #0164B8;
-    background-color: #115e9ea3;
+    border: 5px solid #0164b8;
+    background-color: #0f548da3;
 }
 .body .content .email-container .email-logo-click-bounce .email-logo-click {
     width: auto;
@@ -79,6 +80,86 @@
 
 
 
+.body .content .email-preview {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.body .content .email-preview hr {
+    width: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 80px;
+}
+.body .content .email-preview h1 {
+    text-align: center;
+    margin-bottom: 90px;
+}
+.body .content .email-preview .email-container {
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    vertical-align: top;
+}
+.body .content .email-preview .email-container .email-logo-click-bounce {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+    transition-duration: .2s ease-out;
+    -webkit-transition-duration: .2s ease-out;
+    -o-transition-duration: .2s ease-out;
+}
+.body .content .email-preview .email-container .email-logo-click-bounce:hover {
+    transition-duration: .2s ease-out;
+    -webkit-transition-duration: .2s ease-out;
+    -o-transition-duration: .2s ease-out;
+}
+.body .content .email-preview .email-container .email-logo-click-bounce.petal_mail {
+    border: 5px solid #F1453B;
+    border-radius: 50px;
+    background-color: #f1453ba3;
+}
+.body .content .email-preview .email-container .email-logo-click-bounce.petal_mail:hover {
+    border: 5px solid #F1453B;
+    background-color: #b8352ea3;
+}
+.body .content .email-preview .email-container .email-logo-click-bounce .email-logo-click {
+    width: auto;
+    height: auto;
+    cursor: pointer;
+}
+.body .content .email-preview .email-container .email-logo-click-bounce .email-logo-click .email-logo {
+    width: 150px;
+    height: 187px;
+}
+.body .content .email-preview .email-container .email-logo-click-bounce .email-logo-click .email-logo .selection {
+    width: 150px;
+    height: 187px;
+    display: block;
+}
+.body .content .email-preview .email-container .email-logo-click-bounce .email-logo-click .email-logo .selection img {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.body .content .email-preview .email-container .email-logo-click-bounce .email-logo-click .email-logo .selection h2 {
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
 @media only screen and (max-width: 650px) {
     .body .content .email-container .email-logo-click-bounce {
         margin-bottom: 50px;
@@ -95,7 +176,7 @@
         display: flex;
         flex-direction: row;
         justify-content: space-evenly;
-        margin-bottom: 50px;
+        margin-bottom: 100px;
     }
 }
 
