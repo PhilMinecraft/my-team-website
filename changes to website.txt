@@ -1,6 +1,3 @@
-﻿- Contact page is now available
-- fix the white line on the footer won't show up on Safari browser
-- fix where some parts of the page still appear the Twitter :Twitter: icon on the footer
-- fixed that some translations are forgotten
-- fixed on the Privacy Policy page where if you press the RareFrostbites Team's Outlook email, it'll give you the RareFrostbites Team's Gmail email version of it
-- on some parts of the website like the product name couldn't be now translated by the browser
+﻿HOTFIX UPDATE
+- fixed contact file path (for media files), it's now on the asset file path
+- fixed some pages don't contain a proper logo and thumbnail of the page
