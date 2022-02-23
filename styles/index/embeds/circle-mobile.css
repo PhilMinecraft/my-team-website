@@ -1,0 +1,39 @@
+@keyframes inner {
+  0% {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 160px;
+    width: 0px;
+    height: 0px;
+    background-color: #00ffba;
+  }
+  100% {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    width: 320px;
+    height: 320px;
+    background-color: #00ffbb00;
+  }
+}
+
+
+
+body {
+  overflow: hidden;
+}
+
+
+
+.circle {
+  width: 320px;
+  height: 320px;
+}
+
+
+
+.circle .inner {
+  border-radius: 500px;
+  display: block;
+  animation: inner 2s infinite; 
+}

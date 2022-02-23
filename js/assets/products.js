@@ -1,8 +1,8 @@
-function openProducts(){
-  document.getElementById('open-products').style.display = 'block';
-  document.getElementById('products').style.display = 'block';
+function openProducts() {
+  $("#open-products").show();
+  $("#products").show();
 }
-function closeProducts(){
-  document.getElementById('open-products').style.display = 'none';
-  document.getElementById('products').style.display = 'none';
+function closeProducts() {
+  $("#open-products").hide();
+  $("#products").hide();
 }

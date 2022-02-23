@@ -1,4 +1,6 @@
-window.onscroll = function() {headerScroll()};
+window.onscroll = function () {
+  headerScroll();
+};
 
 function headerScroll() {
   if (document.body.scrollTop > 1 || document.documentElement.scrollTop > 1) {

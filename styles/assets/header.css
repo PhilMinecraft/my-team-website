@@ -1,0 +1,71 @@
+.body .header {
+  position: fixed;
+  top: 0;
+  z-index: 2;
+  background-color: #010018;
+  height: 100px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.body .header_shadow {
+  position: -webkit-sticky;
+  position: sticky;
+  box-shadow: 1px 5px 5px #00000052;
+  top: 0;
+  z-index: 2;
+  background-color: #010018;
+  height: 100px;
+  width: 100%;
+  margin-bottom: -100px;
+  display: flex;
+  align-items: center;
+}
+
+.body .header .mobile-logo {
+  position: fixed;
+  z-index: 2;
+  top: 26px;
+  left: 0px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.body .header .mobile-logo img {
+  width: 35px;
+}
+
+.body .header_shadow .mobile-logo {
+  position: fixed;
+  z-index: 2;
+  top: 26px;
+  left: 0px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.body .header_shadow .mobile-logo img {
+  width: 35px;
+}
+
+@media only screen and (max-width: 799px) {
+  .body .header .desktop-logo {
+    display: none;
+  }
+
+  .body .header_shadow .desktop-logo {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 800px) {
+  .body .header .mobile-logo {
+    display: none;
+  }
+
+  .body .header_shadow .mobile-logo {
+    display: none;
+  }
+}

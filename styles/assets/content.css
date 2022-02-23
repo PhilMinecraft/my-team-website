@@ -1,0 +1,68 @@
+body::-webkit-scrollbar {
+  background-color: #010018;
+}
+body::-webkit-scrollbar-track {
+  background-color: #010018;
+}
+
+.body {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.body .header {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.body .header_shadow {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.body .content {
+  margin-top: 100px;
+  height: auto;
+}
+
+.body .products-untap {
+  display: none;
+  width: 200%;
+  height: 200%;
+  margin: -50%;
+  z-index: 4;
+  position: fixed;
+}
+
+.body .sidebar-untap {
+  display: none;
+  width: 200%;
+  height: 200%;
+  margin: -50%;
+  z-index: 4;
+  background-color: #00000054;
+  position: fixed;
+}
+
+.body .language-untap {
+  display: none;
+  width: 200%;
+  height: 200%;
+  margin: -50%;
+  z-index: 3;
+  position: fixed;
+}
+
+@media only screen and (max-width: 799px) {
+}
+
+@media only screen and (min-width: 800px) {
+  .body .black {
+    width: 0px;
+    height: 0px;
+    background-color: #00000000;
+  }
+}
