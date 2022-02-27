@@ -1,6 +1,8 @@
 .body .content {
+  margin-top: 0px;
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 70vh;
+  min-height: 320px;
+  height: 65vh;
 }

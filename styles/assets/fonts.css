@@ -1,5 +1,5 @@
 @font-face {
-  src: url("../../fonts/Minecraft-Regular.ttf") format('truetype');
+  src: url("/fonts/Minecraft-Regular.ttf") format('truetype');
   font-family: Mojangles;
   font-display: fallback;
 }
@@ -7,7 +7,7 @@
 
 
 @font-face {
-  src: url("../../fonts/Unifont.ttf") format('truetype');
+  src: url("/fonts/Unifont.ttf") format('truetype');
   font-family: Unicode;
   font-display: fallback;
 }
@@ -19,7 +19,7 @@
 
 
 @font-face {
-  src: url("../../fonts/ru_ru/18VAG Rounded M Normal.ttf") format('truetype');
+  src: url("/fonts/ru_ru/18VAG Rounded M Normal.ttf") format('truetype');
   font-family: VAGRoundedM;
   font-display: fallback;
 }
@@ -27,7 +27,7 @@
 
 
 @font-face {
-  src: url("../../fonts/ru_ru/18VAG Rounded M Bold.ttf") format('truetype');
+  src: url("/fonts/ru_ru/18VAG Rounded M Bold.ttf") format('truetype');
   font-family: VAGRoundedB;
   font-display: fallback;
 }
