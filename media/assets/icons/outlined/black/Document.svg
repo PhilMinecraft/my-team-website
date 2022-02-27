@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24mm"
+   height="24mm"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Document.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title18266">Document</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="6"
+     inkscape:cx="42.833333"
+     inkscape:cy="45.583333"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1041">
+      <path
+         id="rect5131"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 5.400187,0 c -1.662,0 -3.0003335,1.3378167 -3.0003335,2.999817 v 17.999935 c 0,1.661999 1.3383335,3.000333 3.0003335,3.000333 h 13.199711 c 1.662,0 3.000334,-1.338334 3.000334,-3.000333 V 7.2000773 h -5.339726 v 9.9601157 c 0,0.831 -0.669167,1.500167 -1.500167,1.500167 H 9.2381958 c -0.8310002,0 -1.5001669,-0.669167 -1.5001669,-1.500167 V 6.8393756 c 0,-0.8309999 0.6691667,-1.5001668 1.5001669,-1.5001666 H 14.400154 V 0 Z" />
+      <g
+         id="g1030">
+        <g
+           id="g1021">
+          <path
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 13.161913,4.8392095 v 2.0296219 l 1.547266,1.5311681 h 2.051326 V 6.8688314 L 14.709179,4.8392095 Z"
+             id="path13859" />
+          <rect
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect12602"
+             width="3.098593"
+             height="3.0607901"
+             x="13.161914"
+             y="5.3392096"
+             rx="1"
+             ry="1" />
+          <rect
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect12756"
+             width="0.5"
+             height="0.5"
+             x="13.161914"
+             y="4.8392096" />
+          <rect
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect12756-6"
+             width="0.5"
+             height="0.5"
+             x="16.260506"
+             y="7.8999996" />
+          <path
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 13.161913,4.8392095 v 2.0296219 l 1.547266,1.5311681 h 2.051326 z"
+             id="path13021" />
+        </g>
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 14.4,0 v 7.1999998 h 7.199998 L 14.4,0"
+           id="path1917-4" />
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata18264">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Document</dc:title>
+        <dc:date>2/25/2022</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>PhilMinecraft</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>RareFrostbites</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Document</rdf:li>
+            <rdf:li>Page</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

@@ -1,0 +1,117 @@
+.body .footer .social_media {
+  width: 100%;
+  height: auto;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.body .footer .social_media .image-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.body .footer .social_media .image-logo .image-bounce {
+  display: block;
+  width: 60px;
+  height: 60px;
+}
+
+.body .footer .social_media .image-logo .image-bounce .image {
+  display: block;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition-duration: 0.2s ease-out;
+  z-index: 2;
+}
+
+.body .footer .social_media .image-logo .image-bounce .image:hover {
+  transition-duration: 0.2s ease-out;
+}
+
+.body .footer .social_media .image-logo .image-bounce .image:active {
+  padding: 2px 2px 2px 2px;
+  transition-duration: 0.2s ease-out;
+}
+
+.body .footer .social_media .image-logo .image-bounce .image a {
+  width: 60px;
+  height: 60px;
+}
+
+.body .footer .social_media .image-logo .image-bounce .image a img {
+  display: block;
+  border-radius: 20px;
+  width: 60px;
+  height: 60px;
+}
+
+.body
+  .footer
+  .social_media
+  .image-logo
+  .image-bounce:active
+  .image:active
+  a
+  img {
+  width: 56px;
+  height: 56px;
+  border-radius: 18px;
+}
+
+@media only screen and (max-width: 600px) {
+  .body .footer .social_media .image-logo .image-bounce {
+    width: 40px;
+    height: 40px;
+    margin: 2px;
+  }
+
+  .body .footer .social_media .image-logo .image-bounce .image {
+    width: 40px;
+    height: 40px;
+  }
+
+  .body .footer .social_media .image-logo .image-bounce .image a {
+    width: 40px;
+    height: 40px;
+  }
+
+  .body .footer .social_media .image-logo .image-bounce .image a img {
+    border-radius: 10px;
+    width: 40px;
+    height: 40px;
+  }
+
+  .body
+    .footer
+    .social_media
+    .image-logo
+    .image-bounce:active
+    .image:active
+    a
+    img {
+    border-radius: 10px;
+    width: 36px;
+    height: 36px;
+  }
+}
+
+@media only screen and (min-width: 601px) {
+  .body .footer .social_media .image-logo .image-bounce {
+    margin: 10px;
+  }
+}
+
+@media only screen and (max-width: 799px) {
+  .body .footer .social_media {
+    margin-bottom: 100px;
+  }
+}
+
+@media only screen and (min-width: 800px) {
+  .body .footer .social_media {
+    height: auto;
+  }
+}
