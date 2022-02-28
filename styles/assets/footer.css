@@ -287,3 +287,25 @@
     flex-direction: row;
   }
 }
+
+@media only screen and (min-width: 1840px) {
+  .body .footer {
+    padding-right: 100px;
+    padding-left: 100px;
+  }
+  .body .footer hr {
+    width: 200%;
+    margin-left: -50%;
+  }
+}
+
+@media only screen and (min-width: 2000px) {
+  .body .footer {
+    padding-right: 10%;
+    padding-left: 10%;
+  }
+  .body .footer hr {
+    width: 250%;
+    margin-left: -60%;
+  }
+}

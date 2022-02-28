@@ -1,2 +1,3 @@
-﻿- the 2nd apply page is now here
-- fixed some thumbnails in the page aren't displaying in some platforms
+﻿- minor UI tweaks on header and footer for VERY large screens
+- fixed wrong css linking on 2nd Apply page
+- minor tweaks for 2nd Apply page

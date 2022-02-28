@@ -69,3 +69,17 @@
     display: none;
   }
 }
+
+@media only screen and (min-width: 1840px) {
+  .body .header {
+    padding-right: 100px;
+    padding-left: 100px;
+  }
+}
+
+@media only screen and (min-width: 2000px) {
+  .body .header {
+    padding-right: 10%;
+    padding-left: 10%;
+  }
+}
