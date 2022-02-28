@@ -1,1 +1,2 @@
 ﻿- the 2nd apply page is now here
+- fixed some thumbnails in the page aren't displaying in some platforms
