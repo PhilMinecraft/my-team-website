@@ -6,6 +6,8 @@ const languageContent = {
     "privacy-policy": "Privacy Policy",
     "contact-us": "Contact Us",
     "apply": "Apply",
+    // 404
+    "title-404": "You're in a wrong page",
     // Homepage
     "introduction": "We make Packs just for you.",
     "intro-rfbstore": "We made a Store just for you",
@@ -27,6 +29,8 @@ const languageContent = {
     "privacy-policy": "Privacy Policy",
     "contact-us": "Contact Us",
     "apply": "Apply",
+    // 404
+    "title-404": "You're in a wrong page",
     // Homepage
     "introduction": "We make Packs just for you.",
     "intro-rfbstore": "We made a Store just for you",
@@ -48,6 +52,8 @@ const languageContent = {
     "privacy-policy": "Política de Privacidad",
     "contact-us": "Contáctenos",
     "apply": "Aplicar",
+    // 404
+    "title-404": "Estás en una página equivocada",
     // Homepage
     "introduction": "Hacemos Packs solo para ti.",
     "intro-rfbstore": "Hicimos una Tienda solo para ti",
@@ -70,6 +76,8 @@ const languageContent = {
     "privacy-policy": "Privacy Policy",
     "contact-us": "I-Contact Kami",
     "apply": "Mag-Apply",
+    // 404
+    "title-404": "Nasa isang maling page ka",
     // Homepage
     "title-contact": "I-Contact Kami",
     "introduction": "Gumagawa kami ng mga Pack para lang sa'yo",
@@ -92,6 +100,8 @@ const languageContent = {
     "privacy-policy": "गोपनीयता नीति",
     "contact-us": "हमसे संपर्क करें",
     "apply": "हमसे जुड़ें",
+    // 404
+    "title-404": "आप गलत पेज पर हैं",
     // Homepage
     "introduction": "हम सिर्फ आपके लिए पैक बनाते हैं।",
     "intro-rfbstore": "हमने सिर्फ आपके लिए एक स्टोर बनाया है",
@@ -114,6 +124,8 @@ const languageContent = {
     "privacy-policy": "Privasi Pengguna",
     "contact-us": "Kontak",
     "apply": "Bergabung",
+    // 404
+    "title-404": "Anda berada di halaman yang salah",
     // Homepage
     "introduction": "Kami membuat paket hanya untuk anda.",
     "intro-rfbstore": "Kami membuat tempat Pasar hanya untuk anda",
@@ -135,6 +147,8 @@ const languageContent = {
     "privacy-policy": "プライバシーポリシー",
     "contact-us": "お問い合わせ",
     "apply": "申し込み",
+    // 404
+    "title-404": "あなたは間違ったページにいます",
     // Homepage
     "introduction": "私たちはあなたのためだけにパックを作ります。",
     "intro-rfbstore": "私たちはあなたのためだけに店を作りました",
@@ -156,6 +170,8 @@ const languageContent = {
     "privacy-policy": "គោលការណ៍​ភាព​ឯកជន",
     "contact-us": "ទាក់ទង​មក​ពួក​យើង",
     "apply": "អនុវត្ត",
+    // 404
+    "title-404": "អ្នកនៅក្នុងទំព័រខុស",
     // Homepage
     "introduction": "យើងបង្កើតកញ្ចប់សម្រាប់តែអ្នកប៉ុណ្ណោះ។",
     "intro-rfbstore": "យើងបង្កើត Store សម្រាប់តែអ្នកប៉ុណ្ណោះ។",
@@ -177,6 +193,8 @@ const languageContent = {
     "privacy-policy": "개인 정보 정책",
     "contact-us": "문의하기",
     "apply": "적용하다",
+    // 404
+    "title-404": "잘못된 페이지에 있습니다",
     // Homepage
     "introduction": "우리는 당신을 위해 팩을 만듭니다.",
     "intro-rfbstore": "당신만을 위한 스토어를 만들었습니다",
@@ -198,6 +216,8 @@ const languageContent = {
     "privacy-policy": "Dasar Privasi",
     "contact-us": "Hubungi Kami",
     "apply": "Mohon",
+    // 404
+    "title-404": "Anda berada dalam halaman yang salah",
     // Homepage
     "introduction": "Kami membuat Pek hanya untuk anda.",
     "intro-rfbstore": "Kami membuat Kedai hanya untuk anda",
@@ -219,6 +239,8 @@ const languageContent = {
     "privacy-policy": "ကိုယ်ရေးအချက်အလက်မူဝါဒ",
     "contact-us": "ကြှနျုပျတို့ကိုဆကျသှယျရနျ",
     "apply": "လျှောက်ထားပါ။",
+    // 404
+    "title-404": "သင်သည် စာမျက်နှာမှားနေပါသည်။",
     // Homepage
     "introduction": "ကျွန်ုပ်တို့သည် သင့်အတွက်သာ Packs များကို ပြုလုပ်ပါသည်။",
     "intro-rfbstore": "ကျွန်ုပ်တို့သည် သင့်အတွက်သာ ဆိုင်တစ်ခုပြုလုပ်ထားသည်။",
@@ -241,6 +263,8 @@ const languageContent = {
     "privacy-policy": "Política de Privacidade",
     "contact-us": "Contacta-Nos",
     "apply": "Aplicar",
+    // 404
+    "title-404": "Você está em uma página errada",
     // Homepage
     "introduction": "Fazemos Packs especialmente para si.",
     "intro-rfbstore": "Fizemos uma Loja só para você",
@@ -263,6 +287,8 @@ const languageContent = {
     "privacy-policy": "Политика Конфиденциальности",
     "contact-us": "Связаться с Нами",
     "apply": "Применять",
+    // 404
+    "title-404": "Вы ошиблись страницей",
     // Homepage
     "introduction": "Мы делаем пакеты специально для вас.",
     "intro-rfbstore": "Мы сделали магазин специально для вас",
@@ -285,6 +311,8 @@ const languageContent = {
     "privacy-policy": "Chính sách Bảo mật",
     "contact-us": "Liên hệ Chúng tôi",
     "apply": "Áp Dụng",
+    // 404
+    "title-404": "Bạn đang ở một trang sai",
     // Homepage
     "introduction": "Chúng tôi tạo ra các Gói chỉ dành cho bạn.",
     "intro-rfbstore": "Chúng tôi đã tạo một Cửa hàng dành riêng cho bạn",
@@ -306,6 +334,8 @@ const languageContent = {
     "privacy-policy": "隐私政策",
     "contact-us": "联系我们",
     "apply": "申请",
+    // 404
+    "title-404": "你在错误的页面",
     // Homepage
     "introduction": "我们只为您制作包。",
     "intro-rfbstore": "我们为您打造了一家商店",
@@ -326,6 +356,8 @@ const languageContent = {
     "privacy-policy": "隐私政策",
     "contact-us": "联系我们",
     "apply": "申请",
+    // 404
+    "title-404": "你在错误的页面",
     // Homepage
     "introduction": "我们只为您制作包。",
     "intro-rfbstore": "我们为您打造了一家商店",

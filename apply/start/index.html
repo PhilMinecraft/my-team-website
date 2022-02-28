@@ -1,14 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title data-title-apply>Apply</title>
+    <title>Apply</title>
 
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="RareFrostbites Team" />
-    <meta
-      property="og:url"
-      content="https://rarefrostbites.pages.dev/en-us/apply/"
-    />
+    <meta property="og:url" content="https://rarefrostbites.pages.dev/apply/start/" />
     <meta property="og:title" content="Apply on RareFrostbites Team" />
     <meta
       property="og:description"
@@ -20,10 +17,7 @@
     />
 
     <meta property="twitter:card" content="summary_large_image" />
-    <meta
-      property="twitter:url"
-      content="https://rarefrostbites.pages.dev/en-us/apply/"
-    />
+    <meta property="twitter:url" content="https://rarefrostbites.pages.dev/apply/start/" />
     <meta property="twitter:title" content="Apply on RareFrostbites Team" />
     <meta
       property="twitter:description"
@@ -35,10 +29,7 @@
     />
 
     <meta name="title" content="Apply on RareFrostbites Team" />
-    <meta
-      name="description"
-      content="Do you want to work with us? We're a fully distributed and voluntary Team, your time and desicion is on yours!"
-    />
+    <meta name="description" content="Do you want to work with us? We're a fully distributed and voluntary Team, your time and desicion is on yours!" />
     <meta name="keywords" content="Apply, RareFrostbites" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="language" content="English" />
@@ -46,11 +37,8 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <meta content="width=device-width,minimum-scale=1.0" name="viewport" />
 
-    <link
-      rel="shortcut icon"
-      href="https://rarefrostbites.pages.dev/media/assets/rfb.ico"
-    />
-    <link rel="canonical" href="https://rarefrostbites.pages.dev/apply" />
+    <link rel="shortcut icon" href="https://rarefrostbites.pages.dev/media/assets/rfb.ico" />
+    <link rel="canonical" href="https://rarefrostbites.pages.dev/apply/start" />
 
     <!--address bar color-->
     <meta name="theme-color" content="#15152A" />
@@ -64,7 +52,7 @@
     />
 
     <!--fonts-->
-    <link rel="stylesheet" href="../styles/assets/fonts.css" />
+    <link rel="stylesheet" href="/css/assets/fonts.css" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -76,15 +64,17 @@
     <!--lottie webplayer-->
     <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 
-    <!--css-->
-    <link rel="stylesheet" href="../styles/assets/body.css" />
-    <link rel="stylesheet" href="../styles/assets/content.css" />
-    <link rel="stylesheet" href="../styles/assets/footer.css" />
-    <link rel="stylesheet" href="../styles/assets/header.css" />
-    <link rel="stylesheet" href="../styles/assets/products.css" />
-    <link rel="stylesheet" href="../styles/assets/sidebar.css" />
+    <!-- css -->
+    <link rel="stylesheet" href="/styles/assets/body.css" />
+    <link rel="stylesheet" href="/styles/assets/content.css" />
+    <link rel="stylesheet" href="/styles/assets/fonts.css" />
+    <link rel="stylesheet" href="/styles/assets/footer.css" />
+    <link rel="stylesheet" href="/styles/assets/header.css" />
+    <link rel="stylesheet" href="/styles/assets/products.css" />
+    <link rel="stylesheet" href="/styles/assets/sidebar.css" />
 
-    <link rel="stylesheet" href="../styles/apply/content.css" />
+    <link rel="stylesheet" href="/styles/404/start/content.css" />
+    <link rel="stylesheet" href="/styles/404/start/fonts.css" />
 
     <!--js-->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -101,11 +91,9 @@
         "div.mobile-sidebar",
         0
       );
+      include("/components/apply/start/content.html", "", "div.content", 0);
       include("/components/assets/footer.html", "", "div.footer", 0);
-      include("/components/apply/content.html", "", "div.content", 0);
-      applyTranslation();
     </script>
-
     <script defer src="/js/assets/footer.js"></script>
     <script defer src="/js/assets/header.js"></script>
     <script defer src="/js/assets/products.js"></script>

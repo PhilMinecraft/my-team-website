@@ -1,44 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>RareFrostbites Team</title>
+    <title data-title-404>You're in a wrong page</title>
 
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="RareFrostbites Team" />
     <meta property="og:url" content="https://rarefrostbites.pages.dev/" />
-    <meta property="og:title" content="RareFrostbites" />
+    <meta property="og:title" content="You sent a wrong link!" />
     <meta
       property="og:description"
-      content="Rise and Shine your Imagination!"
+      content="Maybe there's a typo in your link?"
     />
     <meta
       property="og:image"
-      content="https://rarefrostbites.pages.dev/media/assets/home.jpg"
+      content="https://rarefrostbites.pages.dev/media/assets/404.png"
     />
 
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content="https://rarefrostbites.pages.dev/" />
-    <meta property="twitter:title" content="RareFrostbites" />
+    <meta property="twitter:title" content="You sent a wrong link!" />
     <meta
       property="twitter:description"
-      content="Rise and Shine your Imagination!"
+      content="Maybe there's a typo in your link?"
     />
     <meta
       property="twitter:image"
-      content="https://rarefrostbites.pages.dev/media/assets/home.jpg"
+      content="https://rarefrostbites.pages.dev/media/assets/404.png"
     />
 
-    <meta name="title" content="RareFrostbites" />
-    <meta name="description" content="Rise and Shine your Imagination!" />
-    <meta name="keywords" content="Homepage, RareFrostbites" />
+    <meta name="title" content="You sent a wrong link!" />
+    <meta name="description" content="Maybe there's a typo in your link?" />
+    <meta name="keywords" content="Error Page, RareFrostbites" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="language" content="English" />
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <meta content="width=device-width,minimum-scale=1.0" name="viewport" />
 
-    <link rel="shortcut icon" href="/media/assets/rfb.ico" />
-    <link rel="canonical" href="/" />
+    <link rel="shortcut icon" href="https://rarefrostbites.pages.dev/media/assets/rfb.ico" />
 
     <!--address bar color-->
     <meta name="theme-color" content="#15152A" />
@@ -52,7 +51,7 @@
     />
 
     <!--fonts-->
-    <link rel="stylesheet" href="../css/assets/fonts.css" />
+    <link rel="stylesheet" href="/css/assets/fonts.css" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -71,16 +70,20 @@
 
     <link rel="stylesheet" href="/styles/404/content.css" />
     <link rel="stylesheet" href="/styles/404/footer.css" />
+    <link rel="stylesheet" href="/styles/404/header.css" />
 
     <!--js-->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="/js/include.components.js"></script>
     <script>
       include("/components/404/footer.html", "", "div.footer", 0);
+      include("/components/404/header.html", "", "div.header", 0);
     </script>
   </head>
   <body>
     <div class="body">
+      <div class="header"></div>
+
       <div class="content">
         <img
           src="/media/assets/icons/outlined/white/No Document.svg"
