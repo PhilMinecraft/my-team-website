@@ -64,6 +64,20 @@
 
     <!--js-->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="/js/include.components.js"></script>
+
+    <script src="/store/js/language/initialize.js"></script>
+    <script src="/store/js/assets/language.js"></script>
+    <script>
+      include("/store/components/assets/header.html", "", "div.header", 0);
+      include("/store/components/index/content.html", "", "div.content", 0);
+    </script>
+    <script defer src="/store/js/assets/header.js"></script>
+    <script defer>
+      $(function () {
+        setTimeout(initializeLanguage, 500);
+      });
+    </script>
   </head>
   <body>
     <div class="body">
@@ -73,31 +87,7 @@
 
       <div class="popup-remove"></div>
 
-      <div id="header" class="header">
-        <a href="/store/">
-          <div class="mobile-logo">
-            <img src="/media/store/rfbstore.svg" alt="RFB Store logo" />
-          </div>
-        </a>
-
-        <a href="/store/">
-            <div class="desktop-logo">
-              <picture>
-                <source
-                  srcset="/media/store/rfbstore_logowithwordmark.svg"
-                  media="(min-width: 1336px)"
-                  width="182px"
-                />
-  
-                <img
-                  src="/media/store/rfbstore.svg"
-                  alt="RareFrostbites logo"
-                  width="42.462px"
-                />
-              </picture>
-            </div>
-        </a>
-      </div>
+      <div id="header" class="header"></div>
 
       <div id="mobile-sidebar-area" class="mobile-sidebar"></div>
 

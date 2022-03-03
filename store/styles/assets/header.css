@@ -1,3 +1,6 @@
+.body .content {
+  height: 1000px;
+}
 .body .header {
   position: fixed;
   top: 0;
@@ -12,12 +15,11 @@
 .body .header_shadow {
   position: -webkit-sticky;
   position: sticky;
-  box-shadow: 1px 5px 5px #005cd5ee;
   top: 0;
   z-index: 2;
   background-color: #010018;
   border-bottom: 0.5px solid #313131;
-  height: 100px;
+  height: 60px;
   width: 100%;
   margin-bottom: -100px;
   display: flex;
@@ -26,24 +28,45 @@
 
 .body .header .mobile-logo {
   position: fixed;
+  margin-right: auto;
+  margin-left: auto;
   z-index: 2;
-  top: 8px;
-  left: 0px;
+  top: 14px;
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 .body .header .mobile-logo img {
-  width: 42.462px;
+  width: 30.325px;
+}
+.body .header_shadow .mobile-logo {
+  position: fixed;
+  z-index: 2;
+  top: 14px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.body .header_shadow .mobile-logo img {
+  width: 30.325px;
 }
 
 .body .header .desktop-logo {
-  position: fixed;
+  display: block;
   z-index: 2;
-  top: 8px;
-  left: 50px;
-  width: 100%;
+  top: 14px;
+  left: 20px;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+.body .header_shadow .desktop-logo {
+  display: block;
+  z-index: 2;
+  top: 14px;
+  left: 20px;
   display: flex;
   justify-content: left;
   align-items: center;

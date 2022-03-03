@@ -41,26 +41,3 @@ function initializeLanguage() {
     }
   }
 }
-
-function privacyPolicyTranslation() {
-  var initLang = LanguageChecker();
-  try {
-    include(
-      "/components/privacy-policy/" + initLang + ".html",
-      "",
-      "div.content",
-      0
-    );
-  } catch {
-    include("/components/privacy-policy/en-us.html", "", "div.content", 0);
-  }
-}
-
-function applyTranslation() {
-  var initLang = LanguageChecker();
-  try {
-    include("/components/apply/" + initLang + ".html", "", "div.content", 0);
-  } catch {
-    include("/components/apply/en-us.html", "", "div.content", 0);
-  }
-}
