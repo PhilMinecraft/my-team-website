@@ -1,3 +1,2 @@
-﻿- minor UI tweaks on header and footer for VERY large screens
-- fixed wrong css linking on 2nd Apply page
-- minor tweaks for 2nd Apply page
+﻿- fixed where the header on the left side don't have a space or margin when scrolled
+- fixed Apply page don't layout well

@@ -8,7 +8,6 @@
   display: flex;
   align-items: center;
 }
-
 .body .header_shadow {
   position: -webkit-sticky;
   position: sticky;
@@ -75,10 +74,20 @@
     padding-right: 100px;
     padding-left: 100px;
   }
+
+  .body .header_shadow {
+    padding-right: 100px;
+    padding-left: 100px;
+  }
 }
 
 @media only screen and (min-width: 2000px) {
   .body .header {
+    padding-right: 10%;
+    padding-left: 10%;
+  }
+
+  .body .header_shadow {
     padding-right: 10%;
     padding-left: 10%;
   }
