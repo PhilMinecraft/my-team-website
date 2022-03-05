@@ -1,2 +1,1 @@
-﻿- fixed where the header on the left side don't have a space or margin when scrolled
-- fixed Apply page don't layout well
+﻿- Telegram logo is now gone on the footer. Thanks for supporting the Telegram platform
