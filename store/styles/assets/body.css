@@ -45,8 +45,7 @@ body {
   background-color: #010018;
 }
 button {
-  font-family: "Poppins", "Baloo 2", "Kosugi Maru", "Nokora", "Poor Story",
-    "Padauk", "Be Vietnam Pro", "VAGRoundedM";
+  font-family: "MC10", "Mojangles", "Unicode";
   cursor: pointer;
 }
 a {
@@ -67,8 +66,7 @@ a::-moz-selection {
 }
 h1 {
   color: white;
-  font-family: "Poppins", "Baloo 2", "Kosugi Maru", "Nokora", "Poor Story",
-    "Padauk", "Be Vietnam Pro", "VAGRoundedM";
+  font-family: "MC10", "Mojangles", "Unicode";
   font-weight: bold;
   font-size: 2rem;
   overflow: hidden;
@@ -78,8 +76,7 @@ h1 {
 }
 h2 {
   color: white;
-  font-family: "Poppins", "Baloo 2", "Kosugi Maru", "Nokora", "Poor Story",
-    "Padauk", "Be Vietnam Pro", "VAGRoundedM";
+  font-family: "MC10", "Mojangles", "Unicode";
   font-weight: bold;
   font-size: 1.5rem;
   overflow: hidden;
@@ -89,8 +86,7 @@ h2 {
 }
 h3 {
   color: white;
-  font-family: "Poppins", "Baloo 2", "Kosugi Maru", "Nokora", "Poor Story",
-    "Padauk", "Be Vietnam Pro", "VAGRoundedM";
+  font-family: "Mojangles", "Unicode";
   font-size: 1.17rem;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -99,8 +95,7 @@ h3 {
 }
 h4 {
   color: white;
-  font-family: "Readex Pro", "ZCOOL KuaiLe", "M PLUS 1p", "Kantumruy",
-    "Gothic A1", "Noto Sans Myanmar", "Josefin Sans", "VAGRoundedB";
+  font-family: "Mojangles", "Unicode";
   font-weight: lighter;
   font-size: 1rem;
   overflow: hidden;
@@ -110,8 +105,7 @@ h4 {
 }
 h5 {
   color: white;
-  font-family: "Readex Pro", "ZCOOL KuaiLe", "M PLUS 1p", "Kantumruy",
-    "Gothic A1", "Noto Sans Myanmar", "Josefin Sans", "VAGRoundedB";
+  font-family: "Mojangles", "Unicode";
   font-weight: lighter;
   font-size: 0.83rem;
   overflow: hidden;
@@ -121,8 +115,7 @@ h5 {
 }
 h6 {
   color: white;
-  font-family: "Readex Pro", "ZCOOL KuaiLe", "M PLUS 1p", "Kantumruy",
-    "Gothic A1", "Noto Sans Myanmar", "Josefin Sans", "VAGRoundedB";
+  font-family: "Mojangles", "Unicode";
   font-weight: lighter;
   font-size: 0.67rem;
   overflow: hidden;
@@ -132,8 +125,7 @@ h6 {
 }
 p {
   color: white;
-  font-family: "Readex Pro", "ZCOOL KuaiLe", "M PLUS 1p", "Kantumruy",
-    "Gothic A1", "Noto Sans Myanmar", "Josefin Sans", "VAGRoundedB";
+  font-family: "Mojangles", "Unicode";
   font-weight: lighter;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -142,8 +134,7 @@ p {
 }
 ul {
   color: white;
-  font-family: "Readex Pro", "ZCOOL KuaiLe", "M PLUS 1p", "Kantumruy",
-    "Gothic A1", "Noto Sans Myanmar", "Josefin Sans", "VAGRoundedB";
+  font-family: "Mojangles", "Unicode";
   font-weight: lighter;
   text-overflow: ellipsis;
   white-space: normal;
@@ -151,8 +142,7 @@ ul {
 }
 li {
   color: white;
-  font-family: "Readex Pro", "ZCOOL KuaiLe", "M PLUS 1p", "Kantumruy",
-    "Gothic A1", "Noto Sans Myanmar", "Josefin Sans", "VAGRoundedB";
+  font-family: "Mojangles", "Unicode";
   font-weight: lighter;
   text-overflow: ellipsis;
   white-space: normal;

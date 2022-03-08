@@ -5,8 +5,8 @@
   position: fixed;
   top: 0;
   z-index: 2;
-  background-color: #010018;
-  border-bottom: 0.5px solid #313131;
+  background-color: #c6c6c6;
+  border-bottom: 5px solid #575558;
   height: 60px;
   width: 100%;
   display: flex;
@@ -17,8 +17,8 @@
   position: sticky;
   top: 0;
   z-index: 2;
-  background-color: #010018;
-  border-bottom: 0.5px solid #313131;
+  background-color: #c6c6c6;
+  border-bottom: 5px solid #575558;
   height: 60px;
   width: 100%;
   margin-bottom: -100px;
@@ -70,6 +70,96 @@
   display: flex;
   justify-content: left;
   align-items: center;
+}
+
+.body .header .language {
+  margin-left: 750px;
+}
+.body .header .language .current {
+  position: relative;
+  display: flex;
+  z-index: 3;
+  float: right;
+  margin-right: 30px;
+  padding: 5px;
+  width: 60px;
+  height: 28px;
+  border-radius: 5px;
+  cursor: pointer;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.body .header .language .current:hover {
+  background-color: #ffffff43;
+}
+
+.body .header .language .current:active {
+  background-color: #ffffff33;
+}
+
+.body .header .language .current img {
+  border-radius: 3px;
+}
+.body .header .language .current h6 {
+  color: #484d4a;
+  font-family: "Minecraft10";
+}
+.body .header .language .selection {
+  position: relative;
+  display: none;
+  z-index: 6;
+  flex-direction: column;
+  float: right;
+  padding: 8px 5px 8px 5px;
+  margin-bottom: -275px;
+  right: 12px;
+  width: 90px;
+  height: 265px;
+  background-color: #02002e;
+  border-radius: 5px;
+  align-content: center;
+  overflow-y: scroll;
+}
+
+.body .header .language .selection::-webkit-scrollbar {
+  background-color: #02002e;
+}
+
+.body .header .language .selection::-webkit-scrollbar-track {
+  background-color: #02002e;
+  border-radius: 10px;
+}
+
+.body .header .language .selection .select {
+  display: flex;
+  height: 30px;
+  margin-top: 2.5px;
+  margin-bottom: 2.5px;
+  border-radius: 5px;
+  animation-duration: 0.2s;
+  align-items: center;
+}
+
+.body .header .language .selection .select:hover {
+  background-color: #ffffff43;
+  animation-duration: 0.1s;
+}
+
+.body .header .language .selection .select:active {
+  background-color: #ffffff33;
+  animation-duration: 0.1s;
+}
+
+.body .header .language .selection .select img {
+  border-radius: 3px;
+}
+
+.body .header .language .selection .select h5 {
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
 }
 
 @media only screen and (max-width: 799px) {
