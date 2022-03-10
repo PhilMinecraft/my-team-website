@@ -252,6 +252,14 @@
   .body .desktop-products {
     padding-right: 100px;
   }
+
+  .body .open-products {
+    margin-right: 100px;
+  }
+
+  .body .open-products .close-products {
+    margin-right: 100px;
+  }
 }
 
 @media only screen and (min-width: 2000px) {
@@ -260,5 +268,13 @@
   }
   .body .desktop-products {
     padding-right: 10%;
+  }
+
+  .body .open-products {
+    margin-right: 10%;
+  }
+
+  .body .open-products .close-products {
+    margin-right: 10%;
   }
 }

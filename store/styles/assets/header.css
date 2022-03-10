@@ -156,6 +156,7 @@
 }
 
 .body .header .language .selection .select h5 {
+  font-family: "MC10";
   padding: 5px;
   display: flex;
   align-items: center;
