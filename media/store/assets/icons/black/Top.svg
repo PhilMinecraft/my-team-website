@@ -44,7 +44,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#484d4a;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
        id="rect846"
        width="140"
        height="20"
@@ -52,23 +52,15 @@
        y="-100"
        transform="rotate(90)" />
     <rect
-       style="fill:#484d4a;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
        id="rect846-6"
        width="20"
-       height="20"
+       height="60"
        x="40"
        y="-120"
        transform="rotate(90)" />
     <rect
-       style="fill:#484d4a;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
-       id="rect846-6-0"
-       width="20"
-       height="20"
-       x="40"
-       y="-80"
-       transform="rotate(90)" />
-    <rect
-       style="fill:#484d4a;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
        id="rect846-6-0-6"
        width="20"
        height="20"
@@ -76,7 +68,7 @@
        y="-140"
        transform="rotate(90)" />
     <rect
-       style="fill:#484d4a;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
        id="rect846-6-0-6-0"
        width="20"
        height="20"
@@ -84,7 +76,7 @@
        y="-60"
        transform="rotate(90)" />
     <rect
-       style="fill:#484d4a;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
        id="rect846-6-0-6-8"
        width="20"
        height="20"
@@ -92,7 +84,7 @@
        y="-40"
        transform="rotate(90)" />
     <rect
-       style="fill:#484d4a;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
        id="rect846-6-8"
        width="20"
        height="20"

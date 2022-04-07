@@ -53,19 +53,11 @@
        transform="rotate(-90)" />
     <rect
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
-       id="rect846-6"
-       width="20"
-       height="20"
-       x="-140"
-       y="60"
-       transform="rotate(-90)" />
-    <rect
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
        id="rect846-6-0"
        width="20"
-       height="20"
+       height="60"
        x="-140"
-       y="100"
+       y="60"
        transform="rotate(-90)" />
     <rect
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
