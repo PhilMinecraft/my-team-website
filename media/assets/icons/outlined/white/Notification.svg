@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24mm"
+   height="24mm"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Notification.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title10917">Notification</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="7.9867624"
+     inkscape:cx="41.443577"
+     inkscape:cy="44.886774"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g10911">
+      <path
+         id="rect7337-8"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 45.351562 0 C 29.646963 -7.1054271e-15 17.003906 12.643053 17.003906 28.347656 L 17.003906 47.5 C 17.003906 47.5 -11.343748 70.125 17.003906 70.125 L 45.351562 70.125 L 73.699219 70.125 C 102.04742 70.125 73.699219 47.5 73.699219 47.5 L 73.699219 28.347656 C 73.699219 28.346347 73.699219 28.34506 73.699219 28.34375 C 73.69711 12.640967 61.054856 0 45.351562 0 z M 45.351562 11.337891 C 54.773279 11.337891 62.35922 18.922544 62.361328 28.34375 L 45.351562 28.34375 L 45.351562 45.357422 L 45.349609 45.357422 L 45.349609 56.695312 L 45.351562 56.695312 L 45.351562 58.785156 L 28.34375 58.785156 C 14.798199 58.785156 22.748545 51.702402 26.580078 48.787109 C 27.563245 48.038308 28.341797 47.5 28.341797 47.5 C 28.341797 47.5 28.34375 47.498047 28.34375 47.498047 L 28.34375 28.34375 L 28.341797 28.34375 C 28.343905 18.922544 35.929847 11.337891 45.351562 11.337891 z M 45.353516 28.345703 L 62.361328 28.345703 L 62.361328 28.347656 L 62.361328 47.5 L 62.361328 47.501953 C 62.361328 47.501953 62.630253 47.681687 63.017578 47.957031 C 63.042022 47.974408 63.032958 47.96801 63.058594 47.986328 C 63.173799 48.068786 63.366626 48.221607 63.503906 48.322266 C 66.954867 50.848814 76.684846 58.787109 62.361328 58.787109 L 45.353516 58.787109 L 45.353516 56.695312 L 45.353516 45.357422 L 45.353516 28.345703 z "
+         transform="scale(0.26458333)" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path1306"
+         sodipodi:type="arc"
+         sodipodi:cx="12"
+         sodipodi:cy="21.5"
+         sodipodi:rx="2.5"
+         sodipodi:ry="2.5"
+         sodipodi:start="0.36616833"
+         sodipodi:end="0.36559935"
+         sodipodi:open="true"
+         sodipodi:arc-type="arc"
+         d="m 14.334265,22.395101 a 2.5,2.5 0 0 1 -3.229034,1.439292 2.5,2.5 0 0 1 -1.4397508,-3.22883 2.5,2.5 0 0 1 3.2286248,-1.44021 2.5,2.5 0 0 1 1.440669,3.22842" />
+    </g>
+  </g>
+  <metadata
+     id="metadata10913">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:date>4/8/2022</dc:date>
+        <dc:title>Notification</dc:title>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>RareFrostbites</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>PhilMinecraft</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Notification</rdf:li>
+            <rdf:li>Bell</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24mm"
+   height="24mm"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Notification.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title10917">Notification</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="7.9867624"
+     inkscape:cx="41.568784"
+     inkscape:cy="44.886774"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g974">
+      <path
+         id="rect7337-8"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 11.999267,0 C 7.8440922,0 4.4989501,3.3451411 4.4989501,7.5003172 v 5.0673908 c 0,0 -7.5003167,5.986198 0,5.986198 h 7.5003169 7.500318 c 7.500461,0 0,-5.986198 0,-5.986198 V 7.5003172 c 0,-3.439e-4 0,-6.879e-4 0,-0.00103 C 19.499027,3.3445891 16.154097,0 11.999267,0 Z m 0,2.999817 c 2.49283,0 4.499943,2.0067727 4.500501,4.4994668 h -4.500501 v 4.5015342 h -5.29e-4 v 2.999816 h 5.29e-4 v 0.552938 H 7.4992838 c -3.583927,0 -1.480398,-1.873978 -0.4666383,-2.645316 0.2601296,-0.198121 0.4661215,-0.340548 0.4661215,-0.340548 0,0 5.292e-4,-5.29e-4 5.292e-4,-5.29e-4 V 7.4992838 H 7.498767 C 7.4993227,5.0065897 9.5064386,2.999817 11.999267,2.999817 Z m 5.29e-4,4.4999835 h 4.499984 v 5.292e-4 5.0673783 5.29e-4 c 0,0 0.07115,0.04756 0.173633,0.120406 0.0065,0.0046 0.0041,0.0029 0.01085,0.0078 0.03048,0.02182 0.0815,0.06225 0.117822,0.08888 0.913067,0.668483 3.487457,2.768823 -0.302307,2.768823 h -4.499997 v -0.553454 -2.999817 z" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path1306"
+         sodipodi:type="arc"
+         sodipodi:cx="12"
+         sodipodi:cy="21.5"
+         sodipodi:rx="2.5"
+         sodipodi:ry="2.5"
+         sodipodi:start="0.36616833"
+         sodipodi:end="0.36559935"
+         sodipodi:open="true"
+         sodipodi:arc-type="arc"
+         d="m 14.334265,22.395101 a 2.5,2.5 0 0 1 -3.229034,1.439292 2.5,2.5 0 0 1 -1.4397508,-3.22883 2.5,2.5 0 0 1 3.2286248,-1.44021 2.5,2.5 0 0 1 1.440669,3.22842" />
+    </g>
+  </g>
+  <metadata
+     id="metadata10913">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:date>4/8/2022</dc:date>
+        <dc:title>Notification</dc:title>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>RareFrostbites</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>PhilMinecraft</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Notification</rdf:li>
+            <rdf:li>Bell</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
