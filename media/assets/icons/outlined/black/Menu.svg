@@ -46,7 +46,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g1142">
+       id="g1023"
+       transform="translate(3.0088425e-4)">
       <rect
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffa47b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.99177"
          id="rect953-2"
@@ -56,48 +57,24 @@
          y="10.500004"
          ry="1.4996264"
          rx="1.3659657" />
-      <g
-         id="g1129">
-        <rect
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffa47b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.99177"
-           id="rect951-8"
-           width="23.999397"
-           height="2.999999"
-           x="4.7683179e-07"
-           y="3.8335037"
-           ry="1.4999995"
-           rx="1.3659657" />
-        <rect
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffa47b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.99177"
-           id="rect1812-0"
-           width="24"
-           height="2.6559987"
-           x="6.5228147e-07"
-           y="3.833504"
-           rx="1"
-           ry="1" />
-      </g>
-      <g
-         id="g1133">
-        <rect
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffa47b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.99177"
-           id="rect957-7"
-           width="23.999397"
-           height="2.999999"
-           x="4.7683167e-07"
-           y="17.166496"
-           ry="1.4999995"
-           rx="1.3659657" />
-        <rect
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffa47b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.99177"
-           id="rect1814-6"
-           width="24"
-           height="2.6563218"
-           x="1.9686943e-15"
-           y="17.510174"
-           rx="1"
-           ry="1" />
-      </g>
+      <rect
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffa47b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.99177"
+         id="rect951-8"
+         width="23.999397"
+         height="2.999999"
+         x="4.7683179e-07"
+         y="3.8335037"
+         ry="1.4999995"
+         rx="1.3659657" />
+      <rect
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffa47b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.99177"
+         id="rect957-7"
+         width="23.999397"
+         height="2.999999"
+         x="4.7683167e-07"
+         y="17.166496"
+         ry="1.4999995"
+         rx="1.3659657" />
     </g>
   </g>
   <metadata
