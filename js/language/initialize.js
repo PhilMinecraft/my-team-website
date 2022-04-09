@@ -22,10 +22,7 @@ const languageContent = {
     "ask-for-contact": "You choose which email you want to contact Us.",
     "coming-soon": "Coming Soon",
     // Apply Page
-    "title-apply": "Apply",
-    // Apply 2nd Page
-    "select-platform": "Choose a platform",
-    "select-platform-subtitle": "This is where we work, via Server."
+    "title-apply": "Apply"
   },
   "en-us": {
     "follow-us": "Follow Us",
@@ -48,10 +45,7 @@ const languageContent = {
     "ask-for-contact": "You choose which email you want to contact Us.",
     "coming-soon": "Coming Soon",
     // Apply Page
-    "title-apply": "Apply",
-    // Apply 2nd Page
-    "select-platform": "Choose a platform",
-    "select-platform-subtitle": "This is where we work, via Server."
+    "title-apply": "Apply"
   },
   "es-es": {
     "follow-us": "Síganos",
@@ -75,11 +69,7 @@ const languageContent = {
       "Tú eliges con qué correo electrónico quieres contactarnos.",
     "coming-soon": "Próximamente",
     // Apply Page
-    "title-apply": "Aplicar",
-    // Apply 2nd Page
-    "select-platform": "Elige una plataforma",
-    "select-platform-subtitle":
-      "Aquí es donde trabajamos, a través del Servidor."
+    "title-apply": "Aplicar"
   },
   "fil-ph": {
     "follow-us": "I-Follow Kami",
@@ -103,10 +93,7 @@ const languageContent = {
       "Pumili ka saang email ang gusto mo para ma-contact mo Kami.",
     "coming-soon": "Sa Susunod",
     // Apply Page
-    "title-apply": "Mag-Apply",
-    // Apply 2nd Page
-    "select-platform": "Pumili ng isang platform",
-    "select-platform-subtitle": "Dito kami nagwo-work kung saan, via Server."
+    "title-apply": "Mag-Apply"
   },
   "hi-in": {
     "follow-us": "हमारा अनुसरण करें",
@@ -130,10 +117,7 @@ const languageContent = {
       "आप चुनते हैं कि आप किस ईमेल से हमसे संपर्क करना चाहते हैं।",
     "coming-soon": "जल्द ही आ रहा है",
     // Apply Page
-    "title-apply": "हमसे जुड़ें",
-    // Apply 2nd Page
-    "select-platform": "एक मंच चुनें",
-    "select-platform-subtitle": "यहीं हम काम करते हैं, सर्वर के माध्यम से।"
+    "title-apply": "हमसे जुड़ें"
   },
   "id-id": {
     "follow-us": "Ikuti Kami!",
@@ -156,10 +140,7 @@ const languageContent = {
     "ask-for-contact": "Hubungi Kami dengan email dibawah ini",
     "coming-soon": "Mungkin Nanti",
     // Apply Page
-    "title-apply": "Bergabung",
-    // Apply 2nd Page
-    "select-platform": "Pilih platform",
-    "select-platform-subtitle": "Di sinilah kami bekerja, melalui Server."
+    "title-apply": "Bergabung"
   },
   "ja-jp": {
     "follow-us": "フォローする",
@@ -182,10 +163,7 @@ const languageContent = {
     "ask-for-contact": "あなたは私達に連絡したい電子メールを選択します。",
     "coming-soon": "近日公開",
     // Apply Page
-    "title-apply": "申し込み",
-    // Apply 2nd Page
-    "select-platform": "プラットフォームを選択してください",
-    "select-platform-subtitle": "これが私たちが働く場所です、 サーバー経由。"
+    "title-apply": "申し込み"
   },
   "km-kh": {
     "follow-us": "តាម​យើង",
@@ -208,10 +186,7 @@ const languageContent = {
     "ask-for-contact": "អ្នកជ្រើសរើសអ៊ីមែលដែលអ្នកចង់ទាក់ទងមកយើង។",
     "coming-soon": "មកដល់ឆាប់ៗនេះ",
     // Apply Page
-    "title-apply": "Apអនុវត្តply",
-    // Apply 2nd Page
-    "select-platform": "ជ្រើសរើសវេទិកាមួយ។",
-    "select-platform-subtitle": "នេះជាកន្លែងដែលយើងធ្វើការ, តាមរយៈ Server។"
+    "title-apply": "Apអនុវត្តply"
   },
   "ko-kr": {
     "follow-us": "팔로우",
@@ -234,10 +209,7 @@ const languageContent = {
     "ask-for-contact": "저희에게 연락할 이메일을 선택합니다.",
     "coming-soon": "곧",
     // Apply Page
-    "title-apply": "적용하다",
-    // Apply 2nd Page
-    "select-platform": "플랫폼 선택",
-    "select-platform-subtitle": "여기가 우리가 일하는 곳입니다, 서버를 통해."
+    "title-apply": "적용하다"
   },
   "ms-my": {
     "follow-us": "Ikut Kami",
@@ -260,10 +232,7 @@ const languageContent = {
     "ask-for-contact": "Anda pilih e-mel yang anda ingin hubungi Kami.",
     "coming-soon": "Akan Datang",
     // Apply Page
-    "title-apply": "Mohon",
-    // Apply 2nd Page
-    "select-platform": "Pilih platform",
-    "select-platform-subtitle": "Di sinilah kami bekerja, melalui Pelayan."
+    "title-apply": "Mohon"
   },
   "my-mm": {
     "follow-us": "ကြှနျုပျတို့နောကျလိုကျပါ",
@@ -287,11 +256,7 @@ const languageContent = {
       "သင်သည် ကျွန်ုပ်တို့ထံ ဆက်သွယ်လိုသော အီးမေးလ်ကို ရွေးချယ်ပါ။",
     "coming-soon": "မကြာမီလာမည်",
     // Apply Page
-    "title-apply": "လျှောက်ထားပါ။",
-    // Apply 2nd Page
-    "select-platform": "ပလက်ဖောင်းတစ်ခုကို ရွေးပါ။",
-    "select-platform-subtitle":
-      "ဒါက ကျွန်တော်တို့ အလုပ်လုပ်တဲ့ နေရာပါ၊ Server မှတဆင့်"
+    "title-apply": "လျှောက်ထားပါ။"
   },
   "pt-pt": {
     "follow-us": "Siga-nos",
@@ -315,10 +280,7 @@ const languageContent = {
       "Você escolhe qual e-mail deseja entrar em contato Conosco.",
     "coming-soon": "Em Breve",
     // Apply Page
-    "title-apply": "Aplicar",
-    // Apply 2nd Page
-    "select-platform": "Escolha uma plataforma",
-    "select-platform-subtitle": "É aqui que trabalhamos, via Servidor."
+    "title-apply": "Aplicar"
   },
   "ru-ru": {
     "follow-us": "Подписывайтесь на Нас",
@@ -342,10 +304,7 @@ const languageContent = {
       "Вы выбираете, какой адрес электронной почты вы хотите связаться с Нами.",
     "coming-soon": "Скоро будет...",
     // Apply Page
-    "title-apply": "Применять",
-    // Apply 2nd Page
-    "select-platform": "Выберите платформу",
-    "select-platform-subtitle": "Здесь мы работаем, через Сервер."
+    "title-apply": "Применять"
   },
   "vi-vn": {
     "follow-us": "Theo Chúng tôi",
@@ -368,11 +327,7 @@ const languageContent = {
     "ask-for-contact": "Bạn chọn email nào bạn muốn liên hệ với Chúng tôi.",
     "coming-soon": "Sắp Có",
     // Apply Page
-    "title-apply": "Áp Dụng",
-    // Apply 2nd Page
-    "select-platform": "Chọn một nền tảng",
-    "select-platform-subtitle":
-      "Đây là nơi chúng tôi làm việc, thông qua Server."
+    "title-apply": "Áp Dụng"
   },
   "zh-cn": {
     "follow-us": "跟着我们",
@@ -394,10 +349,7 @@ const languageContent = {
     "ask-for-contact": "您选择要与我们联系的电子邮件。",
     "coming-soon": "即将推出",
     // Apply Page
-    "title-apply": "申请",
-    // Apply 2nd Page
-    "select-platform": "选择平台",
-    "select-platform-subtitle": "这就是我们工作的地方，通过服务器。"
+    "title-apply": "申请"
   },
   "zh-tw": {
     "follow-us": "跟着我们",
@@ -419,9 +371,6 @@ const languageContent = {
     "ask-for-contact": "您选择要与我们联系的电子邮件。",
     "coming-soon": "即将推出",
     // Apply Page
-    "title-apply": "申请",
-    // Apply 2nd Page
-    "select-platform": "选择平台",
-    "select-platform-subtitle": "这就是我们工作的地方，通过服务器。"
+    "title-apply": "申请"
   }
 };

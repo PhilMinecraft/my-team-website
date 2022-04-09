@@ -67,109 +67,11 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="/js/include.components.js"></script>
 
-    <script src="/js/store/assets/language.js"></script>
-    <script src="/js/language/initialize.js"></script>
+    <script src="/js/store/language/initialize.js"></script>
+    <script src="/js/assets/language.js"></script>
     <script>
       include("/components/store/assets/header.html", "", "div.header", 0);
       include("/components/store/index/content.html", "", "div.content", 0);
-    </script>
-    <script defer src="/js/store/assets/header.js"></script>
-    <script defer>
-      $(function () {
-        setTimeout(initializeLanguage, 500);
-      });
-    </script>
-  </head>
-  <body>
-    <div class="body">
-      <div class="products-untap" id="products" onclick="closeProducts()"></div>
-      <div class="sidebar-untap" id="sidebar" onclick="closeSidebar()"></div>
-      <div class="language-untap" id="language" onclick="closeLanguage()"></div>
-
-      <div class="popup-remove"></div>
-
-      <div id="header" class="header"></div>
-
-      <div id="mobile-sidebar-area" class="mobile-sidebar"></div>
-
-      <div class="content"></div>
-    </div>
-  </body>
-</html>
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>RFB Store</title>
-
-    <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="RareFrostbites Team" />
-    <meta property="og:url" content="https://rarefrostbites.pages.dev/store/" />
-    <meta property="og:title" content="RFB Store" />
-    <meta property="og:description" content="Entertainment is Yours!" />
-    <meta
-      property="og:image"
-      content="https://rarefrostbites.pages.dev/media/store/store.jpg"
-    />
-
-    <meta property="twitter:card" content="summary_large_image" />
-    <meta
-      property="twitter:url"
-      content="https://rarefrostbites.pages.dev/store/"
-    />
-    <meta property="twitter:title" content="RFB Store" />
-    <meta property="twitter:description" content="Entertainment is Yours!" />
-    <meta
-      property="twitter:image"
-      content="https://rarefrostbites.pages.dev/media/store/store.jpg"
-    />
-
-    <meta name="title" content="RFB Store" />
-    <meta name="description" content="Entertainment is Yours!" />
-    <meta name="keywords" content="RFB Store, RareFrostbites Team" />
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="language" content="English" />
-    <meta charset="utf-8" />
-    <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <meta content="width=device-width,minimum-scale=1.0" name="viewport" />
-
-    <link
-      rel="shortcut icon"
-      href="https://rarefrostbites.pages.dev/media/store/rfbstore.ico"
-    />
-    <link rel="canonical" href="https://rarefrostbites.pages.dev" />
-
-    <!--address bar color-->
-    <meta name="theme-color" content="#15152A" />
-
-    <meta name="msapplication-navbutton-color" content="#15152A" />
-
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta
-      name="apple-mobile-web-app-status-bar-style"
-      content="black-translucent"
-    />
-
-    <!--fonts-->
-    <link rel="stylesheet" href="/styles/assets/fonts.css" />
-
-    <!--lottie webplayer-->
-    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-
-    <!-- css -->
-    <link rel="stylesheet" href="/store/styles/assets/body.css" />
-    <link rel="stylesheet" href="/store/styles/assets/content.css" />
-    <link rel="stylesheet" href="/store/styles/assets/header.css" />
-    <link rel="stylesheet" href="/store/styles/assets/sidebar.css" />
-
-    <!--js-->
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="/js/include.components.js"></script>
-
-    <script src="/js/store/language/initialize.js"></script>
-    <script src="/js/store/assets/language.js"></script>
-    <script>
-      include("/store/components/assets/header.html", "", "div.header", 0);
-      include("/store/components/index/content.html", "", "div.content", 0);
     </script>
     <script defer src="/js/store/assets/header.js"></script>
     <script defer>
