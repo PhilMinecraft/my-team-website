@@ -110,10 +110,6 @@
   width: 100px;
 }
 
-/* .body .footer .year h5::after {
-    content: "© 2020 - 2022";
-} */
-
 .body .footer .language .current {
   position: relative;
   display: flex;
