@@ -1,1 +1,4 @@
-﻿- Telegram logo is now gone on the footer. Thanks for supporting the Telegram platform
+﻿- the scrollbar UI is now retweak on the RFB Store page
+- the language button is now visible for small screens and responsive
+- the font for RFB Store font on the language is now changed
+- The logo on the top-left (homepage) when on large screen, now it's not shrinking for Firefox browsers (FIXED)

@@ -4,7 +4,7 @@
   font-display: fallback;
 }
 @font-face {
-  src: url("/fonts/Minecraft-Ten.ttf") format('truetype');
+  src: url("/fonts/Minecraft-Ten.woff2");
   font-family: MC10;
   font-display: fallback;
 }
@@ -12,7 +12,7 @@
 
 
 @font-face {
-  src: url("/fonts/Unifont.ttf") format('truetype');
+  src: url("/fonts/Unifont.woff2");
   font-family: Unicode;
   font-display: fallback;
 }

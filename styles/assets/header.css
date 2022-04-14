@@ -70,6 +70,16 @@
   }
 }
 
+@media only screen and (min-width: 1336px) {
+  .body .header .desktop-logo img {
+    width: 182px;
+  }
+
+  .body .header_shadow .desktop-logo img {
+    width: 182px;
+  }
+}
+
 @media only screen and (min-width: 1840px) {
   .body .header {
     padding-right: 100px;
