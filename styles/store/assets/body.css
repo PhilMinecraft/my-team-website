@@ -26,6 +26,10 @@
 ::-webkit-scrollbar-thumb:active {
   background-color: #025f00;
 }
+* {
+  scrollbar-color: #c6c6c6 #434343;
+  scrollbar-width: thin;
+}
 
 ::selection {
   background-color: #00ffba;

@@ -12,7 +12,7 @@
   display: flex;
   align-items: center;
 }
-.body .header_shadow {
+.body .header_scroll {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
@@ -40,7 +40,7 @@
 .body .header .mobile-logo img {
   width: 30.325px;
 }
-.body .header_shadow .mobile-logo {
+.body .header_scroll .mobile-logo {
   position: fixed;
   z-index: 2;
   top: 14px;
@@ -49,7 +49,7 @@
   justify-content: center;
   align-items: center;
 }
-.body .header_shadow .mobile-logo img {
+.body .header_scroll .mobile-logo img {
   width: 30.325px;
 }
 
@@ -62,7 +62,7 @@
   justify-content: left;
   align-items: center;
 }
-.body .header_shadow .desktop-logo {
+.body .header_scroll .desktop-logo {
   display: block;
   z-index: 2;
   top: 14px;
@@ -94,7 +94,7 @@
   background-color: #208100;
 }
 
-.body .header_shadow .language .current {
+.body .header_scroll .language .current {
   position: absolute;
   display: flex;
   z-index: 3;
@@ -108,10 +108,10 @@
   align-items: center;
   justify-content: space-between;
 }
-.body .header_shadow .language .current:hover {
+.body .header_scroll .language .current:hover {
   background-color: #8e8e8e;
 }
-.body .header_shadow .language .current:active {
+.body .header_scroll .language .current:active {
   background-color: #208100;
 }
 
@@ -119,7 +119,7 @@
   color: #484d4a;
   font-family: "MC10";
 }
-.body .header_shadow .language .current h6 {
+.body .header_scroll .language .current h6 {
   color: #484d4a;
   font-family: "MC10";
 }
@@ -138,6 +138,7 @@
   height: 265px;
   background-color: #2f2f2f;
   border: 6px solid #1b1b1b;
+  border-bottom: 5px solid #1b1b1b;
   align-content: center;
   overflow-y: scroll;
 }
@@ -153,7 +154,7 @@
 .body .header .language .selection::-webkit-scrollbar-thumb {
   border: 5px solid #1b1b1b;
 }
-.body .header_shadow .language .selection {
+.body .header_scroll .language .selection {
   position: absolute;
   display: none;
   z-index: 6;
@@ -166,19 +167,20 @@
   height: 265px;
   background-color: #2f2f2f;
   border: 6px solid #1b1b1b;
+  border-bottom: 5px solid #1b1b1b;
   align-content: center;
   overflow-y: scroll;
 }
-.body .header_shadow .language .selection::-webkit-scrollbar {
+.body .header_scroll .language .selection::-webkit-scrollbar {
   width: 17px;
   height: 17px;
   background-color: #434343;
 }
-.body .header_shadow .language .selection::-webkit-scrollbar-track {
+.body .header_scroll .language .selection::-webkit-scrollbar-track {
   background-color: #434343;
   border: 5px solid #1b1b1b;
 }
-.body .header_shadow .language .selection::-webkit-scrollbar-thumb {
+.body .header_scroll .language .selection::-webkit-scrollbar-thumb {
   border: 5px solid #1b1b1b;
 }
 
@@ -190,11 +192,11 @@
   background-color: #ffffff33;
   animation-duration: 0.1s;
 }
-.body .header_shadow .language .selection .select:hover {
+.body .header_scroll .language .selection .select:hover {
   background-color: #ffffff43;
   animation-duration: 0.1s;
 }
-.body .header_shadow .language .selection .select:active {
+.body .header_scroll .language .selection .select:active {
   background-color: #ffffff33;
   animation-duration: 0.1s;
 }
@@ -209,7 +211,7 @@
   align-items: center;
   justify-content: space-between;
 }
-.body .header_shadow .language .selection .select a {
+.body .header_scroll .language .selection .select a {
   padding: 5px;
   display: flex;
   height: 30px;
@@ -226,7 +228,7 @@
   align-items: center;
   text-decoration: none;
 }
-.body .header_shadow .language .selection .select a h5 {
+.body .header_scroll .language .selection .select a h5 {
   font-family: "MC10";
   display: flex;
   align-items: center;
@@ -238,7 +240,7 @@
     display: none;
   }
 
-  .body .header_shadow .desktop-logo {
+  .body .header_scroll .desktop-logo {
     display: none;
   }
 }
@@ -249,7 +251,7 @@
     padding-left: 50px;
   }
 
-  .body .header_shadow {
+  .body .header_scroll {
     padding-right: 50px;
     padding-left: 50px;
   }
@@ -258,8 +260,16 @@
     display: none;
   }
 
-  .body .header_shadow .mobile-logo {
+  .body .header_scroll .mobile-logo {
     display: none;
+  }
+
+  .body .header .desktop-logo img {
+    width: 130px;
+  }
+
+  .body .header_scroll .desktop-logo img {
+    width: 130px;
   }
 }
 
@@ -269,7 +279,7 @@
     padding-left: 10%;
   }
 
-  .body .header_shadow {
+  .body .header_scroll {
     padding-right: 10%;
     padding-left: 10%;
   }
