@@ -4,7 +4,7 @@ window.onscroll = function () {
 
 function headerScroll() {
   if (document.body.scrollTop > 1 || document.documentElement.scrollTop > 1) {
-    document.getElementById("header").className = "header_shadow";
+    document.getElementById("header").className = "header_scroll";
   } else {
     document.getElementById("header").className = "header";
   }
