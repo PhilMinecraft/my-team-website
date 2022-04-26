@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180mm"
+   height="180mm"
+   viewBox="0 0 180 180"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Top.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1388">Top</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="347"
+     inkscape:cy="340.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#484d4a;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+       id="rect846"
+       width="140"
+       height="20"
+       x="20"
+       y="-100"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#484d4a;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+       id="rect846-6"
+       width="20"
+       height="60"
+       x="40"
+       y="-120"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#484d4a;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+       id="rect846-6-0-6"
+       width="20"
+       height="20"
+       x="60"
+       y="-140"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#484d4a;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+       id="rect846-6-0-6-0"
+       width="20"
+       height="20"
+       x="60"
+       y="-60"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#484d4a;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+       id="rect846-6-0-6-8"
+       width="20"
+       height="20"
+       x="80"
+       y="-40"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#484d4a;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+       id="rect846-6-8"
+       width="20"
+       height="20"
+       x="80"
+       y="-160"
+       transform="rotate(90)" />
+  </g>
+  <metadata
+     id="metadata1200">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Top</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
