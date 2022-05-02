@@ -1,5 +1,3 @@
-﻿- RFB Store UI is now here (still underconstruction)
-- Fixed the logo on the top-left (homepage) when on large screen, now it's not shrinking for Firefox browsers
-- Fixed the button where you'll redirect if you tap them, now it'll redirect you to the correct page
-- We tweaked some of our system icons for consistent user experience
-- We changed our fonts from TTF to WOFF2
+﻿- Added a button where you can explore more and/ or organize Pack's lists on the RFB Store (under development)
+- The Pack lists are in the RFB Store (under development)
+- Fixed where the RFB Store-related logo won't appear anywhere in the website
