@@ -28,14 +28,13 @@
     margin-top: 70px;
     margin-right: auto;
     margin-left: auto;
-    background-color: #ffffff12;
     flex-direction: row;
     justify-content: space-evenly;
     overflow-x: scroll;
     overflow-y: hidden;
 }
 
-.body .content .ps .pe {
+.body .content .ps a .pe {
     display: flex;
     min-width: 265px;
     height: 60px;
@@ -43,9 +42,47 @@
     padding: 4px;
     border-top: 3px solid #dedede;
     border-right: 3px solid #656465;
-    border-bottom: 3px solid #dedede;
+    border-bottom: 3px solid #656465;
     border-left: 3px solid #dedede;
+    flex-direction: row;
     align-items: center;
+    cursor: pointer;
+}
+.body .content .ps .pe:hover {
+    background-color: #208100;
+    border-top: 3px solid #18be05;
+    border-right: 3px solid #004e00;
+    border-bottom: 3px solid #004e00;
+    border-left: 3px solid #18be05;
+    cursor: pointer;
+}
+.body .content .ps .pe:active {
+    background-color: #208100;
+    border-top: 3px solid #004e00;
+    border-right: 3px solid #18be05;
+    border-bottom: 3px solid #18be05;
+    border-left: 3px solid #004e00;
+}
+
+.body .content .ps a .pe img {
+    width: 40px;
+    height: 40px;
+    margin-right: 15px;
+    margin-left: 5px;
+}
+.body .content .ps .pe:active img {
+    transform: translateY(5px);
+}
+
+.body .content .ps a .pe h3 {
+    color: #4c4c4c;
+}
+.body .content .ps .pe:hover h3 {
+    color: #ffffff;
+}
+.body .content .ps .pe:active h3 {
+    color: #ffffff;
+    transform: translateY(5px);
 }
 
 @media only screen and (max-width: 1100px) {
@@ -55,8 +92,181 @@
         padding-right: 2px;
     }
 
-    .body .content .ps .pe {
+    .body .content .ps a .pe {
         margin-left: 4px;
         margin-right: 4px;
+    }
+}
+
+
+
+.body .content .packs {
+    display: flex;
+    height: auto;
+    background-color: #ffffff80;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.body .content .packs a {
+    width: 300px;
+    height: 300px;
+    margin: 5px 5px 10px 5px;
+}
+
+.body .content .packs a .sel {
+    width: 300px;
+    height: 300px;
+}
+
+.body .content .packs a .sel .ph {
+    padding: 10px;
+    height: 131px;
+    margin-top: -8px;
+}
+
+.body .content .packs a .sel .ph .pt {
+    margin-top: 10px;
+    height: 50px;
+    width: 240px;
+    overflow-y: hidden;
+}
+
+.body .content .packs a .sel .ph .pp {
+    display: flex;
+    max-width: 100px;
+    margin-top: 20px;
+    float: right;
+}
+
+.body .content .packs a .sel .ph .pp h3 {
+    background-color: #15e000;
+    color: #032000;
+    padding: 5px;
+}
+
+.body .content .packs a .sel.map .ti {
+    width: 300px;
+    height: 176.5px;
+}
+
+.body .content .packs a .sel.map .ti img {
+    width: 300px;
+}
+
+.body .content .packs a .sel.map .ph {
+    width: 300px;
+    background-color: #494949;
+    position: relative;
+}
+
+.body .content .packs a .sel.texture .ti {
+    width: 300px;
+    height: 300px;
+}
+
+.body .content .packs a .sel.texture .ti img {
+    width: 300px;
+    height: 300px;
+}
+
+.body .content .packs a .sel.texture .ph {
+    width: 300px;
+    margin-top: -131px;
+    background-color: #49494982;
+    position: relative;
+}
+
+.body .content .packs a .sel.skin .ti {
+    width: 300px;
+    height: 176.5px;
+}
+
+.body .content .packs a .sel.skin .ti img {
+    width: 300px;
+}
+
+.body .content .packs a .sel.skin .ph {
+    width: 300px;
+    background-color: #494949;
+    position: relative;
+}
+
+.body .content .packs a .sel.mash-up .ti {
+    width: 300px;
+    height: 300px;
+}
+
+.body .content .packs a .sel.mash-up .ti img {
+    width: 300px;
+    height: 300px;
+}
+
+.body .content .packs a .sel.mash-up .ph {
+    width: 300px;
+    margin-top: -131px;
+    background-color: #49494982;
+    position: relative;
+}
+
+@media only screen and (max-width: 630px) {
+    .body .content .packs a {
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
+@media only screen and (min-width: 330px) {
+    .body .content .packs {
+        width: 330px;
+    }
+}
+
+@media only screen and (min-width: 640px) {
+    .body .content .packs {
+        width: 640px;
+    }
+}
+
+@media only screen and (min-width: 950px) {
+    .body .content .packs {
+        width: 950px;
+    }
+}
+
+@media only screen and (min-width: 1260px) {
+    .body .content .packs {
+        width: 1260px;
+    }
+}
+
+@media only screen and (min-width: 1570px) {
+    .body .content .packs {
+        width: 1570px;
+    }
+}
+
+@media only screen and (min-width: 1880px) {
+    .body .content .packs {
+        width: 1880px;
+    }
+}
+
+@media only screen and (min-width: 2190px) {
+    .body .content .packs {
+        width: 2190px;
+    }
+}
+
+@media only screen and (min-width: 2500px) {
+    .body .content .packs {
+        width: 2500px;
     }
 }
