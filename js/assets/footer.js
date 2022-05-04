@@ -10,6 +10,7 @@ function closeLanguage() {
 }
 
 setTimeout(function () {
+  $("*[data-cr-date]").text(DtUv29x0() - 1 + " - " + DtUv29x0());
   $(".current>img")
     .attr(
       "src",

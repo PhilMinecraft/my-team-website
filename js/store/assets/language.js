@@ -17,7 +17,7 @@ function LanguageChecker() {
       .map(x => x.toLowerCase())
       .includes(gq("lang").toLowerCase() || localStorage["getItem"]("language"))
   ) {
-    console.warn("You selected a language that WE DON'T support");
+    console.warn("We can't find your language.");
     return "en-us";
   }
   if (gq("lang") || localStorage["getItem"]("language")) {

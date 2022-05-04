@@ -85,7 +85,7 @@ const languageContent = {
     "intro-rfbstore-button": "I-Explore at i-Claim",
     "intro-products":
       "Bumabangon kami, hindi kami nagsa-stop dyan. Gumawa kami ng mga product para lang sa'yo",
-    "soon": "SA SUSUSNOD...",
+    "soon": "SA SUSUNOD...",
     // Privacy Policy Page
     "title-privacy-policy": "Privacy Policy",
     // Contact Page
