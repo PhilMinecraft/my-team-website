@@ -1,3 +1,3 @@
-﻿- Added a button where you can explore more and/ or organize Pack's lists on the RFB Store (under development)
-- The Pack lists are in the RFB Store (under development)
-- Fixed where the RFB Store-related logo won't appear anywhere in the website
+﻿- fixed the button where if you tap the RFB Store on the app container, it'll redirect you to the wrong page
+- RFB Store's language picker is now working properly
+- some UI tweak changes
