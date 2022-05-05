@@ -1,7 +1,5 @@
 .body .content .ps::-webkit-scrollbar {
     height: 10px;
-}
-.body .content .ps::-webkit-scrollbar {
     background-color: #43434300;
 }
 .body .content .ps::-webkit-scrollbar-track {
@@ -103,7 +101,6 @@
 .body .content .packs {
     display: flex;
     height: auto;
-    background-color: #ffffff80;
     padding-top: 5px;
     padding-right: 10px;
     padding-left: 10px;
@@ -150,6 +147,7 @@
     background-color: #15e000;
     color: #032000;
     padding: 5px;
+    border-radius: 3px;
 }
 
 .body .content .packs a .sel.map .ti {
