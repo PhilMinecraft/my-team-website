@@ -1,3 +1,4 @@
-﻿- fixed the button where if you tap the RFB Store on the app container, it'll redirect you to the wrong page
-- RFB Store's language picker is now working properly
-- some UI tweak changes
+﻿RFB Store
+- add an author name under the title of every Pack
+- minor UI changes for better reading
+- fix where you can't close the language picker when tapping on the header
