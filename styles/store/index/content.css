@@ -129,17 +129,28 @@
     margin-top: -8px;
 }
 
-.body .content .packs a .sel .ph .pt {
+.body .content .packs a .sel .ph .pi {
+    height: 69.2px;
+}
+
+.body .content .packs a .sel .ph .pi .pt {
     margin-top: 10px;
-    height: 50px;
+    max-height: 50px;
     width: 240px;
     overflow-y: hidden;
+}
+.body .content .packs a .sel .ph .pi .pt h3 {
+    max-height: 50px;
+    font-weight: normal;
+}
+
+.body .content .packs a .sel .ph .pi .pa {
+    opacity: 50%;
 }
 
 .body .content .packs a .sel .ph .pp {
     display: flex;
     max-width: 100px;
-    margin-top: 20px;
     float: right;
 }
 
