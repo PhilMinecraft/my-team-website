@@ -176,6 +176,10 @@
     position: relative;
 }
 
+.body .content .packs a .sel.map:hover .ph {
+    background-color: #045400d8;
+}
+
 .body .content .packs a .sel.texture .ti {
     width: 300px;
     height: 300px;
@@ -189,8 +193,12 @@
 .body .content .packs a .sel.texture .ph {
     width: 300px;
     margin-top: -131px;
-    background-color: #49494982;
+    background-color: #494949d8;
     position: relative;
+}
+
+.body .content .packs a .sel.texture:hover .ph {
+    background-color: #045400d8;
 }
 
 .body .content .packs a .sel.skin .ti {
@@ -206,6 +214,10 @@
     width: 300px;
     background-color: #494949;
     position: relative;
+}
+
+.body .content .packs a .sel.skin:hover .ph {
+    background-color: #045400;
 }
 
 .body .content .packs a .sel.mash-up .ti {
@@ -224,6 +236,11 @@
     background-color: #49494982;
     position: relative;
 }
+
+.body .content .packs a .sel.mash-up:hover .ph {
+    background-color: #045400;
+}
+
 
 @media only screen and (max-width: 630px) {
     .body .content .packs a {
