@@ -1,4 +1,3 @@
 ﻿RFB Store
-- add an author name under the title of every Pack
-- minor UI changes for better reading
-- fix where you can't close the language picker when tapping on the header
+- you can now view any Pack
+- fix the "FREE" word in other languages cause to misalign and not spreading any width to it

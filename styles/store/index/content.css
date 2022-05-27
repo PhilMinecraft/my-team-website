@@ -150,7 +150,6 @@
 
 .body .content .packs a .sel .ph .pp {
     display: flex;
-    max-width: 100px;
     float: right;
 }
 

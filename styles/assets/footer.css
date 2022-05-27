@@ -164,6 +164,11 @@
   border-radius: 10px;
 }
 
+.body .footer .language .selection {
+  scrollbar-color: #04004969 #02002e;
+  scrollbar-width: thin;
+}
+
 .body .footer .language .selection .select {
   display: flex;
   height: 30px;

@@ -84,7 +84,7 @@
   align-items: center;
   justify-content: space-between;
 }
-.body .header .language .current:hover {
+.body .header .language .current:hover { 
   background-color: #8e8e8e;
 }
 .body .header .language .current:active {

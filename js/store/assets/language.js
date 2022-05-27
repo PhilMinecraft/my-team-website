@@ -40,4 +40,11 @@ function initializeLanguage() {
       $("[data-" + lang + "]").html(initLang[lang]);
     }
   }
+  
+  var initLang = languagePack[LanguageChecker()];
+  for (var lang of Object.keys(initLang)) {
+    if ($("[data-" + lang + "]")) {
+      $("[data-" + lang + "]").html(initLang[lang]);
+    }
+  }
 }
