@@ -82,3 +82,8 @@ const languagePack = {
     "pd": ""
   }
 }
+
+let copy = (copy) => {
+    document.getElementById(copy).select();
+    document.execCommand("copy");
+};
