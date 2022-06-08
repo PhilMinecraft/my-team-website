@@ -1,3 +1,6 @@
-﻿RFB Store
-- you can now view any Pack
-- fix the "FREE" word in other languages cause to misalign and not spreading any width to it
+﻿Main
+- The Instagram logo changed on the socials as part of the Instagram's new branding
+- Tweak the scrolling experience when you scroll from the top to make it more natural
+
+RFB Store
+- Share buttons are here! You can now share a Pack (you can share using Ya Ea pack this time)
