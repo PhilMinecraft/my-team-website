@@ -84,6 +84,8 @@ const languagePack = {
 }
 
 let copy = (copy) => {
-    document.getElementById(copy).select();
-    document.execCommand("copy");
+  document.getElementById(copy).select();
+  document.execCommand("copy");
+  document.getElementById("alert-cl-h-h").style.display = "block";
+  setTimeout('$("#alert-cl-h-h").hide()',1500);
 };
