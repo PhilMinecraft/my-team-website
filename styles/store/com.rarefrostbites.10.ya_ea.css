@@ -249,15 +249,22 @@
 
 .pps .pps-h {
     display: flex;
-    height: 290px;
+    height: 210px;
     overflow-x: scroll;
     align-items: center;
 }
 
 .pps .pps-h .pps-s {
     display: flex;
-    height: 250px;
+    min-width: 320px;
+    height: 180px;
+    margin-left: 5px;
+    margin-right: 5px;
     overflow: hidden;
     justify-content: center;
     align-items: center;
+}
+.pps .pps-h .pps-s img {
+    width: 320px;
+    height: 180px;
 }
