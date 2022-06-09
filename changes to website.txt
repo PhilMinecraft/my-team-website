@@ -4,3 +4,4 @@
 
 RFB Store
 - Share buttons are here! You can now share a Pack (you can share using Ya Ea pack this time)
+- You can now see a video trailer and screenshots of a Pack (only Ya Ea this time)
