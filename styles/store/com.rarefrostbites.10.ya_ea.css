@@ -250,6 +250,7 @@
 .pps .pps-h .pps-s {
     display: flex;
     height: 250px;
+    overflow: hidden;
     justify-content: center;
     align-items: center;
 }
