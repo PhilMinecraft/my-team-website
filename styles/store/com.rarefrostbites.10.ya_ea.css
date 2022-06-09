@@ -242,6 +242,7 @@
 
 .pps .pps-h {
     display: flex;
+    height: 250px;
     overflow-x: scroll;
     align-items: center;
 }
