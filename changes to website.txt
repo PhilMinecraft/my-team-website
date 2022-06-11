@@ -1,7 +1,6 @@
 ﻿Main
-- The Instagram logo changed on the socials as part of the Instagram's new branding
 - Tweak the scrolling experience when you scroll from the top to make it more natural
 
 RFB Store
-- Share buttons are here! You can now share a Pack (you can share using Ya Ea pack this time)
-- You can now see a video trailer and screenshots of a Pack (only Ya Ea this time)
+- fixed the buttons can't tap when you scroll from the top a bit (it's because of a hidden element that holds the alerts when tapping the share button)
+- Pack info added
