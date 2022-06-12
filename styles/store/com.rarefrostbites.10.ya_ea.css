@@ -440,3 +440,49 @@
 .pi-b1 .pi-b2 .pi-b3 .pi-b4 .pi-m .player_i .s {
 
 }
+
+
+.button {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.button button {
+    height: 30px;
+    padding: -5px 5px 5px 5px;
+    background-color: #c6c6c6;
+    border-top: 3px solid #dedede;
+    border-right: 3px solid #656465;
+    border-bottom: 3px solid #656465;
+    border-left: 3px solid #dedede;
+}
+.button button:hover {
+    color: #ffffff;
+    background-color: #208100;
+    border-top: 3px solid #18be05;
+    border-right: 3px solid #004e00;
+    border-bottom: 3px solid #004e00;
+    border-left: 3px solid #18be05;
+    cursor: pointer;
+}
+.button button:active {
+    color: #ffffff;
+    background-color: #208100;
+    border-top: 3px solid #004e00;
+    border-right: 3px solid #18be05;
+    border-bottom: 3px solid #18be05;
+    border-left: 3px solid #004e00;
+}
+
+.button button h3 {
+    color: #4c4c4c;
+    margin: 2px 5px 5px 5px;
+    font-weight: normal;
+}
+.button button:hover h3 {
+    color: #ffffff;
+}
+.button button:active h3 {
+    color: #ffffff;
+    transform: translateY(2.5px);
+}
