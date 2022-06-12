@@ -83,9 +83,22 @@ const languagePack = {
   }
 }
 
+
 let copy = (copy) => {
   document.getElementById(copy).select();
   document.execCommand("copy");
-  document.getElementById("alert-cl-h-h").style.display = "block";
-  setTimeout('$("#alert-cl-h-h").hide()',1500);
+  document.getElementById("alert-cl").style.display = "flex";
+  setTimeout('$("#alert-cl").hide()',1500);
 };
+
+
+function readMore() {
+  document.getElementById("button").onclick = readLess;
+  document.getElementById("pi-d").style.whiteSpace = "normal";
+  document.getElementById("show").innerHTML = '-';
+}
+function readLess() {
+  document.getElementById("button").onclick = readMore;
+  document.getElementById("pi-d").style.whiteSpace = "nowrap";
+  document.getElementById("show").innerHTML = '+';
+}
