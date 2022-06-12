@@ -492,3 +492,21 @@
     color: #ffffff;
     transform: translateY(2.5px);
 }
+
+
+.pr {
+    height: auto;
+    margin: 100px auto auto auto;
+}
+
+@media only screen and (min-width: 320px) {
+    .pr {
+        width: 320px;
+    }
+}
+
+@media only screen and (min-width: 640px) {
+    .pr {
+        width: 640px;
+    }
+}
