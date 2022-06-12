@@ -453,7 +453,7 @@
 .button button {
     display: flex;
     height: 30px;
-    width: 30px;
+    width: 100%;
     background-color: #c6c6c6;
     border-top: 3px solid #dedede;
     border-right: 3px solid #656465;
