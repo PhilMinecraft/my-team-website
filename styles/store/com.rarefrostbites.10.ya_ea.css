@@ -316,6 +316,9 @@
 }
 .pi-b1 .pi-b2 .pi-b3 .pi-b4 .pi-d h5 {
     height: auto;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
 .pi-b1 .pi-b2 .pi-b3 .pi-b4 hr {
@@ -448,13 +451,16 @@
 }
 
 .button button {
+    display: flex;
     height: 30px;
-    padding: -5px 5px 5px 5px;
+    width: 30px;
     background-color: #c6c6c6;
     border-top: 3px solid #dedede;
     border-right: 3px solid #656465;
     border-bottom: 3px solid #656465;
     border-left: 3px solid #dedede;
+    justify-content: center;
+    align-items: center;
 }
 .button button:hover {
     color: #ffffff;
@@ -474,15 +480,15 @@
     border-left: 3px solid #004e00;
 }
 
-.button button h3 {
+.button button h2 {
     color: #4c4c4c;
-    margin: 2px 5px 5px 5px;
+    margin: -3px 5px 5px 5px;
     font-weight: normal;
 }
-.button button:hover h3 {
+.button button:hover h2 {
     color: #ffffff;
 }
-.button button:active h3 {
+.button button:active h2 {
     color: #ffffff;
     transform: translateY(2.5px);
 }
