@@ -338,7 +338,7 @@
 .pi-b1 .pi-b2 .pi-b3 .pi-b4 .pi-m .tag_i {
     display: flex;
     width: auto;
-    height: auto;
+    height: 39px;
     justify-content: flex-start;
 }
 
@@ -379,7 +379,7 @@
 .pi-b1 .pi-b2 .pi-b3 .pi-b4 .pi-m .genre_i {
     display: flex;
     width: auto;
-    height: auto;
+    height: 39px;
     justify-content: flex-start;
 }
 .pi-b1 .pi-b2 .pi-b3 .pi-b4 .pi-m .genre_i .genres h2 {
@@ -413,7 +413,7 @@
 .pi-b1 .pi-b2 .pi-b3 .pi-b4 .pi-m .player_i {
     display: flex;
     width: auto;
-    height: auto;
+    height: 39px;
     justify-content: flex-start;
 }
 .pi-b1 .pi-b2 .pi-b3 .pi-b4 .pi-m .player_i .players h2 {
