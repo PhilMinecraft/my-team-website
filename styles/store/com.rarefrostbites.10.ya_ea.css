@@ -239,7 +239,8 @@
 
 
 .pps {
-    max-width: 640px;
+    min-width: 320px;
+    max-width: 2560px;
     height: 290px;
     margin-top: 50px;
     margin-left: auto;
@@ -249,22 +250,25 @@
 .pps .pps-h {
     display: flex;
     height: 210px;
+    margin-right: auto;
+    margin-left: auto;
     overflow-x: scroll;
     align-items: center;
 }
 
 .pps .pps-h .pps-s {
     display: flex;
-    min-width: 320px;
     height: 180px;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-right: 10px;
     overflow: hidden;
     justify-content: center;
     align-items: center;
 }
+.pps .pps-h .pps-s:last-child {
+    margin-right: 0px;
+}
+
 .pps .pps-h .pps-s img {
-    width: 320px;
     height: 180px;
 }
 
