@@ -83,13 +83,17 @@ const languagePack = {
   }
 }
 
-
+let timeout;
 let copy = (copy) => {
+  clearTimeout(timeout);
   document.getElementById(copy).select();
   document.execCommand("copy");
   document.getElementById("alert-cl").style.display = "flex";
-  setTimeout('$("#alert-cl").hide()',1500);
+  timeout = setTimeout(hideAlert, 1500);
 };
+function hideAlert() {
+  $("#alert-cl").hide()
+}
 
 
 function readMore() {
