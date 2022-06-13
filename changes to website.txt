@@ -4,3 +4,5 @@
 RFB Store
 - fixed the buttons can't tap when you scroll from the top a bit (it's because of a hidden element that holds the alerts when tapping the share button)
 - Pack info added
+- tweak the Pack preview screenshots and trailer's UI so it would look natural
+- fix a bug where the Pack preview trailer is misaligned for mobile browsers
