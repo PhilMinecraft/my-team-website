@@ -2,7 +2,10 @@
 - Tweak the scrolling experience when you scroll from the top to make it more natural
 
 RFB Store
+- you can now rate Packs from 1 to 5 stars and add feedback on it
+- you can now download a Pack
 - fixed the buttons can't tap when you scroll from the top a bit (it's because of a hidden element that holds the alerts when tapping the share button)
 - Pack info added
 - tweak the Pack preview screenshots and trailer's UI so it would look natural
 - fix a bug where the Pack preview trailer is misaligned for mobile browsers
+- fix a bug where the "Link copied" alert on the top acting abnormal while tapping the share icon many times
