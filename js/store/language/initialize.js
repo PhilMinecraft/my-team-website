@@ -4,7 +4,7 @@ const languageContent = {
   "en-gb": {
     "pp": "FREE",
     "pg": "Download",
-    "cl": "Link copied"
+    "cl": "Link copied",
   },
   "en-us": {
     "pp": "FREE",
@@ -24,7 +24,7 @@ const languageContent = {
   "hi-in": {
     "pp": "उचित",
     "pg": "डाउनलोड",
-    "cl": "लिंक की प्रतिलिपि बनाई गई"
+    "cl": "लिंक क्लिपबोर्ड में लग चुकी है"
   },
   "id-id": {
     "pp": "GRATIS",
