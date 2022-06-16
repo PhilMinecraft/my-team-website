@@ -4,7 +4,7 @@ const languageContent = {
   "en-gb": {
     "pp": "FREE",
     "pg": "Download",
-    "cl": "Link copied",
+    "cl": "Link copied"
   },
   "en-us": {
     "pp": "FREE",
