@@ -500,7 +500,7 @@
 
 
 .pr {
-    height: auto;
+    /* height: auto; */
     margin: 100px auto auto auto;
 }
 
