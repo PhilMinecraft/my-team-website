@@ -22,4 +22,9 @@
     .body .header a {
         margin-left: 25px;
     }
+    
+
+    .body .header_scroll a {
+        margin-left: 25px;
+    }
 }
