@@ -67,6 +67,9 @@ a::-moz-selection {
   background-color: #00ccff;
   color: #005368;
 }
+img {
+  image-rendering: pixelated;
+}
 h1 {
   color: white;
   font-family: "MC10", "Mojangles", "Unicode";
