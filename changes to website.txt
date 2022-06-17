@@ -1,6 +1,9 @@
 ﻿Main
 - Tweak the scrolling experience when you scroll from the top to make it more natural
-- The image is now rendering more pixelated instead of blurry (if you encounter low-quality image, it'll render that looks high-quality in your eyes)
+- The image is now rendering more pixelated instead of blurry (if you encounter low-quality image, it'll render that looks high-quality in your eyes) 
+
+Homepage
+- tweak some codes
 
 RFB Store
 - you can now rate Packs from 1 to 5 stars and add feedback on it

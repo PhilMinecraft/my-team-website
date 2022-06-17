@@ -147,15 +147,15 @@
 }
 .body .header_shadow .desktop-sidebar-area h2:hover {
   background-color: #ffffff43;
-  transition-duration: .1s ease-out;
-  -webkit-transition-duration: .1s ease-out;
-  -o-transition-duration: .1s ease-out;
+  transition-duration: .1s;
+  -webkit-transition-duration: .1s;
+  -o-transition-duration: .1s;
 }
 .body .header_shadow .desktop-sidebar-area h2:active {
   background-color: #ffffff33;
-  transition-duration: .1s ease-out;
-  -webkit-transition-duration: .1s ease-out;
-  -o-transition-duration: .1s ease-out;
+  transition-duration: .1s;
+  -webkit-transition-duration: .1s;
+  -o-transition-duration: .1s;
 }
 
 
