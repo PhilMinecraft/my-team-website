@@ -1,2 +1,3 @@
 ﻿RFB Store
 - Tweak the Pack UI from scratch
+- fix where if you tap the right side of the author's name far away, it taps
