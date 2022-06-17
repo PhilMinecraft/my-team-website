@@ -1,3 +1,21 @@
+function PackLanguage() {
+  // Packs
+  var initLang = languagePack[LanguageChecker()];
+  for (var lang of Object.keys(initLang)) {
+    if ($("[data-" + lang + "]")) {
+      $("[data-" + lang + "]").html(initLang[lang]);
+    }
+  }
+  
+  // Pack info assets
+  var initLang = packinfo[LanguageChecker()];
+  for (var lang of Object.keys(initLang)) {
+    if ($("[data-" + lang + "]")) {
+      $("[data-" + lang + "]").html(initLang[lang]);
+    }
+  }
+}
+
 "use strict";
 
 const languagePack = {

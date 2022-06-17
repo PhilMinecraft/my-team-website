@@ -41,28 +41,4 @@ function initializeLanguage() {
       $("[data-" + lang + "]").html(initLang[lang]);
     }
   }
-
-  // Homepage
-  var initLang = RFBStore_filters[LanguageChecker()];
-  for (var lang of Object.keys(initLang)) {
-    if ($("[data-" + lang + "]")) {
-      $("[data-" + lang + "]").html(initLang[lang]);
-    }
-  }
-  
-  // Packs
-  var initLang = languagePack[LanguageChecker()];
-  for (var lang of Object.keys(initLang)) {
-    if ($("[data-" + lang + "]")) {
-      $("[data-" + lang + "]").html(initLang[lang]);
-    }
-  }
-  
-  // Pack info assets
-  var initLang = packinfo[LanguageChecker()];
-  for (var lang of Object.keys(initLang)) {
-    if ($("[data-" + lang + "]")) {
-      $("[data-" + lang + "]").html(initLang[lang]);
-    }
-  }
 }

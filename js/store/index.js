@@ -1,3 +1,13 @@
+function HomepageLanguage() {
+  // Homepage
+  var initLang = RFBStore_filters[LanguageChecker()];
+  for (var lang of Object.keys(initLang)) {
+    if ($("[data-" + lang + "]")) {
+      $("[data-" + lang + "]").html(initLang[lang]);
+    }
+  }
+}
+
 const RFBStore_filters = {
     "en-gb": {
         "rfbstore-filter-maps": "Maps",
