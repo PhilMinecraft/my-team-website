@@ -86,13 +86,11 @@
     flex-direction: column;
 }
 .hp .ph.m, .hp .ph.s {
-    margin-right: 0px;
     min-height: 173px;
-} 
+}
 .hp .ph.t, .hp .ph.mu {
-    margin-right: 0px;
     min-height: 258px;
-} 
+}
 .hp .ph .tt h2 {
     font-family: "Mojangles", "Unicode";
     overflow-wrap: break-word;
@@ -111,7 +109,6 @@
 .hp .ph .d {
     width: 300px;
     height: 60px;
-    margin-right: 0px;
     margin-left: auto;
 }
 .hp .ph .d.m, .hp .ph .d.s {
@@ -157,12 +154,87 @@
 }
 
 @media only screen and (max-width: 768px) {
+    .hp {
+        width: 425px;
+    }
+
+    .hp .pi.m, .hp .pi.s {
+        width: 100px;
+        height: 57.625px;
+        margin-right: 25px;
+    }
+    .hp .pi.m img, .hp .pi.s img {
+        width: 100px;
+        height: 57.625px;
+    }
     
+    .hp .pi.t, .hp .pi.mu {
+        width: 100px;
+        height: 100px;
+        margin-right: 25px;
+    }
+    .hp .pi.t img, .hp .pi.mu img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .hp .ph {
+        min-width: 300px;
+        margin-top: 10px;
+    }
+    .hp .ph.m, .hp .ph.s {
+        min-height: 136px;
+    }
+    .hp .ph.t, .hp .ph.mu {
+        min-height: 168px;
+    }
+    .hp .ph .pa {
+        margin-top: 10px;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .hp {
+        width: 375px;
+    }
+
+    .hp .ph {
+        min-width: 164.8px;
+    }
+    .hp .ph .d {
+        margin-left: -50px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .hp {
+        width: 320px;
+    }
+
+    .hp .ph {
+        min-width: 195px;
+    }
+    .hp .ph .d {
+        margin-left: -105px;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .hp {
+        width: 300px;
+    }
+
+    .hp .ph {
+        min-width: 175px;
+    }
+    .hp .ph .d {
+        margin-left: -125px;
+    }
 }
 
 
 .share {
-    max-width: 640px;
+    max-width: 768px;
     height: 50px;
     margin-top: 25px;
     margin-right: auto;
@@ -220,7 +292,25 @@
     transform: translate(-100000px);
 }
 
-@media only screen and (max-width: 640px) {
+@media only screen and (max-width: 768px) {
+    .share {
+        width: 425px;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .share {
+        width: 375px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .share {
+        width: 320px;
+    }
+}
+
+@media only screen and (max-width: 320px) {
     .share {
         width: 300px;
     }
@@ -265,6 +355,7 @@
 .pi-b1 {
     height: auto;
     margin-right: auto;
+    margin-bottom: 30px;
     margin-left: auto;
     background-color: #000000;
     border-radius: 5px;
@@ -312,6 +403,43 @@
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+}
+
+.pi-b1 .pi-b2 .pi-b3 .pi-b4 .pi-chlgs {
+    height: auto;
+    margin-bottom: 10px;
+}
+.pi-b1 .pi-b2 .pi-b3 .pi-b4 .pi-chlgs h5 {
+    height: 25px;
+    margin-left: auto;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.pi-b1 .pi-b2 .pi-b3 .pi-b4 .pi-chlgs h5#pi-chlgs-unread:before {
+    content: '';
+    width: 600px;
+    height: 25px;
+    position: absolute;
+    background: linear-gradient(transparent, 20px, #000000);
+}
+.pi-b1 .pi-b2 .pi-b3 .pi-b4 .pi-chlgs h5#pi-chlgs-read:before {
+    opacity: 0%;
+}
+
+.pi-b1 .pi-b2 .pi-b3 .pi-b4 .pi-cr {
+    display: flex;
+    height: auto;
+    margin-bottom: 10px;
+}
+.pi-b1 .pi-b2 .pi-b3 .pi-b4 .pi-cr h5 {
+    height: auto;
+    margin-left: auto;
+    color: #626262;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    cursor: pointer;
 }
 
 .pi-b1 .pi-b2 .pi-b3 .pi-b4 hr {
