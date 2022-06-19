@@ -114,13 +114,29 @@ function hideAlert() {
 }
 
 
-function readMore() {
-  document.getElementById("button").onclick = readLess;
+function readMorePD() {
+  document.getElementById("button-d").onclick = readLessPD;
   document.getElementById("pi-d").style.whiteSpace = "normal";
-  document.getElementById("show").innerHTML = '-';
+  document.getElementById("show-d").innerHTML = '-';
 }
-function readLess() {
-  document.getElementById("button").onclick = readMore;
+function readLessPD() {
+  document.getElementById("button-d").onclick = readMorePD;
   document.getElementById("pi-d").style.whiteSpace = "nowrap";
-  document.getElementById("show").innerHTML = '+';
+  document.getElementById("show-d").innerHTML = '+';
+}
+
+
+function readMoreCHLGS() {
+  document.getElementById("button-chlgs").onclick = readLessCHLGS;
+  document.getElementById("pi-chlgs-unread").style.whiteSpace = "normal";
+  document.getElementById("pi-chlgs-unread").id = "pi-chlgs-read";
+  $("#pi-cr").hide()
+  document.getElementById("show-chlgs").innerHTML = '-';
+}
+function readLessCHLGS() {
+  document.getElementById("button-chlgs").onclick = readMoreCHLGS;
+  document.getElementById("pi-chlgs-read").style.whiteSpace = "nowrap";
+  document.getElementById("pi-chlgs-read").id = "pi-chlgs-unread";
+  document.getElementById("pi-cr").style.display = "flex";
+  document.getElementById("show-chlgs").innerHTML = '+';
 }
