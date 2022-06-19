@@ -1,3 +1,5 @@
 ﻿RFB Store
+- "changelogs" is here!(look it up on inspector tool 👀)
 - Tweak the Pack UI from scratch
+- Tweak the back button on the top-left corner when resizing the window for a more natural gap between the corner and thicon
 - fix where if you tap the right side of the author's name far away, it taps
