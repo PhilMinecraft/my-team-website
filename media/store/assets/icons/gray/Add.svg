@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="180mm"
-   height="180mm"
-   viewBox="0 0 180 180"
+   width="110mm"
+   height="110mm"
+   viewBox="0 0 110 110"
    version="1.1"
    id="svg829"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -28,9 +28,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.15"
-     inkscape:cx="331.30435"
-     inkscape:cy="343.04348"
+     inkscape:zoom="1.5"
+     inkscape:cx="230"
+     inkscape:cy="205"
      inkscape:window-width="1920"
      inkscape:window-height="1005"
      inkscape:window-x="-9"
@@ -44,19 +44,20 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#484d4a;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
-       id="rect912"
+       style="fill:#484d4a;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       id="rect1923-1"
        width="20"
-       height="180"
-       x="80"
+       height="110"
+       x="45"
        y="0" />
     <rect
-       style="fill:#484d4a;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
-       id="rect912-1"
-       width="180"
-       height="20"
-       x="0"
-       y="80" />
+       style="fill:#484d4a;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       id="rect1923-1-0"
+       width="20.000008"
+       height="110"
+       x="-65.000008"
+       y="0"
+       transform="rotate(-90)" />
   </g>
   <metadata
      id="metadata1016">
