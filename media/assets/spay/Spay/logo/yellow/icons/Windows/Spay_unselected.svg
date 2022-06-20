@@ -45,29 +45,30 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g858">
+       id="g1151">
       <path
          id="rect1014"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
          d="M 28.899996,-4.9291748e-5 C 12.889395,-4.9291748e-5 -4.9291748e-5,12.889395 -4.9291748e-5,28.899996 V 181.10001 c 0,16.0106 12.889444291748,28.90004 28.900045291748,28.90004 H 181.10001 c 16.0106,0 28.90004,-12.88944 28.90004,-28.90004 V 28.899996 c 0,-16.010601 -12.88944,-28.900045291748 -28.90004,-28.900045291748 z M 40.286895,15.711136 H 169.7131 c 13.61496,0 24.57576,10.960804 24.57576,24.575759 V 169.7131 c 0,13.61496 -10.9608,24.57576 -24.57576,24.57576 H 40.286895 c -13.614955,0 -24.575759,-10.9608 -24.575759,-24.57576 V 40.286895 c 0,-13.614955 10.960804,-24.575759 24.575759,-24.575759 z" />
       <g
-         id="g852">
+         id="g888"
+         transform="translate(5.4618988,-5.5724945)">
         <rect
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
+           style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
            id="rect2819"
            width="31.24095"
            height="55.728878"
-           x="31.423702"
-           y="122.84802"
+           x="25.961803"
+           y="128.42052"
            rx="15.620475"
            ry="13.89371" />
         <rect
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
+           style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
            id="rect2819-5"
            width="31.24095"
            height="55.728878"
-           x="79.045242"
-           y="122.84802"
+           x="73.583344"
+           y="128.42052"
            rx="15.620475"
            ry="13.89371" />
       </g>

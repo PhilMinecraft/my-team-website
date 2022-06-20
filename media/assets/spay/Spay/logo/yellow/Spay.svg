@@ -49,40 +49,11 @@
      id="layer1">
     <g
        id="g1064">
-      <g
-         id="g842">
-        <rect
-           style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
-           id="rect2215"
-           width="210"
-           height="210"
-           x="1e-06"
-           y="1e-06"
-           rx="37.153999"
-           ry="32.307693" />
-        <g
-           id="g832"
-           transform="matrix(1.6153846,0,0,1.6153846,-64.615383,-64.615383)">
-          <rect
-             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
-             id="rect2819"
-             width="19.339636"
-             height="34.498829"
-             x="49.52"
-             y="126.05"
-             rx="9.6698179"
-             ry="8.6008682" />
-          <rect
-             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
-             id="rect2819-5"
-             width="19.339636"
-             height="34.498829"
-             x="79"
-             y="126.05"
-             rx="9.6698179"
-             ry="8.6008682" />
-        </g>
-      </g>
+      <path
+         id="rect2215"
+         style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
+         d="M 140.42383 0 C 62.628618 1.8947806e-14 0 54.459694 0 122.10742 L 0 671.59375 C 5.6843418e-14 739.24148 62.628618 793.70117 140.42383 793.70117 L 653.27539 793.70117 C 731.0706 793.70117 793.70117 739.24148 793.70117 671.59375 L 793.70117 122.10742 C 793.70117 54.459694 731.0706 9.4739031e-15 653.27539 0 L 140.42383 0 z M 117.16211 525.36914 C 149.86917 525.36914 176.19922 548.7894 176.19922 577.88086 L 176.19922 683.48633 C 176.19922 712.57779 149.86917 735.99805 117.16211 735.99805 C 84.455049 735.99805 58.123047 712.57779 58.123047 683.48633 L 58.123047 577.88086 C 58.123047 548.7894 84.455049 525.36914 117.16211 525.36914 z M 297.14844 525.36914 C 329.8555 525.36914 356.18555 548.7894 356.18555 577.88086 L 356.18555 683.48633 C 356.18555 712.57779 329.8555 735.99805 297.14844 735.99805 C 264.44138 735.99805 238.10937 712.57779 238.10938 683.48633 L 238.10938 577.88086 C 238.10938 548.7894 264.44138 525.36914 297.14844 525.36914 z "
+         transform="scale(0.26458333)" />
     </g>
   </g>
   <metadata
