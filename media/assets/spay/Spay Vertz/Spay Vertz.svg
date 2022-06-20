@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="240mm"
+   height="240mm"
+   viewBox="0 0 240 240"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Spay Vertz.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title2176">Spay Vertz</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     height="240mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.8"
+     inkscape:cx="453.75"
+     inkscape:cy="453.125"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g843">
+      <rect
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
+         id="rect2111"
+         width="239.99998"
+         height="239.99998"
+         x="4.5000002e-06"
+         y="4.5000002e-06"
+         ry="22.835821"
+         rx="22.835821" />
+      <g
+         id="g839"
+         transform="matrix(0.61904733,0,0,0.61904733,55,55)">
+        <path
+           id="rect846"
+           style="fill:#ffff00;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+           d="M 161.76367,0 C 130.3558,0 105.07031,25.285487 105.07031,56.693359 V 737.00781 c 0,31.40788 25.28549,56.69336 56.69336,56.69336 H 631.9375 c 31.40787,0 56.69336,-25.28548 56.69336,-56.69336 V 56.693359 C 688.63086,25.285487 663.34537,0 631.9375,0 H 336.0332 l 45.28907,135.63867 H 320.99023 L 275.70117,0 h -45.29101 l 45.29101,135.63867 H 215.36914 L 170.07812,0 Z m 235.08594,226.77148 c 62.81575,0 113.38672,50.57098 113.38672,113.38672 0,62.81575 -50.57097,113.38477 -113.38672,113.38477 -62.81575,0 -113.38477,-50.56902 -113.38477,-113.38477 0,-62.81574 50.56902,-113.38672 113.38477,-113.38672 z"
+           transform="scale(0.26458333)" />
+        <g
+           id="g832-7"
+           transform="matrix(1.6153799,0,0,1.6153799,-34.993613,-58.618641)">
+          <rect
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
+             id="rect2819-3"
+             width="19.339636"
+             height="34.498829"
+             x="49.52"
+             y="126.05"
+             rx="9.6698179"
+             ry="8.6008682" />
+          <rect
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
+             id="rect2819-5-1"
+             width="19.339636"
+             height="34.498829"
+             x="79"
+             y="126.05"
+             rx="9.6698179"
+             ry="8.6008682" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata2174">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Spay Vertz</dc:title>
+        <dc:date>4/22/2022</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>PhilMinecraft</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>RareFrostbites, Spay Team</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Spay</rdf:li>
+            <rdf:li>Spay Vertz</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>Spay Vertz is a vertical (and short-form) video and photo platform, you can upload photos and videos (from 1-5 mins length). If you came from TikTok, then this service is similar to them.</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
