@@ -35,13 +35,13 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6" />
   <g
-     id="g845">
+     id="g881">
     <path
        id="rect1184"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
        d="M 21,30 C 9.366,30 0,38.3625 0,48.75 v 112.5 C 0,171.6375 9.366,180 21,180 h 130.7793 c 11.634,0 21,-8.3625 21,-18.75 V 48.75 c 0,-10.3875 -9.366,-18.75 -21,-18.75 z m 84.3457,52.205078 c 8.66384,0 15.63868,6.204063 15.63868,13.910156 v 27.974606 c 0,7.7061 -6.97484,13.91016 -15.63868,13.91016 -8.663834,0 -15.638669,-6.20406 -15.638669,-13.91016 V 96.115234 c 0,-7.706093 6.974835,-13.910156 15.638669,-13.910156 z m -47.707028,0.002 c 8.663837,0 15.638672,6.20211 15.638672,13.908203 V 124.08984 C 73.277344,131.79594 66.302509,138 57.638672,138 48.974835,138 42,131.79594 42,124.08984 V 96.115234 c 0,-7.706093 6.974835,-13.908203 15.638672,-13.908203 z" />
     <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 165.76715,74.232845 210,30 h -59.39697 z"
        id="path1450" />
   </g>
