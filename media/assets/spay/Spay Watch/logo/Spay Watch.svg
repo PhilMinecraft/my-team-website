@@ -48,7 +48,8 @@
     <g
        id="g842">
       <g
-         id="g5771">
+         id="g5771"
+         transform="matrix(0.99999707,0,0,0.99999707,5.1651024e-4,0.00129431)">
         <g
            id="g5647">
           <path
@@ -74,7 +75,7 @@
             <path
                id="rect1632"
                style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#ffa47b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.99177"
-               d="M 56.693359 105.06641 C 25.285487 105.06641 1.8947806e-14 130.35189 0 161.75977 C 0 193.16764 25.285487 218.45313 56.693359 218.45312 L 141.68164 218.45312 L 103.75391 105.06641 L 56.693359 105.06641 z M 164.22656 105.06641 L 202.1543 218.45312 L 247.66016 218.45312 L 209.73242 105.06641 L 164.22656 105.06641 z M 270.20508 105.06641 L 308.13281 218.45312 L 353.78516 218.45312 L 315.85742 105.06641 L 270.20508 105.06641 z M 376.33008 105.06641 L 414.25781 218.45312 L 737.00781 218.45312 C 768.41569 218.45312 793.70117 193.16764 793.70117 161.75977 C 793.70117 130.35189 768.41569 105.06641 737.00781 105.06641 L 376.33008 105.06641 z "
+               d="M 56.693359,105.06641 C 25.285487,105.06641 0,130.35189 0,161.75977 c 0,31.40787 25.285487,56.69336 56.693359,56.69335 H 141.68164 L 103.75391,105.06641 Z m 107.533201,0 37.92774,113.38671 h 45.50586 L 209.73242,105.06641 Z m 105.97852,0 37.92773,113.38671 h 45.65235 L 315.85742,105.06641 Z m 106.125,0 37.92773,113.38671 h 322.75 c 31.40788,0 56.69336,-25.28548 56.69336,-56.69335 0,-31.40788 -25.28548,-56.69336 -56.69336,-56.69336 z"
                transform="scale(0.26458333)" />
             <rect
                style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#ffa47b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.99177"
@@ -133,7 +134,7 @@
             <rdf:li>Spay Watch</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:description>Spay Watch is a video sharing platform site made by Spay Team dedicated for long-form content that's kinda like YouTube...?</dc:description>
+        <dc:description>Spay Watch is a video sharing platform site made by Spay Team dedicated for long-form content, kinda like YouTube...?</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
