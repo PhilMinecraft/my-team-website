@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="210mm"
+   viewBox="0 0 210 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Spay Grids.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title4085">Spay Grids</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.71"
+     inkscape:cx="398.59155"
+     inkscape:cy="389.43662"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect849"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+       d="M 151.18164 105.07031 C 67.427316 105.07031 1.8947806e-14 172.49762 0 256.25195 L 0 537.44922 C 0 621.20351 67.427316 688.63086 151.18164 688.63086 L 642.51953 688.63086 C 726.27386 688.63086 793.70117 621.20351 793.70117 537.44922 L 793.70117 256.25195 C 793.70117 172.49762 726.27386 105.07031 642.51953 105.07031 L 151.18164 105.07031 z M 187.95898 188.99023 A 37.795276 37.795276 0 0 1 202.49414 191.47656 A 37.795276 37.795276 0 0 1 224.27344 240.2832 L 224.26562 240.30469 A 37.795276 37.795276 0 0 1 175.44922 262.0625 A 37.795276 37.795276 0 0 1 153.68359 213.25 A 37.795276 37.795276 0 0 1 187.95898 188.99023 z M 396.38477 264.56836 A 56.692909 56.692909 0 0 1 417.12695 268.31641 A 56.692909 56.692909 0 0 1 449.79688 341.52734 L 449.78516 341.55859 A 56.692909 56.692909 0 0 1 376.55859 374.19727 A 56.692909 56.692909 0 0 1 343.91016 300.97656 A 56.692909 56.692909 0 0 1 396.38477 264.56836 z M 114.34766 438.39844 C 145.49724 438.39844 170.57422 460.70401 170.57422 488.41016 L 170.57422 588.98633 C 170.57422 616.69248 145.49724 638.99805 114.34766 638.99805 C 83.198076 638.99805 58.121094 616.69248 58.121094 588.98633 L 58.121094 488.41016 C 58.121094 460.70401 83.198076 438.39844 114.34766 438.39844 z M 285.76367 438.39844 C 316.91325 438.39844 341.99023 460.70401 341.99023 488.41016 L 341.99023 588.98633 C 341.99023 616.69248 316.91325 638.99805 285.76367 638.99805 C 254.61409 638.99805 229.53711 616.69248 229.53711 588.98633 L 229.53711 488.41016 C 229.53711 460.70401 254.61409 438.39844 285.76367 438.39844 z "
+       transform="scale(0.26458333)" />
+  </g>
+  <metadata
+     id="metadata4083">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Spay Grids</dc:title>
+        <dc:date>4/18/2022</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>PhilMinecraft</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>RareFrostbites, Spay Team</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Spay</rdf:li>
+            <rdf:li>Spay Grids</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>Spay Chat is a photo-sharing site where you can flex your photos and mini videos. You know Instagram right?</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
