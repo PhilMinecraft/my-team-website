@@ -3,6 +3,7 @@ const packinfo = {
         // Tags
         "tags" : "TAGS:",
 
+        "tags_i-Group" : "Group",
         "tags_i-Pixel_Art" : "Pixel Art",
         "tags_i-Stylized" : "Stylized",
 
@@ -10,6 +11,7 @@ const packinfo = {
         "genres" : "GENRES:",
 
         "genres_i-Chinese" : "Chinese",
+        "genres_i-Christmas" : "Christmas",
 
         // Players
         "players" : "PLAYERS:",
@@ -20,6 +22,7 @@ const packinfo = {
         // Tags
         "tags" : "TAGS:",
 
+        "tags_i-Group" : "Group",
         "tags_i-Pixel_Art" : "Pixel Art",
         "tags_i-Stylized" : "Stylized",
 
@@ -27,6 +30,7 @@ const packinfo = {
         "genres" : "GENRES:",
 
         "genres_i-Chinese" : "Chinese",
+        "genres_i-Christmas" : "Christmas",
 
         // Players
         "players" : "PLAYERS:",
@@ -37,6 +41,7 @@ const packinfo = {
         // Tags
         "tags" : "ETIQUETAS:",
 
+        "tags_i-Group" : "Grupo",
         "tags_i-Pixel_Art" : "Arte de Píxeles",
         "tags_i-Stylized" : "Estilizado",
 
@@ -44,6 +49,7 @@ const packinfo = {
         "genres" : "GÉNEROS:",
 
         "genres_i-Chinese" : "Chino",
+        "genres_i-Christmas" : "Navidad",
 
         // Players
         "players" : "JUGADORES:",
@@ -54,6 +60,7 @@ const packinfo = {
         // Tags
         "tags" : "MGA TAG:",
 
+        "tags_i-Group" : "Grupo",
         "tags_i-Pixel_Art" : "Pixel Art",
         "tags_i-Stylized" : "Stylized",
 
@@ -61,6 +68,7 @@ const packinfo = {
         "genres" : "MGA GENRE:",
 
         "genres_i-Chinese" : "Chinese",
+        "genres_i-Christmas" : "Christmas",
 
         // Players
         "players" : "MGA PLAYER:",
@@ -71,6 +79,7 @@ const packinfo = {
         // Tags
         "tags" : "टैग:",
 
+        "tags_i-Group" : "समूहीकृत",
         "tags_i-Pixel_Art" : "पिक्सेल कला",
         "tags_i-Stylized" : "शैलीबद्ध",
 
@@ -78,6 +87,7 @@ const packinfo = {
         "genres" : "शैलियों:",
 
         "genres_i-Chinese" : "चीनी",
+        "genres_i-Christmas" : "क्रिसमस",
 
         // Players
         "players" : "खिलाड़ियों:",
@@ -88,6 +98,7 @@ const packinfo = {
         // Tags
         "tags" : "TAGS:",
 
+        "tags_i-Group" : "Kelompok",
         "tags_i-Pixel_Art" : "Seni Piksel",
         "tags_i-Stylized" : "Bergaya",
 
@@ -95,6 +106,7 @@ const packinfo = {
         "genres" : "GENRE:",
 
         "genres_i-Chinese" : "Cina",
+        "genres_i-Christmas" : "Natal",
 
         // Players
         "players" : "PEMAIN:",
@@ -105,6 +117,7 @@ const packinfo = {
         // Tags
         "tags" : "タグ：",
 
+        "tags_i-Group" : "集団",
         "tags_i-Pixel_Art" : "ピクセルアート",
         "tags_i-Stylized" : "定型 化 された",
 
@@ -112,6 +125,7 @@ const packinfo = {
         "genres" : "ジャンル：",
 
         "genres_i-Chinese" : "中国語",
+        "genres_i-Christmas" : "クリスマス",
 
         // Players
         "players" : "選手：",
@@ -122,6 +136,7 @@ const packinfo = {
         // Tags
         "tags" : "ស្លាក:",
 
+        "tags_i-Group" : "ក្រុម",
         "tags_i-Pixel_Art" : "គំនូរ Pixel",
         "tags_i-Stylized" : "រចនាប័ទ្ម",
 
@@ -129,6 +144,7 @@ const packinfo = {
         "genres" : "ប្រភេទ៖",
 
         "genres_i-Chinese" : "ភាសាចិន",
+        "genres_i-Christmas" : "បុណ្យណូអែល",
 
         // Players
         "players" : "អ្នកលេង៖",
@@ -139,6 +155,7 @@ const packinfo = {
         // Tags
         "tags" : "TAGS:",
 
+        "tags_i-Group" : "그룹",
         "tags_i-Pixel_Art" : "픽셀 아트",
         "tags_i-Stylized" : "양식에 일치 시키는",
 
@@ -146,6 +163,7 @@ const packinfo = {
         "genres" : "GENRES:",
 
         "genres_i-Chinese" : "중국어",
+        "genres_i-Christmas" : "크리스마스",
 
         // Players
         "players" : "PLAYERS:",
@@ -156,6 +174,7 @@ const packinfo = {
         // Tags
         "tags" : "TAGS:",
 
+        "tags_i-Group" : "Kumpulan",
         "tags_i-Pixel_Art" : "Lukisan Piksel",
         "tags_i-Stylized" : "Digayakan",
 
@@ -163,6 +182,7 @@ const packinfo = {
         "genres" : "GENRE:",
 
         "genres_i-Chinese" : "Cina",
+        "genres_i-Christmas" : "Krismas",
 
         // Players
         "players" : "PEMAIN:",
@@ -173,6 +193,7 @@ const packinfo = {
         // Tags
         "tags" : "တက်ဂ်များ",
 
+        "tags_i-Group" : "အုပ်စု",
         "tags_i-Pixel_Art" : "Pixel Art",
         "tags_i-Stylized" : "စတိုင်လစ်",
 
@@ -180,6 +201,7 @@ const packinfo = {
         "genres" : "အမျိုးအစားများ-",
 
         "genres_i-Chinese" : "တရုတ်",
+        "genres_i-Christmas" : "ခရစ္စမတ်",
 
         // Players
         "players" : "ကစားသမားများ-",
@@ -190,6 +212,7 @@ const packinfo = {
         // Tags
         "tags" : "ETIQUETAS:",
 
+        "tags_i-Group" : "Grupo",
         "tags_i-Pixel_Art" : "Pixel Art",
         "tags_i-Stylized" : "Estilizado",
 
@@ -197,6 +220,7 @@ const packinfo = {
         "genres" : "GÉNEROS:",
 
         "genres_i-Chinese" : "Chinês",
+        "genres_i-Christmas" : "Natal",
 
         // Players
         "players" : "JOGADORES:",
@@ -207,6 +231,7 @@ const packinfo = {
         // Tags
         "tags" : "ТЕГИ:",
 
+        "tags_i-Group" : "Группа",
         "tags_i-Pixel_Art" : "Пиксельная Графика",
         "tags_i-Stylized" : "Стилизованный",
 
@@ -214,6 +239,7 @@ const packinfo = {
         "genres" : "ЖАНРОВ:",
 
         "genres_i-Chinese" : "Китайский",
+        "genres_i-Christmas" : "Рождество",
 
         // Players
         "players" : "ИГРОКОВ:",
@@ -224,6 +250,7 @@ const packinfo = {
         // Tags
         "tags" : "TAGS:",
 
+        "tags_i-Group" : "Nhóm",
         "tags_i-Pixel_Art" : "Pixel Art",
         "tags_i-Stylized" : "Cách điệu",
 
@@ -231,6 +258,7 @@ const packinfo = {
         "genres" : "THỂ LOẠI:",
 
         "genres_i-Chinese" : "Trung quốc",
+        "genres_i-Christmas" : "Giáng sinh",
 
         // Players
         "players" : "CẦU THỦ:",
@@ -241,6 +269,7 @@ const packinfo = {
         // Tags
         "tags" : "标签：",
 
+        "tags_i-Group" : "小组",
         "tags_i-Pixel_Art" : "像素艺术",
         "tags_i-Stylized" : "风格",
 
@@ -248,6 +277,7 @@ const packinfo = {
         "genres" : "流派：",
 
         "genres_i-Chinese" : "中文",
+        "genres_i-Christmas" : "圣诞节",
 
         // Players
         "players" : "球员：",
@@ -258,6 +288,7 @@ const packinfo = {
         // Tags
         "tags" : "标签：",
 
+        "tags_i-Group" : "小组",
         "tags_i-Pixel_Art" : "像素艺术",
         "tags_i-Stylized" : "风格",
 
@@ -265,6 +296,7 @@ const packinfo = {
         "genres" : "流派：",
 
         "genres_i-Chinese" : "中文",
+        "genres_i-Christmas" : "圣诞节",
 
         // Players
         "players" : "球员：",
