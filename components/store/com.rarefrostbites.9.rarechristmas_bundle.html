@@ -6,6 +6,14 @@
     </div>
 </div>
 
+<div class="alert-dl" id="alert-dl" style="display: none;">
+    <div class="alert-dl-h">
+        <div class="alert-dl-h-h" id="alert-dl-h-h">
+            <h3 data->The Pack is now downloading...</h3>
+        </div>
+    </div>
+</div>
+
 <div class="hp">
     <div class="pi s">
         <img src="/media/store/com.rarefrostbites.9.rarechristmas_bundle.jpg" alt="Ya Ea">
@@ -22,11 +30,14 @@
         </div>
 
         <div class="d s">
-            <a href="/media/download/com.rarefrostbites.9.rarechristmas_bundle/RareChristmas Bundle (V1).mcpack" download="RareChristmas Bundle (V1).mcpack">
-                <div class="b">
+            <a href="/media/download/com.rarefrostbites.9.rarechristmas_bundle/RareChristmas Bundle (V1).mcpack" id="b" download="RareChristmas Bundle (V1).mcpack">
+                <div class="b" onclick="downloadpack()">
                     <h3 data-pg></h3>
                 </div>
             </a>
+            <div class="b_disabled" id="b-blocked">
+                <h3 data-pg></h3>
+            </div>
         </div>
     </div>
 </div>
@@ -34,7 +45,7 @@
 <div class="share">
     <div class="holder">
         <input type="text" id="cl" value="https://rarefrostbites.pages.dev/store/com.rarefrostbites.9.rarechristmas_bundle" readonly/>
-        <button onclick="copy('cl')">
+        <button onclick="copylink('cl')">
             <img src="/media/store/assets/Share-RFB.svg" alt="">
         </button>
         
