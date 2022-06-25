@@ -101,17 +101,31 @@ const languagePack = {
   }
 }
 
-let timeout;
-let copy = (copy) => {
-  clearTimeout(timeout);
+let timeoutcopylink;
+let copylink = (copy) => {
+  $("#alert-dl").hide();
+  clearTimeout(timeoutcopylink);
   document.getElementById(copy).select();
   document.execCommand("copy");
   document.getElementById("alert-cl").style.display = "flex";
-  timeout = setTimeout(hideAlert, 1500);
+  timeoutcopylink = setTimeout(hidecopylink, 3000);
 };
-function hideAlert() {
-  $("#alert-cl").hide()
-}
+function hidecopylink() {
+  $("#alert-cl").hide();
+};
+
+let timeoutdownloadpack;
+let downloadpack = () => {
+  $("#b").hide();
+  document.getElementById("b-blocked").style.display = "flex";
+  $("#alert-cl").hide();
+  clearTimeout(timeoutdownloadpack);
+  document.getElementById("alert-dl").style.display = "flex";
+  timeoutdownloadpack = setTimeout(hidedownloadpack, 3000);
+};
+function hidedownloadpack() {
+  $("#alert-dl").hide();
+};
 
 
 function readMorePD() {
