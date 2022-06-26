@@ -653,3 +653,134 @@
         width: 640px;
     }
 }
+
+
+.mfa {
+    display: flex;
+    max-width: 1485px;
+    height: 300px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow-y: hidden;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.mfa .an {
+    margin: 15px 0px 0px 15px;
+}
+.mfa .an h2 {
+    font-weight: normal;
+}
+
+.mfa .ps {
+    display: flex;
+    width: 100%;
+    height: 250px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    margin-top: auto;
+    align-items: center;
+    justify-content: flex-start;
+}
+.mfa .ps {
+    scrollbar-width: none;
+}
+.mfa .ps::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+.mfa .ps a {
+    margin-right: 15px;
+    background-color: #494949;
+}
+.mfa .ps a:first-child {
+    margin-left: 15px;
+}
+.mfa .ps a .p {
+    display: flex;
+    min-width: 230px;
+    height: 230px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+.mfa .ps a .p.s .img, .mfa .ps a .p.m .img {
+    width: 230px;
+    height: 132.538px;
+}
+.mfa .ps a .p.s .img img, .mfa .ps a .p.m .img img {
+    max-width: 230px;
+    height: 132.538px;
+}
+.mfa .ps a .p.t .img, .mfa .ps a .p.ma .img {
+    width: 230px;
+    height: 230px;
+}
+.mfa .ps a .p.t .img img, .mfa .ps a .p.ma .img img {
+    max-width: 230px;
+    height: 230px;
+}
+.mfa .ps a .p .ptp {
+    position: relative;
+    width: 230px;
+    height: 97.46px;
+}
+.mfa .ps a .p.m .ptp, .mfa .ps a .p.s .ptp {
+    background-color: #494949;
+}
+.mfa .ps a .p.t .ptp, .mfa .ps a .p.ma .ptp {
+    margin-top: -97.46px;
+    background-color: #494949d8;
+}
+.mfa .ps a .p.m:hover .ptp, .mfa .ps a:hover .p.s .ptp {
+    background-color: #045400;
+}
+.mfa .ps a .p.t:hover .ptp, .mfa .ps a:hover .p.ma .ptp {
+    background-color: #045400d8;
+}
+.mfa .ps a .p .ptp .t {
+    width: 210px;
+    height: 23.2px;
+    margin: 10px 10px 15px 10px;
+}
+.mfa .ps a .p .ptp .t h3 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.mfa .ps a .p .ptp .pp {
+    height: auto;
+    width: auto;
+    float: right;
+    margin-right: 15px;
+}
+.mfa .ps a .p .ptp .pp h4 {
+    padding: 5px;
+    background-color: #15e000;
+    color: #032000;
+}
+.mfa .ps a .p.more {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mfa .ps a .p.more .area {
+    display: flex;
+    width: 210px;
+    height: 210px;
+    background-color: #000000;
+    align-items: center;
+    justify-content: center;
+}
+.mfa .ps a .p.more:hover .area {
+    background-color: #000000bb;
+}
+.mfa .ps a .p.more:active .area {
+    background-color: #00000000;
+}
+.mfa .ps a .p.more .area img {
+    width: 50px;
+    height: 50px;
+}
