@@ -1,10 +1,4 @@
 ﻿RFB Store
 - Added "More from the author's Packs". Tap any Pack and scroll down, you'll see the aunthor's 5 latest Packs
-- "RareChristmas Bundle" Skin Pack is now added (you can now experiment any Pack's UI on not only on "Ya Ea" Texture Pack)
-- "changelogs" is here!(look it up on inspector tool 👀)
-- Tweak the Pack UI from scratch
-- Tweak the back button on the top-left corner when resizing the window for a more natural gap between the corner and thicon
-- fix where if you tap the right side of the author's name far away, it taps
-- The Pack information in GENRES and PLAYERS' small font is now a little bigger
 - When copying a link, the popup on top will stay longer
 - When you tap the download button, it'll be disable until you refresh the Page
