@@ -1,4 +1,5 @@
-﻿RFB Store
-- Added "More from the author's Packs". Tap any Pack and scroll down, you'll see the aunthor's 5 latest Packs
-- When copying a link, the popup on top will stay longer
-- When you tap the download button, it'll be disable until you refresh the Page
+﻿Main
+- We removed the support for Apple Safari's address bar color since Safari already supported the traditional custom address bar color
+
+RFB Store
+- You can now use the filters on the top (Maps, Texture Packs, Skin Packs and Mash-up Packs)
