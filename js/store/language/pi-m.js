@@ -3,6 +3,7 @@ const packinfo = {
         // Tags
         "tags" : "TAGS:",
 
+        "tags_i-Gang" : "Gang",
         "tags_i-Group" : "Group",
         "tags_i-Pixel_Art" : "Pixel Art",
         "tags_i-Stylized" : "Stylized",
@@ -22,6 +23,7 @@ const packinfo = {
         // Tags
         "tags" : "TAGS:",
 
+        "tags_i-Gang" : "Gang",
         "tags_i-Group" : "Group",
         "tags_i-Pixel_Art" : "Pixel Art",
         "tags_i-Stylized" : "Stylized",
@@ -41,6 +43,7 @@ const packinfo = {
         // Tags
         "tags" : "ETIQUETAS:",
 
+        "tags_i-Gang" : "Pandilla",
         "tags_i-Group" : "Grupo",
         "tags_i-Pixel_Art" : "Arte de Píxeles",
         "tags_i-Stylized" : "Estilizado",
@@ -60,6 +63,7 @@ const packinfo = {
         // Tags
         "tags" : "MGA TAG:",
 
+        "tags_i-Gang" : "Gang",
         "tags_i-Group" : "Grupo",
         "tags_i-Pixel_Art" : "Pixel Art",
         "tags_i-Stylized" : "Stylized",
@@ -79,6 +83,7 @@ const packinfo = {
         // Tags
         "tags" : "टैग:",
 
+        "tags_i-Gang" : "दल",
         "tags_i-Group" : "समूहीकृत",
         "tags_i-Pixel_Art" : "पिक्सेल कला",
         "tags_i-Stylized" : "शैलीबद्ध",
@@ -98,6 +103,7 @@ const packinfo = {
         // Tags
         "tags" : "TAGS:",
 
+        "tags_i-Gang" : "Geng",
         "tags_i-Group" : "Kelompok",
         "tags_i-Pixel_Art" : "Seni Piksel",
         "tags_i-Stylized" : "Bergaya",
@@ -117,6 +123,7 @@ const packinfo = {
         // Tags
         "tags" : "タグ：",
 
+        "tags_i-Gang" : "一団",
         "tags_i-Group" : "集団",
         "tags_i-Pixel_Art" : "ピクセルアート",
         "tags_i-Stylized" : "定型 化 された",
@@ -136,6 +143,7 @@ const packinfo = {
         // Tags
         "tags" : "ស្លាក:",
 
+        "tags_i-Gang" : "ក្រុម",
         "tags_i-Group" : "ក្រុម",
         "tags_i-Pixel_Art" : "គំនូរ Pixel",
         "tags_i-Stylized" : "រចនាប័ទ្ម",
@@ -155,6 +163,7 @@ const packinfo = {
         // Tags
         "tags" : "TAGS:",
 
+        "tags_i-Gang" : "갱",
         "tags_i-Group" : "그룹",
         "tags_i-Pixel_Art" : "픽셀 아트",
         "tags_i-Stylized" : "양식에 일치 시키는",
@@ -174,6 +183,7 @@ const packinfo = {
         // Tags
         "tags" : "TAGS:",
 
+        "tags_i-Gang" : "Geng",
         "tags_i-Group" : "Kumpulan",
         "tags_i-Pixel_Art" : "Lukisan Piksel",
         "tags_i-Stylized" : "Digayakan",
@@ -193,6 +203,7 @@ const packinfo = {
         // Tags
         "tags" : "တက်ဂ်များ",
 
+        "tags_i-Gang" : "ဂိုဏ်းဂဏန်း",
         "tags_i-Group" : "အုပ်စု",
         "tags_i-Pixel_Art" : "Pixel Art",
         "tags_i-Stylized" : "စတိုင်လစ်",
@@ -212,6 +223,7 @@ const packinfo = {
         // Tags
         "tags" : "ETIQUETAS:",
 
+        "tags_i-Gang" : "Gangue",
         "tags_i-Group" : "Grupo",
         "tags_i-Pixel_Art" : "Pixel Art",
         "tags_i-Stylized" : "Estilizado",
@@ -231,6 +243,7 @@ const packinfo = {
         // Tags
         "tags" : "ТЕГИ:",
 
+        "tags_i-Gang" : "Банда",
         "tags_i-Group" : "Группа",
         "tags_i-Pixel_Art" : "Пиксельная Графика",
         "tags_i-Stylized" : "Стилизованный",
@@ -250,6 +263,7 @@ const packinfo = {
         // Tags
         "tags" : "TAGS:",
 
+        "tags_i-Gang" : "Bọn",
         "tags_i-Group" : "Nhóm",
         "tags_i-Pixel_Art" : "Pixel Art",
         "tags_i-Stylized" : "Cách điệu",
@@ -269,6 +283,7 @@ const packinfo = {
         // Tags
         "tags" : "标签：",
 
+        "tags_i-Gang" : "岗",
         "tags_i-Group" : "小组",
         "tags_i-Pixel_Art" : "像素艺术",
         "tags_i-Stylized" : "风格",
@@ -288,6 +303,7 @@ const packinfo = {
         // Tags
         "tags" : "标签：",
 
+        "tags_i-Gang" : "岗",
         "tags_i-Group" : "小组",
         "tags_i-Pixel_Art" : "像素艺术",
         "tags_i-Stylized" : "风格",
