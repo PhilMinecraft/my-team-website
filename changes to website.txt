@@ -3,3 +3,4 @@
 
 RFB Store
 - You can now use the filters on the top (Maps, Texture Packs, Skin Packs and Mash-up Packs)
+- Hidden upcomming 3 Skin Packs are in there, you might need to look it up on yourself 👀
