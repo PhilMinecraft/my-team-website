@@ -12,6 +12,7 @@ const packinfo = {
         "genres" : "GENRES:",
 
         "genres_i-Chinese" : "Chinese",
+        "genres_i-Cool" : "Cool",
         "genres_i-Christmas" : "Christmas",
 
         // Players
@@ -32,6 +33,7 @@ const packinfo = {
         "genres" : "GENRES:",
 
         "genres_i-Chinese" : "Chinese",
+        "genres_i-Cool" : "Cool",
         "genres_i-Christmas" : "Christmas",
 
         // Players
@@ -52,6 +54,7 @@ const packinfo = {
         "genres" : "GÉNEROS:",
 
         "genres_i-Chinese" : "Chino",
+        "genres_i-Cool" : "Fresco",
         "genres_i-Christmas" : "Navidad",
 
         // Players
@@ -72,6 +75,7 @@ const packinfo = {
         "genres" : "MGA GENRE:",
 
         "genres_i-Chinese" : "Chinese",
+        "genres_i-Cool" : "Astig",
         "genres_i-Christmas" : "Christmas",
 
         // Players
@@ -92,6 +96,7 @@ const packinfo = {
         "genres" : "शैलियों:",
 
         "genres_i-Chinese" : "चीनी",
+        "genres_i-Cool" : "ठंडा",
         "genres_i-Christmas" : "क्रिसमस",
 
         // Players
@@ -112,6 +117,7 @@ const packinfo = {
         "genres" : "GENRE:",
 
         "genres_i-Chinese" : "Cina",
+        "genres_i-Cool" : "Sejuk",
         "genres_i-Christmas" : "Natal",
 
         // Players
@@ -132,6 +138,7 @@ const packinfo = {
         "genres" : "ジャンル：",
 
         "genres_i-Chinese" : "中国語",
+        "genres_i-Cool" : "涼しい",
         "genres_i-Christmas" : "クリスマス",
 
         // Players
@@ -152,6 +159,7 @@ const packinfo = {
         "genres" : "ប្រភេទ៖",
 
         "genres_i-Chinese" : "ភាសាចិន",
+        "genres_i-Cool" : "ត្រជាក់",
         "genres_i-Christmas" : "បុណ្យណូអែល",
 
         // Players
@@ -172,6 +180,7 @@ const packinfo = {
         "genres" : "GENRES:",
 
         "genres_i-Chinese" : "중국어",
+        "genres_i-Cool" : "시원하다",
         "genres_i-Christmas" : "크리스마스",
 
         // Players
@@ -192,6 +201,7 @@ const packinfo = {
         "genres" : "GENRE:",
 
         "genres_i-Chinese" : "Cina",
+        "genres_i-Cool" : "Sejuk",
         "genres_i-Christmas" : "Krismas",
 
         // Players
@@ -212,6 +222,7 @@ const packinfo = {
         "genres" : "အမျိုးအစားများ-",
 
         "genres_i-Chinese" : "တရုတ်",
+        "genres_i-Cool" : "အေးအေး",
         "genres_i-Christmas" : "ခရစ္စမတ်",
 
         // Players
@@ -232,6 +243,7 @@ const packinfo = {
         "genres" : "GÉNEROS:",
 
         "genres_i-Chinese" : "Chinês",
+        "genres_i-Cool" : "Fresco",
         "genres_i-Christmas" : "Natal",
 
         // Players
@@ -252,6 +264,7 @@ const packinfo = {
         "genres" : "ЖАНРОВ:",
 
         "genres_i-Chinese" : "Китайский",
+        "genres_i-Cool" : "Классно",
         "genres_i-Christmas" : "Рождество",
 
         // Players
@@ -272,6 +285,7 @@ const packinfo = {
         "genres" : "THỂ LOẠI:",
 
         "genres_i-Chinese" : "Trung quốc",
+        "genres_i-Cool" : "Mát",
         "genres_i-Christmas" : "Giáng sinh",
 
         // Players
@@ -292,6 +306,7 @@ const packinfo = {
         "genres" : "流派：",
 
         "genres_i-Chinese" : "中文",
+        "genres_i-Cool" : "凉",
         "genres_i-Christmas" : "圣诞节",
 
         // Players
@@ -312,6 +327,7 @@ const packinfo = {
         "genres" : "流派：",
 
         "genres_i-Chinese" : "中文",
+        "genres_i-Cool" : "凉",
         "genres_i-Christmas" : "圣诞节",
 
         // Players
