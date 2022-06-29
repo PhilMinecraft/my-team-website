@@ -76,7 +76,6 @@ h1 {
   color: white;
   font-family: "Poppins", "Baloo 2", "Kosugi Maru", "Nokora", "Poor Story",
     "Padauk", "Be Vietnam Pro", "VAGRoundedM";
-  font-weight: bold;
   font-size: 2rem;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -87,7 +86,6 @@ h2 {
   color: white;
   font-family: "Poppins", "Baloo 2", "Kosugi Maru", "Nokora", "Poor Story",
     "Padauk", "Be Vietnam Pro", "VAGRoundedM";
-  font-weight: bold;
   font-size: 1.5rem;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -108,7 +106,6 @@ h4 {
   color: white;
   font-family: "Readex Pro", "ZCOOL KuaiLe", "M PLUS 1p", "Kantumruy",
     "Gothic A1", "Noto Sans Myanmar", "Josefin Sans", "VAGRoundedB";
-  font-weight: lighter;
   font-size: 1rem;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -119,7 +116,6 @@ h5 {
   color: white;
   font-family: "Readex Pro", "ZCOOL KuaiLe", "M PLUS 1p", "Kantumruy",
     "Gothic A1", "Noto Sans Myanmar", "Josefin Sans", "VAGRoundedB";
-  font-weight: lighter;
   font-size: 0.83rem;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -130,7 +126,6 @@ h6 {
   color: white;
   font-family: "Readex Pro", "ZCOOL KuaiLe", "M PLUS 1p", "Kantumruy",
     "Gothic A1", "Noto Sans Myanmar", "Josefin Sans", "VAGRoundedB";
-  font-weight: lighter;
   font-size: 0.67rem;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -141,7 +136,6 @@ p {
   color: white;
   font-family: "Readex Pro", "ZCOOL KuaiLe", "M PLUS 1p", "Kantumruy",
     "Gothic A1", "Noto Sans Myanmar", "Josefin Sans", "VAGRoundedB";
-  font-weight: lighter;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: normal;
@@ -151,7 +145,6 @@ ul {
   color: white;
   font-family: "Readex Pro", "ZCOOL KuaiLe", "M PLUS 1p", "Kantumruy",
     "Gothic A1", "Noto Sans Myanmar", "Josefin Sans", "VAGRoundedB";
-  font-weight: lighter;
   text-overflow: ellipsis;
   white-space: normal;
   -webkit-font-smoothing: subpixel-antialiased;
@@ -160,7 +153,6 @@ li {
   color: white;
   font-family: "Readex Pro", "ZCOOL KuaiLe", "M PLUS 1p", "Kantumruy",
     "Gothic A1", "Noto Sans Myanmar", "Josefin Sans", "VAGRoundedB";
-  font-weight: lighter;
   text-overflow: ellipsis;
   white-space: normal;
   -webkit-font-smoothing: subpixel-antialiased;
