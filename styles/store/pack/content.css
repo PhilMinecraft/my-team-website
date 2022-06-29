@@ -353,7 +353,7 @@
     height: 210px;
     margin-right: auto;
     margin-left: auto;
-    overflow-x: scroll;
+    overflow-x: auto;
     align-items: center;
 }
 
