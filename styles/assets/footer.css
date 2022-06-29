@@ -189,15 +189,17 @@
   animation-duration: 0.1s;
 }
 
-.body .footer .language .selection .select img {
-  border-radius: 3px;
+.body .footer .language .selection .select a {
+  display: flex;
+  width: 100%;
+  padding: 5px;
+  text-decoration: none;
+  align-items: center;
+  justify-content: space-between;
 }
 
-.body .footer .language .selection .select h5 {
-  padding: 5px;
-  display: flex;
-  align-items: center;
-  text-decoration: none;
+.body .footer .language .selection .select img {
+  border-radius: 3px;
 }
 
 @media only screen and (max-width: 600px) {
