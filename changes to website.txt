@@ -1,7 +1,7 @@
 ﻿Main
-- font is much thicker now compare to a thin width of a font in Safari browsers
+- Font thickness is changed (the change sync with Safari browsers now)
+- fix the language picker's UI aren't look well
 
 RFB Store
-- Font thickness is changed
 - The address bar color has now its own color similar to the header's color
 - The Preview's (Pack preview before) scrollbar will be hidden when it is not overflow
