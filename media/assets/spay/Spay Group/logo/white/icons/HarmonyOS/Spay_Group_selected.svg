@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="210"
+   height="210"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="Spay_Group_selected.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3"
+     inkscape:cx="105"
+     inkscape:cy="104.83333"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata827">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="" />
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g882">
+    <path
+       id="rect853-4"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+       d="m 18.634374,3.542857 c 0.08184,0.3452606 0.12634,0.7053519 0.12634,1.0763393 V 19.380803 c 0,0.370987 -0.0445,0.731079 -0.12634,1.076339 h 0.12634 0.620089 c 2.559036,0 4.619196,-2.06016 4.619196,-4.619196 V 8.1620533 c 0,-2.5590364 -2.06016,-4.6191963 -4.619196,-4.6191963 h -0.620089 z" />
+    <path
+       id="rect853"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+       d="M 4.6191963,0 C 2.0601598,0 0,2.0601596 0,4.6191963 V 19.380803 c 0,2.559036 2.0601598,4.619196 4.6191963,4.619196 h 7.6758927 c 2.559036,0 4.619196,-2.06016 4.619196,-4.619196 V 4.6191963 C 16.914285,2.0601596 14.854125,0 12.295089,0 Z m 0.3995535,15.573883 c 0.7350826,0 1.3270089,0.526312 1.3270089,1.180135 v 2.373436 c 0,0.653824 -0.5919263,1.180135 -1.3270089,1.180135 -0.7350824,0 -1.3267857,-0.526311 -1.3267856,-1.180135 v -2.373436 c 0,-0.653823 0.5917032,-1.180135 1.3267856,-1.180135 z m 4.0446428,0 c 0.7350825,0 1.3270084,0.526312 1.3270084,1.180135 v 2.373436 c 0,0.653824 -0.5919259,1.180135 -1.3270084,1.180135 -0.7350826,0 -1.3267858,-0.526311 -1.3267858,-1.180135 v -2.373436 c 0,-0.653823 0.5917032,-1.180135 1.3267858,-1.180135 z" />
+  </g>
+</svg>

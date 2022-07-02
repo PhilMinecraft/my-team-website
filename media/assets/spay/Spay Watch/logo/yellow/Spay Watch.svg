@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="210mm"
+   viewBox="0 0 210 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Spay Watch.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title5476">Spay Watch</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="400.22244"
+     inkscape:cy="385.3732"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g842" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g842">
+      <rect
+         style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#ffa47b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.99177"
+         id="rect3607"
+         width="3.9137011"
+         height="14.371609"
+         x="0.00051691505"
+         y="43.428329" />
+      <rect
+         style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#ffa47b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.99177"
+         id="rect3607-2"
+         width="3.9137011"
+         height="14.371609"
+         x="206.0862"
+         y="43.428169" />
+      <g
+         id="g859">
+        <path
+           id="rect2215"
+           style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
+           d="M 164.23047 105.07031 L 209.74219 241.13086 L 149.26953 241.13086 L 103.89844 105.49219 C 45.559659 110.28599 2.8421709e-14 158.84026 0 218.45703 L 0 575.24414 C 0 638.0597 50.571152 688.62891 113.38672 688.62891 L 680.3125 688.62891 C 743.12806 688.62891 793.69922 638.0597 793.69922 575.24414 L 793.69922 218.45703 C 793.69922 155.64146 743.12806 105.07031 680.3125 105.07031 L 376.33008 105.07031 L 421.8418 241.13086 L 361.37109 241.13086 L 315.86133 105.07031 L 270.20703 105.07031 L 315.7207 241.13086 L 255.24805 241.13086 L 209.73633 105.07031 L 164.23047 105.07031 z M 117.16211 438.40234 C 149.86907 438.40234 176.19922 461.82269 176.19922 490.91406 L 176.19922 596.51953 C 176.19922 625.61091 149.86907 649.03125 117.16211 649.03125 C 84.455145 649.03125 58.123047 625.61091 58.123047 596.51953 L 58.123047 490.91406 C 58.123047 461.82269 84.455145 438.40234 117.16211 438.40234 z M 297.14844 438.40234 C 329.8554 438.40234 356.18555 461.82269 356.18555 490.91406 L 356.18555 596.51953 C 356.18555 625.61091 329.8554 649.03125 297.14844 649.03125 C 264.44147 649.03125 238.10937 625.61091 238.10938 596.51953 L 238.10938 490.91406 C 238.10938 461.82269 264.44147 438.40234 297.14844 438.40234 z "
+           transform="scale(0.26458333)" />
+        <g
+           id="g5540"
+           transform="matrix(0.99999707,0,0,0.99999707,5.1651024e-4,0.00129431)">
+          <path
+             id="rect1632"
+             style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#ffa47b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.99177"
+             d="M 56.693359,105.06641 C 25.285487,105.06641 0,130.35189 0,161.75977 c 0,31.40787 25.285487,56.69336 56.693359,56.69335 H 141.68164 L 103.75391,105.06641 Z m 107.533201,0 37.92774,113.38671 h 45.50586 L 209.73242,105.06641 Z m 105.97852,0 37.92773,113.38671 h 45.65235 L 315.85742,105.06641 Z m 106.125,0 37.92773,113.38671 h 322.75 c 31.40788,0 56.69336,-25.28548 56.69336,-56.69335 0,-31.40788 -25.28548,-56.69336 -56.69336,-56.69336 z"
+             transform="scale(0.26458333)" />
+          <rect
+             style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#ffa47b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.99177"
+             id="rect3933"
+             width="30"
+             height="30"
+             x="180"
+             y="27.798817" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata5474">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Spay Watch</dc:title>
+        <dc:date>2/9/2022</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>PhilMinecraft</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>RareFrostbites, Spay Team</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Spay</rdf:li>
+            <rdf:li>Spay Watch</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>Spay Watch is a video sharing platform site made by Spay Team dedicated for long-form content, kinda like YouTube...?</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
