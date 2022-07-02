@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="210"
+   height="210"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="Spay_selected.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.62"
+     inkscape:cx="104.97238"
+     inkscape:cy="105.1105"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">ic_gallery_set</title>
+  <metadata
+     id="metadata827">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>ic_gallery_set</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="99536383908904833182形状结合-5"
+     style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:10.7692"
+     d="M 40.384766 0 L 38.240234 0.056640625 C 16.933529 1.1715606 0 18.800438 0 40.384766 L 0 169.61523 L 0.056640625 171.75977 C 1.1715606 193.06644 18.800438 210 40.384766 210 L 169.61523 210 L 171.75977 209.94336 C 193.06643 208.82864 210 191.19957 210 169.61523 L 210 130.65625 L 210 126.53906 L 210 40.384766 L 209.94336 38.240234 C 208.8289 16.933552 191.19956 1.4210855e-14 169.61523 0 L 83.460938 0 L 72.923828 0 L 40.384766 0 z M 43.914062 136.27148 C 50.346035 136.27148 55.523437 140.87671 55.523438 146.59766 L 55.523438 167.36523 C 55.523438 173.08619 50.346035 177.69141 43.914062 177.69141 C 37.482091 177.69141 32.304687 173.08619 32.304688 167.36523 L 32.304688 146.59766 C 32.304688 140.87671 37.482091 136.27148 43.914062 136.27148 z M 79.304688 136.27148 C 85.73666 136.27148 90.914062 140.87671 90.914062 146.59766 L 90.914062 167.36523 C 90.914062 173.08619 85.73666 177.69141 79.304688 177.69141 C 72.872715 177.69141 67.695312 173.08619 67.695312 167.36523 L 67.695312 146.59766 C 67.695312 140.87671 72.872715 136.27148 79.304688 136.27148 z "
+     transform="scale(0.11428571)" />
+</svg>
