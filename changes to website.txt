@@ -1,6 +1,7 @@
 ﻿Main
 - Font thickness is changed (the change sync with Safari browsers now)
-- fix the language picker's UI aren't look well
+- Fix the language picker's UI aren't look well
+- Fix the App Drawer icon causing to accidentally tap to open even not to the direct icon or area
 
 RFB Store
 - The address bar color has now its own color similar to the header's color
