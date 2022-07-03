@@ -1,8 +1,2 @@
-﻿Main
-- Font thickness is changed (the change sync with Safari browsers now)
-- Fix the language picker's UI aren't look well
-- Fix the App Drawer icon causing to accidentally tap to open even not to the direct icon or area
-
-RFB Store
-- The address bar color has now its own color similar to the header's color
-- The Preview's (Pack preview before) scrollbar will be hidden when it is not overflow
+﻿RFB Store
+- The name above the "more from the author" has been replaced with "Latest Packs" (multiple languages are supported)
