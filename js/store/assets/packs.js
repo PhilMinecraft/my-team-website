@@ -15,8 +15,8 @@ function PackLanguage() {
     }
   }
 }
-  
-  
+
+
 
 let timeoutcopylink;
 let copylink = (copy) => {
@@ -42,6 +42,19 @@ let downloadpack = () => {
 };
 function hidedownloadpack() {
   $("#alert-dl").hide();
+};
+
+let timeoutcopylinkembed;
+let copylinkembed = (copy) => {
+  $("#alert-dl").hide();
+  clearTimeout(timeoutcopylinkembed);
+  document.getElementById(copy).select();
+  document.execCommand("copy");
+  document.getElementById("alert-cl").style.display = "flex";
+  timeoutcopylinkembed = setTimeout(hidecopylinkembed, 3000);
+};
+function hidecopylinkembed() {
+  $("#alert-cl").hide();
 };
 
 

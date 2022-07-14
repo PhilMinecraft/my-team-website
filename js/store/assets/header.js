@@ -11,6 +11,7 @@ function headerScroll() {
 }
 
 
+
 function openLanguage() {
   document.getElementById("current").onclick = closeLanguage;
   document.getElementById("selection").style.display = "flex";
@@ -21,6 +22,8 @@ function closeLanguage() {
   document.getElementById("selection").style.display = "none";
   document.getElementById("language").style.display = "none";
 }
+
+
 
 setTimeout(function () {
   $(".current>img")
@@ -41,3 +44,13 @@ setTimeout(function () {
     ).toUpperCase()
   );
 }, 500);
+
+
+
+function openECP() {
+  document.getElementById("ecp").style.display = "flex";
+}
+
+function closeECP() {
+  document.getElementById("ecp").style.display = "none";
+}
