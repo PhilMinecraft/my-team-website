@@ -5,30 +5,11 @@
   scroll-behavior: smooth;
 }
 ::-webkit-scrollbar {
-  width: 20px;
-  height: 20px;
-  background-color: #434343;
-}
-::-webkit-scrollbar-track {
-  background-color: #434343;
-  border: 7px solid #000000;
-}
-::-webkit-scrollbar-track:hover {
-  background-color: #434343;
-}
-::-webkit-scrollbar-thumb {
-  background-color: #c6c6c6;
-  border: 6px solid #000000;
-}
-::-webkit-scrollbar-thumb:hover {
-  background-color: #c6c6c6;
-}
-::-webkit-scrollbar-thumb:active {
-  background-color: #025f00;
+  width: 0px;
+  height: 0px;
 }
 * {
-  scrollbar-color: #c6c6c6 #434343;
-  scrollbar-width: thin;
+  scrollbar-width: none;
 }
 
 ::selection {
@@ -50,34 +31,6 @@ body {
 button {
   font-family: "MC10", "Mojangles", "Unicode";
   cursor: pointer;
-  background-color: #c6c6c6;
-  border-top: 3px solid #dedede;
-  border-right: 3px solid #656465;
-  border-bottom: 3px solid #656465;
-  border-left: 3px solid #dedede;
-}
-button:hover {
-  background-color: #208100;
-  border-top: 3px solid #18be05;
-  border-right: 3px solid #004e00;
-  border-bottom: 3px solid #004e00;
-  border-left: 3px solid #18be05;
-}
-button:active {
-  background-color: #208100;
-  border-top: 3px solid #004e00;
-  border-right: 3px solid #18be05;
-  border-bottom: 3px solid #18be05;
-  border-left: 3px solid #004e00;
-}
-input {
-  font-family: "Mojangles", "Unicode";
-  color: #fff;
-  background-color: #656465;
-  border-top: 3px solid #494949;
-  border-right: 3px solid #868686;
-  border-bottom: 3px solid #868686;
-  border-left: 3px solid #494949;
 }
 a {
   color: #00ffba;

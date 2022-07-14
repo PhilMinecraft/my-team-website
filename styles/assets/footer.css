@@ -178,6 +178,12 @@
   animation-duration: 0.2s;
   align-items: center;
 }
+.body .footer .language .selection .select:first-child {
+  margin-top: 0px;
+}
+.body .footer .language .selection .select:last-child {
+  margin-bottom: 0px;
+}
 
 .body .footer .language .selection .select:hover {
   background-color: #ffffff43;

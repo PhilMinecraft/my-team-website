@@ -51,8 +51,9 @@
 
 
 .body .header_shadow .mobile-sidebar_button-open-bounce {
-  position: relative;
+  position: fixed;
   margin-left: 20px;
+  top: 15px;
   width: 70px;
   height: 70px;
   z-index: 3;
