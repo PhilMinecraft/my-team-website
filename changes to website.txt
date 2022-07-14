@@ -1,5 +1,5 @@
 ﻿Homepage
-- Fix where the hambuger icon goes abnormal when scrolled down in some browsers
+- Fix where the hamburger icon goes abnormal when scrolled down in some browsers
 
 RFB Store
 - Added an embed support for every Packs (only on 1st Century. Rolling out to other Packs)
