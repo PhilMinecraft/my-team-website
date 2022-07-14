@@ -1,2 +1,6 @@
-﻿RFB Store
-- The name above the "more from the author" has been replaced with "Latest Packs" (multiple languages are supported)
+﻿Homepage
+- Fix where the hambuger icon goes abnormal when scrolled down in some browsers
+
+RFB Store
+- Added an embed support for every Packs (only on 1st Century. Rolling out to other Packs)
+- "Copy Link" alert's position moved up
