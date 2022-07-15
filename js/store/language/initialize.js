@@ -6,6 +6,7 @@ const languageContent = {
     "pg": "Download",
     "pg-e": "Get",
     "cl": "Link copied",
+    "cr": "Continue reading...",
     "dl": "The Pack is now downloading...",
     "cle": "Embed code copied",
     "lp": "Latest Packs"
@@ -15,6 +16,7 @@ const languageContent = {
     "pg": "Download",
     "pg-e": "Get",
     "cl": "Link copied",
+    "cr": "Continue reading...",
     "dl": "The Pack is now downloading...",
     "cle": "Embed code copied",
     "lp": "Latest Packs"
@@ -24,6 +26,7 @@ const languageContent = {
     "pg": "Descargar",
     "pg-e": "Obtener",
     "cl": "Enlace copiado",
+    "cr": "Seguir leyendo...",
     "dl": "El Pack ya está descargando...",
     "cle": "Incrustar código copiado",
     "lp": "Últimos Packs"
@@ -33,6 +36,7 @@ const languageContent = {
     "pg": "I-download",
     "pg-e": "Kunin",
     "cl": "Na-copy ang link",
+    "cr": "I-continue ang pagbabasa...",
     "dl": "Nagda-download na'ng Pack...",
     "cle": "Na-copy ang embed code",
     "lp": "Mga Latest na Pack"
@@ -42,6 +46,7 @@ const languageContent = {
     "pg": "डाउनलोड",
     "pg-e": "मिलना",
     "cl": "लिंक क्लिपबोर्ड में लग चुकी है",
+    "cr": "जारी रखें पढ़ने के लिए ...",
     "dl": "पैक अब डाउनलोड हो रहा है ...",
     "cle": "एम्बेड कोड की प्रतिलिपि बनाई गई",
     "lp": "नवीनतम पैक"
@@ -51,6 +56,7 @@ const languageContent = {
     "pg": "Unduh",
     "pg-e": "Dapat",
     "cl": "Tautan disalin",
+    "cr": "Lanjutkan membaca...",
     "dl": "Paket sekarang mengunduh ...",
     "cle": "Sematkan kode disalin",
     "lp": "Paket Terbaru"
@@ -60,6 +66,7 @@ const languageContent = {
     "pg": "ダウンロード",
     "pg-e": "取得",
     "cl": "コピーされたリンク",
+    "cr": "続きを読む...",
     "dl": "パックは現在ダウンロード中です...",
     "cle": "コピーされた埋め込みコード",
     "lp": "最新パック"
@@ -69,6 +76,7 @@ const languageContent = {
     "pg": "ទាញយក",
     "pg-e": "ទទួលបាន",
     "cl": "តំណ ដែល បាន ចម្លង",
+    "cr": "អានបន្ត...",
     "dl": "ឥឡូវ Pack កំពុង ទាញ យក...",
     "cle": "លេខកូដ embed ចម្លង",
     "lp": "កញ្ចប់ ចុងក្រោយ បំផុត"
@@ -78,6 +86,7 @@ const languageContent = {
     "pg": "다운로드",
     "pg-e": "가져오기",
     "cl": "링크 복사됨",
+    "cr": "계속 읽기 ...",
     "dl": "팩이 지금 다운로드 중입니다 ...",
     "cle": "복사된 임베드 코드",
     "lp": "최신 팩"
@@ -87,6 +96,7 @@ const languageContent = {
     "pg": "Muat turun",
     "pg-e": "Mendapatkan",
     "cl": "Pautan disalin",
+    "cr": "Teruskan membaca...",
     "dl": "Pek kini sedang memuat turun...",
     "cle": "Kod benam disalin",
     "lp": "Pek Terkini"
@@ -96,6 +106,7 @@ const languageContent = {
     "pg": "ဒေါင်းလုတ်ဆွဲပါ",
     "pg-e": "ရအောင်လုပ်ပါ",
     "cl": "လင့်ခ်ကူးယူထား",
+    "cr": "ဆက်လက်ဖတ်ရှုပါ...",
     "dl": "ပက်က ယခု ကူးယူနေပြီ......",
     "cle": "ထုပ်ပိုးထားတဲ့ ကုဒ်ကူးယူထားတဲ့",
     "lp": "နောက်ဆုံးပက်ခ်များ"
@@ -105,6 +116,7 @@ const languageContent = {
     "pg": "Baixar",
     "pg-e": "Obter",
     "cl": "Ligação copiada",
+    "cr": "Continuar a ler...",
     "dl": "O Pack está agora a descarregar...",
     "cle": "Código incorporado copiado",
     "lp": "Pacotes mais Recentes"
@@ -114,6 +126,7 @@ const languageContent = {
     "pg": "Загружать",
     "pg-e": "Получить",
     "cl": "Ссылка скопирована",
+    "cr": "Читать далее...",
     "dl": "Пакет теперь загружается...",
     "cle": "Копирование кода внедрения",
     "lp": "Последние Пакеты"
@@ -123,6 +136,7 @@ const languageContent = {
     "pg": "Tải xuống",
     "pg-e": "Được",
     "cl": "Nối kết được sao chép",
+    "cr": "Đọc tiếp...",
     "dl": "Gói hiện đang tải xuống...",
     "cle": "Nhúng mã đã sao chép",
     "lp": "Gói mới Nhất"
@@ -132,6 +146,7 @@ const languageContent = {
     "pg": "下载",
     "pg-e": "获取",
     "cl": "链接已复制",
+    "cr": "继续阅读...",
     "dl": "该包现在正在下载...",
     "cle": "嵌入代码已复制",
     "lp": "最新包装"
@@ -141,6 +156,7 @@ const languageContent = {
     "pg": "下载",
     "pg-e": "获取",
     "cl": "链接已复制",
+    "cr": "继续阅读...",
     "dl": "该包现在正在下载...",
     "cle": "嵌入代码已复制",
     "lp": "最新包装"
