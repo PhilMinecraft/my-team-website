@@ -1,6 +1,8 @@
 ﻿Homepage
-- Fix where the hamburger icon goes abnormal when scrolled down in some browsers
+- Fix the logo on larger screens caused to move to the left when scrolled down
 
 RFB Store
-- Added an embed support for every Packs (only on 1st Century. Rolling out to other Packs)
-- "Copy Link" alert's position moved up
+- Improved content load on every Pack
+- The "The Pack is now downloading..." popup is now available at any languages we support
+- "Link copied" popup when copying an embed code now changed into "Embed code copied" (supports many languages)
+- Fix the keyboard showing after copying an embed code
