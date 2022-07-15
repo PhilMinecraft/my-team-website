@@ -44,13 +44,3 @@ setTimeout(function () {
     ).toUpperCase()
   );
 }, 500);
-
-
-
-function openECP() {
-  document.getElementById("ecp").style.display = "flex";
-}
-
-function closeECP() {
-  document.getElementById("ecp").style.display = "none";
-}
