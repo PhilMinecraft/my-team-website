@@ -55,7 +55,7 @@ const RFBStore_filters = {
         "rfbstore-filter-maps": "ផែនទី",
         "rfbstore-filter-texture_packs": "កញ្ចប់ វាយនភាព",
         "rfbstore-filter-skin_packs": "១. ខ្ចប់ស្បែក",
-        "rfbstore-filter-mash-up_packs": "Mash-up Packs"
+        "rfbstore-filter-mash-up_packs": "កញ្ចប់ម៉ាស"
       },
       "ko-kr": {
         "rfbstore-filter-maps": "지도",
