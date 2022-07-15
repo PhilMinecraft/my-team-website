@@ -63,15 +63,24 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="/js/include.components.js"></script>
 
-    <script src="/js/embeds/store/assets/packs/size-embed.js"></script>
     <script src="/js/store/packs/com.rarefrostbites.8.1st_century.js"></script>
     <script src="/js/store/language/initialize.js"></script>
     <script src="/js/store/language/pi-m.js"></script>
     <script src="/js/store/assets/language.js"></script>
     <script>
       include("/components/store/pack/header.html", "", "div.header", 0);
-      include("/components/store/com.rarefrostbites.8.1st_century.html", "", "div.content", 0);
-      include("/components/store/pack/mfa/000001/c.html", "", "div.mfa", 0);
+      include("/components/store/assets/pack_skin.html", "", "div.content", 10);
+      include("/components/store/pack/contents/com.rarefrostbites.8.1st_century/iframeembed.html", "", "div.iframe", 10);
+      include("/components/store/pack/contents/com.rarefrostbites.8.1st_century/embedcode.html", "", "div.btn", 10);
+      include("/components/store/pack/contents/com.rarefrostbites.8.1st_century/pi.html", "", "div.pi", 20);
+      include("/components/store/pack/mfa/000001/pa.html", "", "div.pa", 10);
+      include("/components/store/pack/contents/com.rarefrostbites.8.1st_century/d.html", "", "div.d", 10);
+      include("/components/store/pack/contents/com.rarefrostbites.8.1st_century/share.html", "", "div.holder", 10);
+      include("/components/store/pack/contents/com.rarefrostbites.8.1st_century/pps.html", "", "div.pps", 10);
+      include("/components/store/pack/contents/com.rarefrostbites.8.1st_century/Pack Information.html", "", "div.pi-b1", 20);
+      // include("/components/store/pack/contents/com.rarefrostbites.8.1st_century/Changelogs.html", "", "div.chlgs-b1", 10);
+      include("/components/store/pack/contents/com.rarefrostbites.8.1st_century/pr.html", "", "div.pr", 10);
+      include("/components/store/pack/mfa/000001/c.html", "", "div.mfa", 20);
     </script>
     <script defer src="/js/store/assets/header.js"></script>
     <script defer src="/js/store/assets/packs.js"></script>
