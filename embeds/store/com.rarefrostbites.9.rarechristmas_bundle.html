@@ -52,12 +52,9 @@
     <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 
     <!-- css -->
-    <link rel="stylesheet" href="/styles/store/assets/body.css" />
-    <link rel="stylesheet" href="/styles/store/assets/content.css" />
+    <link rel="stylesheet" href="/styles/embeds/store/assets/body.css" />
+    <link rel="stylesheet" href="/styles/embeds/store/pack/content.css" />
     <link rel="stylesheet" href="/styles/store/assets/header.css" />
-
-    <link rel="stylesheet" href="/styles/store/pack/content.css" />
-    <link rel="stylesheet" href="/styles/store/pack/header.css" />
 
     <!--js-->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -68,9 +65,14 @@
     <script src="/js/store/language/pi-m.js"></script>
     <script src="/js/store/assets/language.js"></script>
     <script>
-      include("/components/store/pack/header.html", "", "div.header", 0);
-      include("/components/store/com.rarefrostbites.9.rarechristmas_bundle.html", "", "div.content", 0);
-      include("/components/store/pack/mfa/000001/c.html", "", "div.mfa", 0);
+      include("/components/store/assets/pack_skin.html", "", "div.content", 10);
+      include("/components/store/pack/contents/com.rarefrostbites.9.rarechristmas_bundle/pi.html", "", "div.pi", 20);
+      include("/embeds/store/pack/mfa/000001/pa.html", "", "div.pa", 10);
+      include("/embeds/store/pack/contents/com.rarefrostbites.9.rarechristmas_bundle/d.html", "", "div.d", 10);
+      include("/embeds/store/pack/contents/com.rarefrostbites.9.rarechristmas_bundle/share.html", "", "div.holder", 10);
+      include("/components/store/pack/contents/com.rarefrostbites.9.rarechristmas_bundle/pps.html", "", "div.pps", 10);
+      include("/components/store/pack/contents/com.rarefrostbites.9.rarechristmas_bundle/Pack Information.html", "", "div.pi-b1", 20);
+      // include("/components/store/pack/contents/com.rarefrostbites.9.rarechristmas_bundle/Changelogs.html", "", "div.chlgs-b1", 10);
     </script>
     <script defer src="/js/store/assets/header.js"></script>
     <script defer src="/js/store/assets/packs.js"></script>
