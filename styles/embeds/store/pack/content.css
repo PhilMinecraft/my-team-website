@@ -32,6 +32,13 @@
 }
 
 
+
+.ecp {
+    display: none;
+}
+
+
+
 .hp {
     width: 768px;
     display: flex;
@@ -184,6 +191,10 @@
 }
 .hp .ph .d a .b:active .svg_i svg {
     display: block;
+}
+
+.hp .ph .d .b_disabled {
+    display: none;
 }
 
 @media only screen and (max-width: 768px) {
@@ -395,7 +406,7 @@
 }
 
 
-.pi-b1 {
+.pi-b1, .chlgs-b1 {
     height: auto;
     margin-right: auto;
     margin-bottom: 30px;
@@ -405,21 +416,21 @@
     border: 5px #000000 solid;
 }
 
-.pi-b1 .pi-b2 {
+.pi-b1 .pi-b2, .chlgs-b1 .chlgs-b2 {
     height: auto;
     background-color: #ffffff;
     border-radius: 4px;
     border: 4px #ffffff solid;
 }
 
-.pi-b1 .pi-b2 .pi-b3 {
+.pi-b1 .pi-b2 .pi-b3, .chlgs-b1 .chlgs-b2 .chlgs-b3 {
     height: auto;
     background-color: #c6c6c6;
     border-radius: 3px;
     border: 3px #c6c6c6 solid;
 }
 
-.pi-b1 .pi-b2 .pi-b3 .pi-b4 {
+.pi-b1 .pi-b2 .pi-b3 .pi-b4, .chlgs-b1 .chlgs-b2 .chlgs-b3 .chlgs-b4 {
     height: auto;
     padding: 5px;
     background-color: #010101;
@@ -427,13 +438,13 @@
 }
 
 @media only screen and (min-width: 320px) {
-    .pi-b1 {
+    .pi-b1, .chlgs-b1 {
         width: 320px;
     }
 }
 
 @media only screen and (min-width: 640px) {
-    .pi-b1 {
+    .pi-b1, .chlgs-b1 {
         width: 640px;
     }
 }
@@ -606,6 +617,41 @@
 }
 .pi-b1 .pi-b2 .pi-b3 .pi-b4 .pi-m .player_i .s {
 
+}
+
+.pi-b1 .pi-b2 .pi-b3 .pi-b4 .chlgs-chlgs {
+    height: auto;
+    margin-bottom: 10px;
+}
+.chlgs-b1 .chlgs-b2 .chlgs-b3 .chlgs-b4 .chlgs-chlgs h5#chlgs-chlgs-unread {
+    height: 25px;
+    margin-left: auto;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.chlgs-b1 .chlgs-b2 .chlgs-b3 .chlgs-b4 .chlgs-chlgs h5#chlgs-chlgs-unread:before {
+    content: '';
+    width: 600px;
+    height: 25px;
+    position: absolute;
+    background: linear-gradient(transparent, 20px, #000000);
+    opacity: 0%;
+}
+
+.chlgs-b1 .chlgs-b2 .chlgs-b3 .chlgs-b4 .chlgs-cr {
+    display: flex;
+    height: auto;
+    margin-bottom: 10px;
+}
+.chlgs-b1 .chlgs-b2 .chlgs-b3 .chlgs-b4 .chlgs-cr h5 {
+    height: auto;
+    margin-left: auto;
+    color: #626262;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    cursor: pointer;
 }
 
 
