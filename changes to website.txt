@@ -1,9 +1,3 @@
-﻿Homepage
-- Fix the logo on larger screens caused to move to the left when scrolled down
-
-RFB Store
-- The "Embed" feature is now available in all Packs we support
-- Improved content load on every Pack
-- The "The Pack is now downloading..." popup is now available in any languages we support
-- "Link copied" popup when copying an embed code now changed into "Embed code copied" (supports many languages)
-- Fix the keyboard showing after copying an embed code
+﻿RFB Store
+- Improved content load on every Page
+- Fix the "Latest Packs" slot caused to not display Packs 
