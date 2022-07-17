@@ -1,2 +1,3 @@
 ﻿RFB Store
+- Improved content load on some Page
 - Fix the "Ya Ea" Pack's icon being squished out
