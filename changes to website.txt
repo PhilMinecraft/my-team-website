@@ -1,3 +1,2 @@
 ﻿RFB Store
-- Improved content load on every Page
-- Fix the "Latest Packs" slot caused to not display Packs 
+- Fix the "Ya Ea" Pack's icon being squished out
