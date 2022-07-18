@@ -11,7 +11,7 @@ const languageContent = {
     // Homepage
     "introduction": "We make Packs just for you.",
     "intro-rfbstore": "We made a Store just for you",
-    "intro-rfbstore-button": "Explore and Claim",
+    "intro-rfbstore-button": "Explore and Claim!",
     "intro-products":
       "We rise, we never stop there. We make products just for you",
     "soon": "COMING SOON...",
@@ -34,7 +34,7 @@ const languageContent = {
     // Homepage
     "introduction": "We make Packs just for you.",
     "intro-rfbstore": "We made a Store just for you",
-    "intro-rfbstore-button": "Explore and Claim",
+    "intro-rfbstore-button": "Explore and Claim!",
     "intro-products":
       "We rise, we never stop there. We make products just for you",
     "soon": "COMING SOON...",
@@ -82,7 +82,7 @@ const languageContent = {
     "title-contact": "I-Contact Kami",
     "introduction": "Gumagawa kami ng mga Pack para lang sa'yo",
     "intro-rfbstore": "Gumawa kami ng Store para lang sa'yo",
-    "intro-rfbstore-button": "I-Explore at i-Claim",
+    "intro-rfbstore-button": "I-Explore at i-Claim!",
     "intro-products":
       "Bumabangon kami, hindi kami nagsa-stop dyan. Gumawa kami ng mga product para lang sa'yo",
     "soon": "SA SUSUNOD...",
@@ -129,7 +129,7 @@ const languageContent = {
     // Homepage
     "introduction": "Kami membuat paket hanya untuk anda.",
     "intro-rfbstore": "Kami membuat tempat Pasar hanya untuk anda",
-    "intro-rfbstore-button": "Eksplor dan Klaim",
+    "intro-rfbstore-button": "Eksplor dan Klaim!",
     "intro-products":
       "Kami bangkit, Kami tidak akan berhenti di sana. Kami membuat produk hanya untuk anda",
     "soon": "MUNGKIN NANTI...",
@@ -244,7 +244,7 @@ const languageContent = {
     // Homepage
     "introduction": "ကျွန်ုပ်တို့သည် သင့်အတွက်သာ Packs များကို ပြုလုပ်ပါသည်။",
     "intro-rfbstore": "ကျွန်ုပ်တို့သည် သင့်အတွက်သာ ဆိုင်တစ်ခုပြုလုပ်ထားသည်။",
-    "intro-rfbstore-button": "စူးစမ်းပြီး တောင်းဆိုပါ။",
+    "intro-rfbstore-button": "စူးစမ်းပြီး တောင်းဆိုပါ။စူးစမ်းရှာဖွေပြီး အခိုင်အမာပြောပါ!",
     "intro-products":
       "ငါတို့ထတယ်၊ ငါတို့အဲဒီမှာဘယ်တော့မှမရပ်ဘူး။ ကျွန်ုပ်တို့သည် သင့်အတွက်သာ ထုတ်ကုန်များကို ပြုလုပ်ပါသည်။",
     "soon": "မကြာမီလာမည်...",
