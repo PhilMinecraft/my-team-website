@@ -10,7 +10,6 @@ function closeLanguage() {
 }
 
 setTimeout(function () {
-  $("*[data-cr-date]").text(DtUv29x0() - 1 + " - " + DtUv29x0());
   $(".current>img")
     .attr(
       "src",
@@ -28,9 +27,5 @@ setTimeout(function () {
       "US"
     ).toUpperCase()
   );
+  $("*[data-cr-date]").text(DtUv29x0() - 1 + " - " + DtUv29x0());
 }, 500);
-
-// const current = $("#current").click(() => {
-//   $("#selection").toggle();
-//   $("#language").toggle();
-// });
