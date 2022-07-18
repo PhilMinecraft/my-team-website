@@ -1,4 +1,7 @@
-﻿RFB Store
-- Improved content load on some Page
-- Fix the "Ya Ea" Pack's icon being squished out
-- Added "About Pack" section where you can see the Pack Size, Released, Pack Version, Pack Type, Platform and License (only on Ya Ea)
+﻿Main
+- Font scaling tweaked
+
+Homepage
+- A little tweak to the homepage and other pages related
+- Better content loading after changing a language (now it'll display words immediately based on what language you choose)
+- Fix the language selector don't display the current language (only stuck at English (US) language flag and code)
