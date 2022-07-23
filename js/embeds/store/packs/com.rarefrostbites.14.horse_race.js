@@ -16,6 +16,10 @@ function contentLoadtwo() {
   include("/components/store/pack/contents/com.rarefrostbites.14.horse_race/pps.html", "", "div.pps", 0);
   include("/components/store/pack/contents/com.rarefrostbites.14.horse_race/Pack Information.html", "", "div.pi-b1", 0);
   // include("/components/store/pack/contents/com.rarefrostbites.14.horse_race/Changelogs.html", "", "div.chlgs-b1", 0);
+  setTimeout(contentLoadlanguage, 200);
+}
+
+function contentLoadlanguage() {
   setTimeout(initializeLanguage, 2000);
   setTimeout(PackLanguage, 2000);
 }

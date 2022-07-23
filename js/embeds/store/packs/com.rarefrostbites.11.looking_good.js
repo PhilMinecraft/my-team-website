@@ -16,6 +16,10 @@ function contentLoadtwo() {
   include("/components/store/pack/contents/com.rarefrostbites.11.looking_good/pps.html", "", "div.pps", 0);
   include("/components/store/pack/contents/com.rarefrostbites.11.looking_good/Pack Information.html", "", "div.pi-b1", 0);
   // include("/components/store/pack/contents/com.rarefrostbites.11.looking_good/Changelogs.html", "", "div.chlgs-b1", 0);
+  setTimeout(contentLoadlanguage, 200);
+}
+
+function contentLoadlanguage() {
   setTimeout(initializeLanguage, 2000);
   setTimeout(PackLanguage, 2000);
 }
