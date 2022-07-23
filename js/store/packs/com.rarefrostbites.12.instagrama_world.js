@@ -18,6 +18,10 @@ function contentLoadtwo() {
   // include("/components/store/pack/contents/com.rarefrostbites.12.instagrama_world/Changelogs.html", "", "div.chlgs-b1", 0);
   include("/components/store/pack/contents/com.rarefrostbites.12.instagrama_world/pr.html", "", "div.pr", 0);
   include("/components/store/pack/mfa/000001/4.html", "", "div.mfa", 60);
+  setTimeout(contentLoadlanguage, 200);
+}
+
+function contentLoadlanguage() {
   setTimeout(initializeLanguage, 2000);
   setTimeout(PackLanguage, 2000);
 }

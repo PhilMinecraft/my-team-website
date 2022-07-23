@@ -19,6 +19,10 @@ function contentLoadtwo() {
   include("/components/store/pack/contents/com.rarefrostbites.10.ya_ea/About Pack.html", "", "div.ab-b1", 0);
   include("/components/store/pack/contents/com.rarefrostbites.10.ya_ea/pr.html", "", "div.pr", 0);
   include("/components/store/pack/mfa/000001/c.html", "", "div.mfa", 60);
+  setTimeout(contentLoadlanguage, 200);
+}
+
+function contentLoadlanguage() {
   setTimeout(initializeLanguage, 2000);
   setTimeout(PackLanguage, 2000);
 }
