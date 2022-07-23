@@ -6,19 +6,26 @@ function contentLoadstart() {
 
 function contentLoadone() {
   include("/components/store/pack/contents/com.rarefrostbites.10.ya_ea/pi.html", "", "div.pi", 0);
-  include("/embeds/store/pack/mfa/000001/pa.html", "", "div.pa", 0);
-  include("/embeds/store/pack/contents/com.rarefrostbites.10.ya_ea/d.html", "", "div.d", 0);
-  include("/embeds/store/pack/contents/com.rarefrostbites.10.ya_ea/share.html", "", "div.holder", 0);
+  include("/components/store/pack/mfa/000001/pa.html", "", "div.pa", 0);
+  include("/components/store/pack/contents/com.rarefrostbites.10.ya_ea/d.html", "", "div.d", 0);
+  include("/components/store/pack/contents/com.rarefrostbites.10.ya_ea/share.html", "", "div.holder", 0);
   setTimeout(contentLoadtwo, 10);
 }
 
 function contentLoadtwo() {
-  include("/components/store/pack/contents/com.rarefrostbites.10.ya_ea/pps.html", "", "div.pps", 0);
+  include("/components/store/pack/contents/com.rarefrostbites.10.ya_ea/pps.html", "", "div.pps", 50);
   include("/components/store/pack/contents/com.rarefrostbites.10.ya_ea/Pack Information.html", "", "div.pi-b1", 0);
   // include("/components/store/pack/contents/com.rarefrostbites.10.ya_ea/Changelogs.html", "", "div.chlgs-b1", 0);
   include("/components/store/pack/contents/com.rarefrostbites.10.ya_ea/About Pack.html", "", "div.ab-b1", 0);
+  include("/components/store/pack/contents/com.rarefrostbites.10.ya_ea/pr.html", "", "div.pr", 0);
+  include("/components/store/pack/mfa/000001/c.html", "", "div.mfa", 60);
   setTimeout(initializeLanguage, 2000);
   setTimeout(PackLanguage, 2000);
+}
+
+function contentLoadembed_p() {
+  include("/components/store/pack/contents/com.rarefrostbites.10.ya_ea/iframeembed.html", "", "div.iframe", 0);
+  include("/components/store/pack/contents/com.rarefrostbites.10.ya_ea/embedcode.html", "", "div.btn", 0);
 }
 
 
