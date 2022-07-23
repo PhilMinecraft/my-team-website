@@ -1,3 +1,35 @@
+contentLoadstart();
+
+function contentLoadstart() {
+  setTimeout(contentLoadone, 100);
+}
+
+function contentLoadone() {
+  include("/components/store/pack/contents/com.rarefrostbites.15.survival_grounds/pi.html", "", "div.pi", 0);
+  include("/components/store/pack/mfa/000001/pa.html", "", "div.pa", 0);
+  include("/components/store/pack/contents/com.rarefrostbites.15.survival_grounds/d.html", "", "div.d", 0);
+  include("/components/store/pack/contents/com.rarefrostbites.15.survival_grounds/share.html", "", "div.holder", 0);
+  setTimeout(contentLoadtwo, 10);
+}
+
+function contentLoadtwo() {
+  include("/components/store/pack/contents/com.rarefrostbites.15.survival_grounds/pps.html", "", "div.pps", 50);
+  include("/components/store/pack/contents/com.rarefrostbites.15.survival_grounds/Pack Information.html", "", "div.pi-b1", 0);
+  // include("/components/store/pack/contents/com.rarefrostbites.15.survival_grounds/Changelogs.html", "", "div.chlgs-b1", 0);
+  include("/components/store/pack/contents/com.rarefrostbites.15.survival_grounds/pr.html", "", "div.pr", 0);
+  include("/components/store/pack/mfa/000001/2.html", "", "div.mfa", 60);
+  setTimeout(initializeLanguage, 2000);
+  setTimeout(PackLanguage, 2000);
+}
+
+function contentLoadembed_p() {
+  include("/components/store/pack/contents/com.rarefrostbites.15.survival_grounds/iframeembed.html", "", "div.iframe", 0);
+  include("/components/store/pack/contents/com.rarefrostbites.15.survival_grounds/embedcode.html", "", "div.btn", 0);
+}
+
+
+
+
 "use strict";
 
 const languagePack = {
