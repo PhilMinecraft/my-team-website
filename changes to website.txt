@@ -1,7 +1,3 @@
-﻿Main
-- Font scaling tweaked
-
-Homepage
-- A little tweak to the homepage and other pages related
-- Better content loading after changing a language (now it'll display words immediately based on what language you choose)
-- Fix the language selector don't display the current language (only stuck at English (US) language flag and code)
+﻿RFB Store
+- You won't need to refresh your browser because we improved the content load, faster loading times but still, contents will load
+- We make the "Embed" preview size more smaller for small as 300 pixels average tall size screen
