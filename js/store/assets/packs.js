@@ -62,6 +62,12 @@ function hidecopyembedcode() {
 
 
 
+function openECPload() {
+  setTimeout(contentLoadembed_p, 100);
+  document.getElementById("openECP").onclick = openECP;
+  openECP();
+}
+
 function openECP() {
   document.getElementById("ecp").style.display = "flex";
 }
