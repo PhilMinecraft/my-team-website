@@ -63,37 +63,16 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="/js/include.components.js"></script>
 
-    <script src="/js/store/packs/com.rarefrostbites.15.survival_grounds.js"></script>
+    <script defer src="/js/store/packs/com.rarefrostbites.15.survival_grounds.js"></script>
     <script src="/js/store/language/initialize.js"></script>
     <script src="/js/store/language/pi-m.js"></script>
     <script src="/js/store/assets/language.js"></script>
     <script defer>
       include("/components/store/pack/header.html", "", "div.header", 0);
       include("/components/store/assets/pack_map.html", "", "div.content", 50);
-      include("/components/store/pack/contents/com.rarefrostbites.15.survival_grounds/iframeembed.html", "", "div.iframe", 50);
-      include("/components/store/pack/contents/com.rarefrostbites.15.survival_grounds/embedcode.html", "", "div.btn", 10);
-      include("/components/store/pack/contents/com.rarefrostbites.15.survival_grounds/pi.html", "", "div.pi", 50);
-      include("/components/store/pack/mfa/000001/pa.html", "", "div.pa", 50);
-      include("/components/store/pack/contents/com.rarefrostbites.15.survival_grounds/d.html", "", "div.d", 50);
-      include("/components/store/pack/contents/com.rarefrostbites.15.survival_grounds/share.html", "", "div.holder", 50);
-      include("/components/store/pack/contents/com.rarefrostbites.15.survival_grounds/pps.html", "", "div.pps", 50);
-      include("/components/store/pack/contents/com.rarefrostbites.15.survival_grounds/Pack Information.html", "", "div.pi-b1", 50);
-      // include("/components/store/pack/contents/com.rarefrostbites.15.survival_grounds/Changelogs.html", "", "div.chlgs-b1", 50);
-      include("/components/store/pack/contents/com.rarefrostbites.15.survival_grounds/pr.html", "", "div.pr", 50);
-      include("/components/store/pack/mfa/000001/1.html", "", "div.mfa", 50);
     </script>
     <script defer src="/js/store/assets/header.js"></script>
     <script defer src="/js/store/assets/packs.js"></script>
-    <script defer>
-      $(function () {
-        setTimeout(initializeLanguage, 500);
-      });
-      
-      
-      $(function () {
-        setTimeout(PackLanguage, 500);
-      });
-    </script>
     <script src="https://www.powr.io/powr.js?platform=html"></script>
   </head>
   <body>
@@ -104,8 +83,6 @@
       <div class="popup-remove"></div>
 
       <div id="header" class="header"></div>
-
-      <div id="mobile-sidebar-area" class="mobile-sidebar"></div>
 
       <div class="content"></div>
     </div>
