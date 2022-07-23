@@ -179,6 +179,13 @@
     }
 }
 
+
+@media only screen and (max-height: 597px) {
+    .ecp .e .iframe {
+        max-height: 297px;
+    }
+}
+
 .ecp .e .controller {
     display: flex;
     height: 150px !important;
