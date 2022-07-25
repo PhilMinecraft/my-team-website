@@ -99,6 +99,9 @@
     border: 5px #000000 solid;
 }
 .ecp .e .emb .emb-b1:last-child {
+    position: -webkit-sticky;
+    position: sticky;
+    bottom: 0;
     margin-bottom: 0px;
 }
 .ecp .e .emb .emb-b1 .emb-b2 {
@@ -183,6 +186,13 @@
 @media only screen and (max-height: 597px) {
     .ecp .e .iframe {
         max-height: 297px;
+    }
+}
+
+
+@media only screen and (max-height: 494px) {
+    .ecp .e .emb .emb-b1:last-child {
+        position: static;
     }
 }
 
